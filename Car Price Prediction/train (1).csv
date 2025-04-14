@@ -1,0 +1,2421 @@
+car ID,model_year,maker,model_name,city,distance_covered (km),fuel_type,transmission_type,pre_owner,price
+0,2016,Hyundai,Grand i10,Chennai,68788,Petrol,Manual,2nd Owner,453599
+1,2010,Hyundai,i20,Hyderabad,68124,Petrol,Manual,2nd Owner,330999
+2,2017,Maruti,Baleno,Hyderabad,59880,Petrol,Manual,1st Owner,674599
+3,2009,Maruti,Alto,New Delhi,38347,Petrol,Manual,1st Owner,145199
+4,2010,Hyundai,Santro Xing,Hyderabad,74111,Petrol,Manual,1st Owner,230199
+5,2015,Hyundai,Eon,Chennai,40102,Petrol,Manual,1st Owner,290899
+6,2014,Hyundai,Grand i10,New Delhi,53962,Petrol,Manual,1st Owner,412499
+7,2013,Maruti,Swift Dzire,Hyderabad,227373,Diesel,Manual,1st Owner,433599
+8,2017,Honda,City,Mumbai,22018,Petrol,Manual,2nd Owner,657499
+9,2016,Maruti,Ertiga,Mumbai,55926,Diesel,Manual,1st Owner,762699
+10,2010,Hyundai,i10,Mumbai,35915,Petrol,Manual,1st Owner,261199
+11,2014,Maruti,Swift,Bengaluru,51232,Petrol,Manual,1st Owner,488499
+12,2014,Maruti,Celerio,Bengaluru,63902,Petrol,Automatic,1st Owner,387899
+13,2015,Maruti,Swift,Mumbai,34684,Petrol,Manual,1st Owner,445699
+14,2016,Maruti,Celerio,Chennai,31905,Petrol,Manual,1st Owner,408299
+15,2017,Ford,Ecosport,Noida,14976,Petrol,Automatic,2nd Owner,728299
+16,2019,Hyundai,Verna,Pune,6613,Petrol,Manual,1st Owner,936399
+17,2014,Hyundai,Santro Xing,Noida,58661,Petrol,Manual,1st Owner,287199
+18,2007,Hyundai,Santro Xing,Hyderabad,72130,Petrol,Manual,1st Owner,152199
+19,2011,Maruti,Alto,Chennai,17463,Petrol,Manual,1st Owner,251499
+20,2015,Maruti,Celerio,Pune,3602,Petrol,Automatic,1st Owner,391699
+21,2017,Maruti,Dzire,Noida,57144,Petrol,Manual,2nd Owner,456199
+22,2018,Maruti,Wagon R 1.0,Ahmedabad,13779,Petrol,Manual,1st Owner,413399
+23,2018,Maruti,IGNIS,Chennai,15813,Petrol,Manual,1st Owner,519799
+24,2016,Maruti,Alto 800,Mumbai,47995,Petrol,Manual,1st Owner,257299
+25,2015,Hyundai,Elite i20,Kolkata,45720,Petrol,Manual,1st Owner,604199
+26,2017,Hyundai,Creta,Noida,45259,Diesel,Manual,1st Owner,836199
+27,2011,Hyundai,i10,Hyderabad,79359,Petrol,Automatic,1st Owner,336299
+28,2018,Maruti,Swift,Bengaluru,34812,Diesel,Manual,1st Owner,693199
+29,2017,Maruti,Baleno,Noida,45789,Petrol,Automatic,1st Owner,528999
+30,2011,Hyundai,i20,Bengaluru,24700,Petrol,Manual,2nd Owner,369499
+31,2011,Maruti,Ritz,Bengaluru,27561,Petrol,Manual,2nd Owner,342099
+32,2012,Hyundai,Verna,Mumbai,60447,Diesel,Manual,1st Owner,401000
+33,2015,Hyundai,Elite i20,Chennai,55425,Petrol,Manual,1st Owner,541499
+34,2018,Maruti,Wagon R 1.0,Kolkata,28051,Petrol,Automatic,1st Owner,405599
+35,2016,Maruti,Celerio,Chennai,42413,Petrol,Automatic,1st Owner,418299
+36,2014,Maruti,Alto 800,Kolkata,136969,Petrol,Manual,1st Owner,326999
+37,2017,Maruti,Vitara Brezza,Ahmedabad,94193,Diesel,Manual,1st Owner,662299
+38,2012,Maruti,Alto K10,Hyderabad,28852,Petrol,Manual,2nd Owner,256499
+39,2014,Maruti,Ertiga,Noida,49692,Diesel,Manual,1st Owner,475099
+40,2008,Hyundai,i10,Hyderabad,89270,Petrol,Manual,1st Owner,247599
+41,2014,Maruti,Celerio,Hyderabad,141639,Petrol,Automatic,3rd Owner,319599
+42,2013,Maruti,Swift,Chennai,88137,Diesel,Manual,2nd Owner,420099
+43,2019,Renault,Kwid,New Delhi,16221,Petrol,Manual,1st Owner,352399
+44,2014,Maruti,Swift,Chennai,3423,Petrol,Manual,1st Owner,478699
+45,2015,Hyundai,Eon,Noida,14940,Petrol,Manual,1st Owner,277699
+46,2013,Maruti,Swift,Ahmedabad,94181,Diesel,Manual,1st Owner,370000
+47,2014,Maruti,Wagon R 1.0,Patna,48655,Petrol,Manual,1st Owner,296799
+48,2015,Hyundai,i10,Kolkata,14316,Petrol,Manual,1st Owner,338699
+49,2015,Honda,Brio,Bengaluru,51991,Petrol,Manual,1st Owner,480099
+50,2013,Hyundai,i20,Mumbai,57539,Petrol,Manual,4th Owner,322599
+51,2014,Maruti,Wagon R 1.0,Mumbai,20071,Petrol,Manual,1st Owner,355099
+52,2010,Maruti,Swift Dzire,Pune,110215,Diesel,Manual,1st Owner,289299
+53,2011,Maruti,Swift Dzire,New Delhi,57458,Petrol,Manual,1st Owner,261799
+54,2019,Maruti,Alto 800,Ahmedabad,90332,Petrol + CNG,Manual,1st Owner,313399
+55,2017,Renault,Kwid,Kolkata,22848,Petrol,Automatic,1st Owner,389899
+56,2019,Hyundai,Grand i10,Ahmedabad,6499,Petrol,Manual,1st Owner,577999
+57,2018,Maruti,Alto K10,Chennai,30899,Petrol,Manual,1st Owner,319999
+58,2015,Maruti,Alto 800,Pune,9969,Petrol,Manual,1st Owner,278599
+59,2019,Maruti,Baleno,Ahmedabad,6531,Petrol,Manual,1st Owner,608899
+60,2013,Maruti,Swift,Noida,134421,Diesel,Manual,1st Owner,299299
+61,2014,Hyundai,i10,Kolkata,1502,Petrol,Manual,1st Owner,351499
+62,2015,Honda,City,Chennai,42617,Petrol,Manual,2nd Owner,599699
+63,2017,Maruti,Alto K10,New Delhi,31679,Petrol,Manual,1st Owner,395299
+64,2018,Maruti,Alto 800,New Delhi,29465,Petrol,Manual,1st Owner,280000
+65,2018,Hyundai,Grand i10,New Delhi,41442,Diesel,Manual,1st Owner,440000
+66,2017,Hyundai,Elite i20,Chennai,36416,Petrol,Manual,1st Owner,591499
+67,2018,Maruti,Baleno,Noida,28226,Petrol,Manual,1st Owner,496299
+68,2017,Hyundai,Grand i10,Bengaluru,14308,Petrol,Manual,2nd Owner,531599
+69,2017,Maruti,Celerio,Pune,6747,Petrol,Automatic,1st Owner,448199
+70,2012,Honda,Brio,New Delhi,27417,Petrol,Manual,1st Owner,288099
+71,2017,Maruti,Swift,Chennai,15308,Petrol,Manual,1st Owner,575999
+72,2016,Hyundai,Grand i10,New Delhi,49273,Petrol,Manual,1st Owner,402000
+73,2010,Hyundai,i10,Pune,66817,Petrol,Manual,1st Owner,212199
+74,2017,Hyundai,Creta,Hyderabad,79936,Diesel,Automatic,1st Owner,1080999
+75,2019,Maruti,Baleno,Noida,11080,Petrol,Manual,1st Owner,597899
+76,2016,Maruti,Celerio,Hyderabad,33461,Petrol,Automatic,1st Owner,456599
+77,2019,Hyundai,NEW SANTRO,Kolkata,3616,Petrol,Manual,1st Owner,534399
+78,2017,Maruti,Celerio,Mumbai,22606,Petrol,Automatic,1st Owner,450000
+79,2017,Maruti,Swift,Noida,24609,Petrol,Manual,1st Owner,476199
+80,2016,Maruti,Baleno,Mumbai,50022,Petrol,Manual,1st Owner,551599
+81,2012,Honda,City,Pune,141020,Petrol,Manual,2nd Owner,375199
+82,2017,Maruti,Eeco,New Delhi,21722,Petrol,Manual,1st Owner,322999
+83,2018,Maruti,Dzire,Noida,29001,Diesel,Manual,1st Owner,647099
+84,2017,Renault,Kwid,Kolkata,54650,Petrol,Manual,1st Owner,336599
+85,2013,Maruti,Swift Dzire,Chennai,64654,Petrol,Manual,1st Owner,402599
+86,2014,Maruti,Wagon R 1.0,Mumbai,65159,Petrol + CNG,Manual,2nd Owner,338000
+87,2016,Maruti,Vitara Brezza,Pune,59284,Diesel,Manual,1st Owner,757899
+88,2012,Hyundai,i10,Bengaluru,54131,Petrol,Manual,1st Owner,362399
+89,2013,Maruti,Ritz,Noida,66549,Diesel,Manual,1st Owner,262799
+90,2010,Hyundai,i10,Hyderabad,55317,Petrol,Manual,1st Owner,291099
+91,2011,Hyundai,Santro Xing,Hyderabad,88944,Petrol,Manual,1st Owner,224499
+92,2020,Honda,City,Noida,15981,Petrol,,1st Owner,998899
+93,2013,Maruti,Swift,Patna,56996,Petrol,Manual,2nd Owner,311599
+94,2014,Maruti,Wagon R 1.0,Kolkata,37850,Petrol,Manual,1st Owner,326799
+95,2017,Hyundai,Elite i20,Ahmedabad,96155,Diesel,Manual,1st Owner,577199
+96,2018,Hyundai,NEW SANTRO,Pune,10105,Petrol,,1st Owner,479299
+97,2014,Hyundai,Grand i10,Noida,21591,Petrol,Manual,2nd Owner,375399
+98,2013,Hyundai,i20,New Delhi,43257,Diesel,Manual,1st Owner,366000
+99,2015,Hyundai,Eon,New Delhi,39323,Petrol,Manual,1st Owner,252000
+100,2014,Honda,Amaze,Kolkata,48596,Petrol,Manual,1st Owner,421799
+101,2020,Maruti,Eeco,Ahmedabad,6708,Petrol,Manual,1st Owner,491399
+102,2017,Maruti,Alto 800,Chennai,35253,Petrol,Manual,1st Owner,316499
+103,2016,Maruti,Alto K10,New Delhi,15471,Petrol,Manual,1st Owner,350699
+104,2019,Maruti,Eeco,Ahmedabad,26017,Petrol,Manual,1st Owner,457399
+105,2019,Hyundai,Grand i10,Pune,10053,Petrol,Manual,1st Owner,587099
+106,2010,Hyundai,i10,Bengaluru,78003,Petrol,Manual,2nd Owner,327099
+107,2019,Renault,Kwid,Ahmedabad,16897,Petrol,Manual,1st Owner,362899
+108,2019,Maruti,Eeco,Bengaluru,24032,Petrol,Manual,1st Owner,447399
+109,2015,Hyundai,Creta,Ahmedabad,66816,Diesel,Manual,1st Owner,778399
+110,2018,Maruti,Dzire,Bengaluru,17431,Petrol,Manual,1st Owner,672799
+111,2018,Hyundai,Elite i20,Chennai,25870,Petrol,Manual,2nd Owner,573499
+112,2016,Hyundai,Eon,Ahmedabad,61857,Petrol,Manual,2nd Owner,244899
+113,2013,Honda,Amaze,Pune,102171,Diesel,Manual,2nd Owner,313099
+114,2012,Maruti,Swift Dzire,Kolkata,65238,Petrol,Manual,1st Owner,417399
+115,2016,Hyundai,i10,Chennai,59780,Petrol,Manual,1st Owner,413599
+116,2013,Maruti,Swift,Noida,50647,Diesel,Manual,2nd Owner,327299
+117,2016,Hyundai,i10,Kolkata,16014,Petrol,Manual,1st Owner,300000
+118,2012,Maruti,Alto 800,Bengaluru,66518,Petrol,Manual,1st Owner,243799
+119,2017,Maruti,Alto K10,Hyderabad,16568,Petrol,Manual,1st Owner,352499
+120,2012,Maruti,Alto 800,New Delhi,58918,Petrol,Manual,1st Owner,185000
+121,2010,Hyundai,i10,Chennai,73206,Petrol,Manual,3rd Owner,241899
+122,2013,Maruti,Alto K10,Hyderabad,94804,Petrol,Manual,1st Owner,247099
+123,2016,Maruti,Baleno,Noida,107803,Diesel,Manual,1st Owner,495899
+124,2017,Maruti,Swift,Ahmedabad,50241,Diesel,Manual,1st Owner,515099
+125,2013,Hyundai,Eon,Chennai,62306,Petrol,Manual,1st Owner,229899
+126,2017,Maruti,Swift,Noida,58074,Petrol,Manual,1st Owner,528699
+127,2019,Maruti,Vitara Brezza,Pune,48152,Diesel,Manual,1st Owner,960199
+128,2018,Maruti,Alto K10,Chennai,6282,Petrol,Manual,1st Owner,389699
+129,2016,Hyundai,Grand i10,Patna,25949,Petrol,Manual,1st Owner,372399
+130,2018,Hyundai,Creta,Pune,39511,Petrol,Automatic,1st Owner,1134699
+131,2018,Maruti,Celerio,Ahmedabad,8663,Petrol,Manual,1st Owner,453199
+132,2019,Hyundai,Elite i20,Pune,6612,Petrol,Manual,1st Owner,657999
+133,2018,Hyundai,Creta,Noida,30934,Diesel,,1st Owner,922299
+134,2020,Maruti,Dzire,Ahmedabad,5771,Petrol,Manual,1st Owner,670099
+135,2017,Hyundai,Elite i20,Chennai,41729,Diesel,Manual,1st Owner,661999
+136,2016,Maruti,Baleno,New Delhi,33001,Diesel,Manual,1st Owner,512199
+137,2020,Renault,Kwid,Noida,3252,Petrol,Automatic,1st Owner,419399
+138,2017,Honda,Jazz,Mumbai,41851,Petrol,Manual,1st Owner,526999
+139,2013,Maruti,Wagon R 1.0,Bengaluru,72925,Petrol,Manual,1st Owner,344499
+140,2017,Maruti,Alto K10,Mumbai,38079,Petrol,Manual,2nd Owner,308199
+141,2016,Hyundai,Eon,Kolkata,33886,Petrol,Manual,1st Owner,345499
+142,2017,Renault,Kwid,Mumbai,32368,Petrol,Manual,1st Owner,397399
+143,2019,Hyundai,VENUE,Mumbai,11482,Diesel,Manual,1st Owner,963399
+144,2015,Honda,Jazz,Mumbai,22168,Petrol,Manual,1st Owner,485000
+145,2013,Maruti,Swift Dzire,Ahmedabad,79182,Petrol,Manual,1st Owner,409299
+146,2017,Maruti,Eeco,Ahmedabad,32968,Petrol,Manual,1st Owner,377799
+147,2019,Maruti,Ertiga,Noida,20173,Petrol,Manual,1st Owner,806199
+148,2011,Hyundai,i10,Bengaluru,53572,Petrol,Manual,1st Owner,367299
+149,2012,Maruti,Wagon R 1.0,Hyderabad,131884,Petrol,Manual,2nd Owner,296499
+150,2015,Hyundai,Eon,Pune,19467,Petrol,Manual,1st Owner,289799
+151,2017,Renault,Kwid,Kolkata,20238,Petrol,Manual,1st Owner,296399
+152,2019,Maruti,Alto K10,Noida,13026,Petrol,Manual,2nd Owner,344799
+153,2013,Maruti,Swift,Bengaluru,52206,Diesel,Manual,1st Owner,516399
+154,2013,Hyundai,i10,Bengaluru,56861,Petrol,Manual,2nd Owner,359699
+155,2015,Hyundai,Grand i10,Patna,52607,Petrol,Manual,2nd Owner,370399
+156,2009,Hyundai,i10,Hyderabad,88322,Petrol,Manual,1st Owner,226599
+157,2020,Maruti,Eeco,Chennai,3351,Petrol,Manual,1st Owner,473299
+158,2015,Honda,City,Noida,55873,Petrol,Automatic,1st Owner,691099
+159,2015,Maruti,Alto K10,New Delhi,42232,Petrol,Manual,1st Owner,285099
+160,2014,Maruti,Ertiga,Noida,104187,Diesel,Manual,1st Owner,404999
+161,2017,Honda,Amaze,Patna,22489,Petrol,Manual,1st Owner,454499
+162,2011,Hyundai,Verna,Mumbai,52355,Petrol,Manual,2nd Owner,365000
+163,2017,Maruti,Ertiga,Ahmedabad,69917,Diesel,Manual,1st Owner,728999
+164,2020,Maruti,Eeco,Ahmedabad,5170,Petrol,Manual,1st Owner,471099
+165,2016,Hyundai,Elite i20,New Delhi,43806,Petrol,Manual,1st Owner,534899
+166,2020,Maruti,Eeco,Ahmedabad,4152,Petrol,Manual,1st Owner,495099
+167,2020,Maruti,Baleno,Noida,17812,Petrol,Manual,1st Owner,557499
+168,2014,Maruti,Swift,Mumbai,39841,Petrol,Manual,1st Owner,427000
+169,2018,Honda,Amaze,Noida,56926,Diesel,Manual,1st Owner,556899
+170,2012,Maruti,Alto K10,Hyderabad,94205,Petrol,Manual,2nd Owner,243699
+171,2017,Hyundai,Verna,Ahmedabad,84848,Petrol,Manual,1st Owner,744399
+172,2014,Ford,Ecosport,Mumbai,22724,Petrol,Manual,1st Owner,550000
+173,2018,Ford,Ecosport,Mumbai,35295,Petrol,Manual,1st Owner,750699
+174,2016,Hyundai,Creta,Pune,116746,Petrol,Manual,1st Owner,857399
+175,2014,Maruti,Wagon R 1.0,Ahmedabad,37063,Petrol,Manual,2nd Owner,331399
+176,2018,Maruti,Dzire,Bengaluru,12175,Petrol,Manual,1st Owner,678799
+177,2015,Maruti,Celerio,Bengaluru,46479,Petrol,Manual,1st Owner,406999
+178,2013,Honda,Brio,Mumbai,68916,Petrol,Manual,1st Owner,294199
+179,2014,Hyundai,i10,Bengaluru,49235,Petrol,Manual,2nd Owner,362899
+180,2019,Maruti,Ciaz,Chennai,43775,Petrol,,1st Owner,859699
+181,2018,Maruti,Ciaz,Mumbai,17935,Petrol,,1st Owner,807599
+182,2013,Honda,City,Noida,40028,Petrol,Manual,2nd Owner,375299
+183,2018,Maruti,Alto 800,Chennai,17703,Petrol,Manual,2nd Owner,362999
+184,2017,Maruti,Alto 800,Ahmedabad,33321,Petrol,Manual,1st Owner,283899
+185,2016,Maruti,Baleno,Mumbai,22768,Petrol,,1st Owner,650000
+186,2017,Maruti,Alto 800,Noida,8501,Petrol,Manual,1st Owner,293799
+187,2012,Maruti,Alto,Chennai,50410,Petrol,Manual,1st Owner,214599
+188,2011,Maruti,Wagon R 1.0,Noida,60621,Petrol + CNG,Manual,1st Owner,228499
+189,2011,Maruti,Alto K10,New Delhi,24353,Petrol,Manual,1st Owner,219899
+190,2019,Maruti,Swift,Hyderabad,26143,Petrol,Automatic,2nd Owner,605299
+191,2018,Maruti,Alto 800,Ahmedabad,18002,Petrol,Manual,1st Owner,301499
+192,2018,Hyundai,NEW SANTRO,Bengaluru,17323,Petrol,Manual,1st Owner,538199
+193,2018,Ford,Ecosport,Pune,14354,Diesel,Manual,1st Owner,960599
+194,2013,Maruti,Swift,New Delhi,76608,Diesel,Manual,1st Owner,354799
+195,2019,Renault,Kwid,New Delhi,29104,Petrol,Manual,1st Owner,330899
+196,2014,Hyundai,Eon,Kolkata,22179,Petrol,Manual,1st Owner,275899
+197,2014,Hyundai,i20,Kolkata,30738,Petrol,Manual,1st Owner,348299
+198,2019,Maruti,Swift,Chennai,2484,Petrol,Manual,1st Owner,586699
+199,2018,Ford,Ecosport,Noida,51732,Diesel,Manual,2nd Owner,634099
+200,2019,Hyundai,VENUE,New Delhi,3211,Petrol,Automatic,1st Owner,1101499
+201,2018,Maruti,Wagon R 1.0,Hyderabad,19727,Petrol,Manual,2nd Owner,437099
+202,2010,Hyundai,i10,Bengaluru,40429,Petrol,Manual,1st Owner,274199
+203,2017,Maruti,Wagon R 1.0,Pune,33826,Petrol,Manual,1st Owner,421699
+204,2011,Hyundai,i10,Ahmedabad,42585,Petrol,Manual,1st Owner,265499
+205,2010,Maruti,Alto,Bengaluru,32291,Petrol,Manual,1st Owner,227599
+206,2019,Hyundai,Creta,Noida,31604,Diesel,,1st Owner,971499
+207,2017,Maruti,Baleno,Kolkata,26028,Petrol,Manual,1st Owner,750699
+208,2012,Maruti,Ritz,Pune,104517,Diesel,Manual,1st Owner,300299
+209,2016,Hyundai,Elite i20,Ahmedabad,105247,Diesel,Manual,1st Owner,565099
+210,2018,Maruti,Vitara Brezza,Ahmedabad,54879,Diesel,Manual,1st Owner,775599
+211,2018,Maruti,Dzire,Pune,39000,Diesel,Manual,1st Owner,775799
+212,2013,Hyundai,i20,Noida,56067,Petrol,Manual,1st Owner,318699
+213,2020,Maruti,Eeco,Chennai,8721,Petrol,Manual,1st Owner,499599
+214,2011,Maruti,Swift,Mumbai,45731,Diesel,Manual,1st Owner,390000
+215,2013,Maruti,Swift Dzire,Pune,53675,Diesel,Manual,1st Owner,457299
+216,2017,Honda,Jazz,Chennai,38330,Petrol,Manual,2nd Owner,547099
+217,2015,Maruti,Ciaz,Pune,38851,Petrol,Manual,1st Owner,621799
+218,2012,Maruti,Swift,New Delhi,115605,Diesel,Manual,1st Owner,278499
+219,2018,Maruti,Swift,New Delhi,4482,Petrol,Manual,1st Owner,516399
+220,2016,Hyundai,Grand i10,Mumbai,19393,Petrol,Automatic,1st Owner,548000
+221,2015,Maruti,Swift,Ahmedabad,77540,Diesel,Manual,1st Owner,426299
+222,2016,Honda,Jazz,Pune,46051,Petrol,Manual,2nd Owner,496399
+223,2016,Maruti,Vitara Brezza,New Delhi,31383,Diesel,Manual,1st Owner,702000
+224,2009,Maruti,Alto,Hyderabad,89568,Petrol,Manual,1st Owner,162799
+225,2018,Maruti,Vitara Brezza,Pune,34666,Diesel,Automatic,1st Owner,891699
+226,2020,Honda,City,Noida,16957,Petrol,Manual,1st Owner,973499
+227,2017,Maruti,Baleno,Noida,29886,Diesel,Manual,1st Owner,572399
+228,2011,Maruti,Alto,Hyderabad,36704,Petrol,Manual,2nd Owner,219199
+229,2016,Volkswagen,Polo,Pune,27957,Petrol,Manual,1st Owner,505599
+230,2010,Maruti,Alto K10,Bengaluru,70185,Petrol,Manual,1st Owner,256199
+231,2016,Maruti,Ciaz,Pune,143429,Diesel,Manual,2nd Owner,607399
+232,2018,Maruti,Dzire,New Delhi,24894,Diesel,Manual,1st Owner,503599
+233,2015,Hyundai,Grand i10,New Delhi,34152,Petrol,Manual,1st Owner,466899
+234,2018,Hyundai,Elite i20,Pune,32813,Petrol,,1st Owner,672699
+235,2016,Hyundai,Elite i20,Hyderabad,28722,Petrol,Manual,1st Owner,624099
+236,2018,Maruti,Alto 800,Hyderabad,51080,Petrol,Manual,1st Owner,308199
+237,2016,Renault,Kwid,Chennai,62491,Petrol,Manual,1st Owner,308499
+238,2018,Maruti,Ciaz,Chennai,27384,Petrol,Manual,2nd Owner,703699
+239,2013,Maruti,Wagon R 1.0,Bengaluru,41074,Petrol,Manual,1st Owner,397499
+240,2015,Hyundai,Eon,Noida,45715,Petrol,Manual,2nd Owner,218399
+241,2016,Maruti,Alto 800,New Delhi,57421,Petrol,Manual,1st Owner,236000
+242,2018,Maruti,Celerio,Ahmedabad,41022,Petrol,Manual,1st Owner,420299
+243,2019,Hyundai,Elite i20,Bengaluru,14912,Petrol,Manual,3rd Owner,685199
+244,2014,Hyundai,i10,Bengaluru,61003,Petrol,Manual,2nd Owner,393999
+245,2018,Maruti,Baleno,Mumbai,12141,Petrol,Manual,1st Owner,685000
+246,2017,Hyundai,Creta,Hyderabad,51398,Petrol,Manual,1st Owner,998699
+247,2012,Maruti,Swift Dzire,Noida,52072,Diesel,Manual,1st Owner,362999
+248,2012,Hyundai,i20,Ahmedabad,108481,Diesel,Manual,1st Owner,280000
+249,2018,Maruti,Alto 800,New Delhi,4313,Petrol,Manual,2nd Owner,328799
+250,2019,Maruti,Eeco,Hyderabad,9128,Petrol,Manual,1st Owner,465299
+251,2015,Maruti,Ciaz,Mumbai,52885,Diesel,Manual,1st Owner,630599
+252,2014,Ford,Ecosport,New Delhi,56858,Diesel,Manual,1st Owner,493000
+253,2019,Maruti,Eeco,Hyderabad,23410,Petrol,Manual,1st Owner,441699
+254,2016,Volkswagen,Vento,Chennai,44001,Petrol,Manual,1st Owner,662999
+255,2018,Maruti,Wagon R 1.0,Chennai,35927,Petrol,Manual,1st Owner,442799
+256,2016,Hyundai,Elite i20,Chennai,58684,Petrol,Manual,2nd Owner,542299
+257,2013,Hyundai,i10,Hyderabad,37003,Petrol,Manual,3rd Owner,347699
+258,2020,Maruti,Vitara Brezza,Ahmedabad,12490,Petrol,,1st Owner,906699
+259,2016,Maruti,Alto 800,Chennai,59197,Petrol,Manual,1st Owner,284899
+260,2016,Volkswagen,Polo,Mumbai,27651,Petrol,Manual,1st Owner,449999
+261,2017,Maruti,Vitara Brezza,Pune,98197,Diesel,Manual,1st Owner,730899
+262,2016,Maruti,Celerio,Bengaluru,31129,Petrol,Manual,1st Owner,473099
+263,2015,Honda,City,Kolkata,57240,Petrol,Manual,1st Owner,494299
+264,2017,Maruti,Dzire,New Delhi,10171,Petrol,Automatic,1st Owner,675000
+265,2013,Hyundai,Grand i10,Patna,53812,Petrol,Manual,1st Owner,357499
+266,2014,Maruti,Swift Dzire,Mumbai,24035,Petrol,Manual,1st Owner,486000
+267,2017,Maruti,Swift,Pune,142321,Diesel,Manual,1st Owner,541399
+268,2018,Maruti,Alto 800,Ahmedabad,23556,Petrol,Manual,1st Owner,304299
+269,2021,Hyundai,VENUE,Ahmedabad,11419,Petrol,Automatic,1st Owner,1220599
+270,2011,Hyundai,Santro Xing,Bengaluru,47436,Petrol,Manual,1st Owner,346799
+271,2014,Maruti,Swift Dzire,Chennai,83907,Diesel,Manual,1st Owner,477899
+272,2020,Maruti,Eeco,Ahmedabad,4235,Petrol,Manual,1st Owner,459199
+273,2018,Hyundai,Grand i10,Pune,49957,Petrol,Manual,1st Owner,502799
+274,2020,Maruti,Eeco,Ahmedabad,3197,Petrol,Manual,1st Owner,427399
+275,2017,Hyundai,Grand i10,Kolkata,20561,Petrol,Manual,1st Owner,479899
+276,2011,Maruti,Wagon R 1.0,Hyderabad,61836,Petrol,Manual,2nd Owner,270299
+277,2017,Maruti,Alto K10,Bengaluru,8095,Petrol,Automatic,1st Owner,411099
+278,2018,Maruti,Swift,New Delhi,20380,Petrol,Manual,1st Owner,499599
+279,2011,Maruti,Swift Dzire,Mumbai,57597,Petrol,Manual,2nd Owner,259499
+280,2015,Maruti,Swift,Bengaluru,43858,Petrol,Manual,2nd Owner,496599
+281,2010,Hyundai,i20,Bengaluru,90062,Petrol,Manual,1st Owner,354499
+282,2019,Maruti,Eeco,Ahmedabad,9230,Petrol,Manual,1st Owner,483499
+283,2007,Hyundai,Santro Xing,Bengaluru,8437,Petrol,Manual,1st Owner,244999
+284,2016,Hyundai,Grand i10,Pune,14765,Petrol,Manual,1st Owner,422699
+285,2019,Maruti,Vitara Brezza,Pune,66990,Diesel,Manual,1st Owner,804199
+286,2019,Maruti,Alto 800,Hyderabad,30782,Petrol,Manual,1st Owner,330999
+287,2017,Maruti,Ertiga,Chennai,37958,Diesel,Manual,1st Owner,830799
+288,2010,Maruti,Swift,New Delhi,64767,Petrol,Manual,1st Owner,221299
+289,2017,Maruti,Vitara Brezza,Noida,79275,Diesel,Manual,1st Owner,710399
+290,2017,Renault,Kwid,Hyderabad,44566,Petrol,Manual,1st Owner,292299
+291,2020,Maruti,Alto,Ahmedabad,4548,Petrol,Manual,1st Owner,390899
+292,2010,Honda,City,Chennai,97104,Petrol,,2nd Owner,343299
+293,2017,Hyundai,Eon,Chennai,48119,Petrol,Manual,1st Owner,327499
+294,2012,Maruti,Swift,Noida,95400,Diesel,Manual,2nd Owner,286799
+295,2018,Maruti,Alto 800,Kolkata,29750,Petrol,Manual,1st Owner,273899
+296,2016,Maruti,Alto 800,Pune,18419,Petrol,Manual,1st Owner,302499
+297,2013,Maruti,Alto K10,Chennai,37870,Petrol,Manual,1st Owner,267899
+298,2010,Hyundai,i10,Mumbai,75779,Petrol,Manual,1st Owner,208000
+299,2015,Volkswagen,Polo,Bengaluru,51188,Petrol,Manual,1st Owner,572099
+300,2015,Maruti,Swift,Pune,64086,Diesel,Manual,1st Owner,548299
+301,2019,Hyundai,NEW SANTRO,Chennai,11529,Petrol,Manual,1st Owner,494699
+302,2010,Hyundai,i20,Bengaluru,64773,Petrol,,1st Owner,372699
+303,2014,Hyundai,Grand i10,Pune,47299,Petrol,Automatic,2nd Owner,408799
+304,2019,Honda,Amaze,New Delhi,20444,Petrol,Automatic,1st Owner,698099
+305,2009,Maruti,Alto,Bengaluru,26432,Petrol,Manual,1st Owner,216699
+306,2013,Hyundai,Eon,Chennai,57322,Petrol,Manual,1st Owner,251799
+307,2019,Maruti,Vitara Brezza,New Delhi,27711,Diesel,Manual,1st Owner,805299
+308,2018,Maruti,Vitara Brezza,Pune,28641,Diesel,Manual,1st Owner,718599
+309,2017,Maruti,Wagon R 1.0,Bengaluru,32869,Petrol,Manual,3rd Owner,374199
+310,2015,Ford,Ecosport,Kolkata,33976,Petrol,Manual,1st Owner,516099
+311,2014,Maruti,Swift,Patna,46110,Diesel,Manual,1st Owner,371099
+312,2015,Honda,Amaze,Pune,27398,Petrol,Manual,1st Owner,508599
+313,2012,Maruti,Ritz,New Delhi,41213,Diesel,Manual,1st Owner,225099
+314,2014,Ford,Ecosport,New Delhi,59818,Diesel,Manual,1st Owner,423599
+315,2011,Maruti,Swift,Mumbai,58306,Petrol,Manual,1st Owner,293599
+316,2017,Maruti,Dzire,Ahmedabad,60463,Diesel,Manual,1st Owner,636399
+317,2019,Maruti,Vitara Brezza,New Delhi,17831,Diesel,Manual,1st Owner,811499
+318,2012,Maruti,Swift Dzire,New Delhi,49120,Diesel,Manual,1st Owner,335899
+319,2013,Honda,Amaze,Kolkata,35833,Petrol,Manual,2nd Owner,399899
+320,2016,Renault,Kwid,Ahmedabad,53223,Petrol,Manual,2nd Owner,216699
+321,2019,Honda,Jazz,Chennai,6815,Petrol,Manual,1st Owner,736199
+322,2014,Hyundai,Santro Xing,New Delhi,64626,Petrol,Manual,1st Owner,266899
+323,2010,Honda,City,Hyderabad,51549,Petrol,Manual,1st Owner,380399
+324,2015,Maruti,Alto K10,Patna,23501,Petrol,Manual,1st Owner,301799
+325,2018,Maruti,Alto 800,Ahmedabad,65917,Petrol + CNG,Manual,1st Owner,301999
+326,2013,Honda,Amaze,Noida,63748,Diesel,Manual,3rd Owner,272299
+327,2015,Hyundai,Elite i20,New Delhi,76443,Diesel,Manual,1st Owner,457399
+328,2016,Maruti,Swift Dzire,Hyderabad,69673,Petrol,Manual,1st Owner,517499
+329,2015,Maruti,Alto 800,Chennai,60562,Petrol,Manual,1st Owner,260799
+330,2017,Maruti,Baleno,Ahmedabad,26657,Petrol,Manual,1st Owner,553199
+331,2010,Maruti,Alto,New Delhi,41508,Petrol,Manual,1st Owner,192599
+332,2013,Maruti,Swift Dzire,Ahmedabad,131097,Diesel,Manual,2nd Owner,355299
+333,2020,Maruti,IGNIS,Ahmedabad,3142,Petrol,Manual,1st Owner,516699
+334,2018,Maruti,Dzire,Noida,9838,Petrol,Manual,1st Owner,528499
+335,2011,Maruti,Alto,Hyderabad,66212,Petrol,Manual,2nd Owner,201299
+336,2015,Maruti,Swift,New Delhi,59849,Diesel,Manual,1st Owner,420199
+337,2018,Maruti,Celerio,Ahmedabad,14753,Petrol,Manual,1st Owner,483999
+338,2015,Maruti,S Cross,Ahmedabad,163159,Diesel,Manual,1st Owner,569599
+339,2017,Maruti,Swift,Chennai,36752,Petrol,Manual,1st Owner,561999
+340,2014,Maruti,Wagon R 1.0,Bengaluru,46468,Petrol,Manual,2nd Owner,363099
+341,2012,Maruti,Wagon R 1.0,Ahmedabad,21842,Petrol,Manual,2nd Owner,255000
+342,2018,Maruti,Baleno,Mumbai,23243,Petrol,Manual,1st Owner,632499
+343,2011,Honda,Jazz,Mumbai,29393,Petrol,Manual,1st Owner,297299
+344,2015,Renault,Kwid,New Delhi,78499,Petrol,Manual,1st Owner,245399
+345,2017,Hyundai,Grand i10,New Delhi,25306,Petrol,Manual,1st Owner,498999
+346,2013,Maruti,Alto 800,Kolkata,40569,Petrol,Manual,1st Owner,234699
+347,2013,Maruti,Alto 800,Mumbai,26848,Petrol,Manual,1st Owner,220299
+348,2019,Hyundai,NEW SANTRO,Chennai,17430,Petrol,Manual,1st Owner,510099
+349,2014,Maruti,Swift,Patna,170926,Petrol,Manual,1st Owner,357499
+350,2016,Maruti,Swift,Bengaluru,35352,Petrol,Manual,1st Owner,501199
+351,2017,Maruti,Eeco,Ahmedabad,14422,Petrol,Manual,1st Owner,402299
+352,2015,Honda,Brio,Mumbai,11424,Petrol,Automatic,1st Owner,475000
+353,2014,Hyundai,Grand i10,Bengaluru,26578,Petrol,Manual,1st Owner,480599
+354,2014,Maruti,Alto K10,Hyderabad,31227,Petrol,Manual,2nd Owner,301499
+355,2017,Maruti,S Cross,Hyderabad,111332,Diesel,Manual,1st Owner,707799
+356,2009,Maruti,Swift Dzire,Pune,81975,Petrol,Manual,3rd Owner,239299
+357,2019,Maruti,Vitara Brezza,Chennai,24368,Diesel,Manual,1st Owner,862299
+358,2014,Ford,Ecosport,New Delhi,56968,Petrol,Manual,2nd Owner,519699
+359,2017,Ford,Ecosport,Patna,34765,Diesel,Manual,1st Owner,822199
+360,2013,Maruti,Swift Dzire,Kolkata,34646,Petrol,Manual,2nd Owner,394599
+361,2013,Maruti,Alto 800,Chennai,84015,Petrol,Manual,3rd Owner,221799
+362,2017,Maruti,Eeco,Noida,20244,Petrol + CNG,Manual,1st Owner,342799
+363,2012,Maruti,Swift,Mumbai,30736,Diesel,Manual,1st Owner,405899
+364,2014,Maruti,Swift,Noida,88382,Diesel,Manual,1st Owner,368499
+365,2015,Maruti,Swift,Mumbai,56790,Petrol,Manual,1st Owner,475000
+366,2012,Maruti,Swift,Hyderabad,164028,Diesel,Manual,1st Owner,357399
+367,2017,Hyundai,Elite i20,Mumbai,32172,Petrol,Manual,1st Owner,614899
+368,2018,Maruti,Wagon R 1.0,Kolkata,22625,Petrol,Manual,1st Owner,411599
+369,2018,Maruti,S Cross,Pune,62512,Diesel,Manual,1st Owner,948299
+370,2015,Maruti,Swift,Pune,21485,Petrol,Manual,1st Owner,457899
+371,2016,Hyundai,Elite i20,Noida,24584,Petrol,Manual,1st Owner,532899
+372,2017,Maruti,Baleno,Bengaluru,44591,Petrol,Manual,1st Owner,653999
+373,2019,Maruti,Alto,Kolkata,14777,Petrol,Manual,1st Owner,322499
+374,2015,Maruti,Alto 800,New Delhi,26525,Petrol,Manual,2nd Owner,235899
+375,2015,Maruti,Celerio,Hyderabad,43028,Petrol,Manual,2nd Owner,376099
+376,2018,Hyundai,Creta,Pune,30872,Diesel,,1st Owner,1408899
+377,2010,Maruti,Swift Dzire,Pune,160205,Diesel,Manual,2nd Owner,265399
+378,2010,Maruti,Swift Dzire,Noida,44518,Petrol,Manual,1st Owner,246499
+379,2011,Maruti,Alto K10,Hyderabad,47330,Petrol,Manual,2nd Owner,223499
+380,2019,Maruti,Eeco,Ahmedabad,11882,Petrol,Manual,1st Owner,478399
+381,2010,Hyundai,i10,Noida,87770,Petrol,Manual,1st Owner,186199
+382,2019,Maruti,Swift,Ahmedabad,10000,Petrol,Manual,1st Owner,596099
+383,2011,Maruti,Alto,Chennai,9924,Petrol,Manual,1st Owner,253899
+384,2017,Maruti,Vitara Brezza,Noida,77103,Diesel,Manual,1st Owner,687399
+385,2016,Renault,Kwid,Pune,81770,Petrol,Manual,1st Owner,267499
+386,2011,Honda,City,Mumbai,74905,Petrol,Manual,1st Owner,349000
+387,2016,Maruti,Swift,Hyderabad,8029,Petrol,Manual,1st Owner,511399
+388,2011,Maruti,Alto,Bengaluru,72785,Petrol,Manual,2nd Owner,231399
+389,2017,Hyundai,Elite i20,Mumbai,35045,Petrol,Manual,1st Owner,575299
+390,2012,Hyundai,i10,Hyderabad,65288,Petrol,Manual,1st Owner,336299
+391,2017,Ford,Ecosport,Bengaluru,26280,Petrol,Manual,1st Owner,798299
+392,2017,Maruti,Swift Dzire,New Delhi,50943,Diesel,Manual,2nd Owner,481199
+393,2017,Maruti,Eeco,Hyderabad,41736,Petrol,Manual,1st Owner,364999
+394,2013,Maruti,Swift,Noida,62639,Diesel,Manual,2nd Owner,315299
+395,2017,Maruti,Alto 800,Chennai,8236,Petrol,Manual,1st Owner,313899
+396,2016,Hyundai,Elite i20,Kolkata,69699,Petrol,Manual,1st Owner,473499
+397,2015,Hyundai,Grand i10,Chennai,83617,Petrol,Automatic,1st Owner,400799
+398,2018,Tata,Tiago,New Delhi,2089,Petrol,Manual,1st Owner,424299
+399,2019,Hyundai,Verna,Pune,11728,Petrol,Manual,1st Owner,916599
+400,2017,Maruti,Dzire,Hyderabad,33397,Diesel,Manual,1st Owner,640399
+401,2017,Maruti,Alto 800,New Delhi,2147,Petrol,Manual,1st Owner,322699
+402,2016,Hyundai,Elite i20,Hyderabad,38036,Petrol,Manual,1st Owner,655099
+403,2017,Hyundai,Verna,Kolkata,10382,Petrol,Manual,1st Owner,844399
+404,2014,Hyundai,i10,New Delhi,54729,Petrol,Manual,2nd Owner,264000
+405,2016,Maruti,Ertiga,Ahmedabad,155751,Diesel,Manual,2nd Owner,678399
+406,2014,Maruti,Wagon R 1.0,Bengaluru,67946,Petrol,Manual,1st Owner,377199
+407,2007,Hyundai,Santro Xing,Hyderabad,118115,Petrol,Manual,1st Owner,172699
+408,2013,Maruti,Swift,New Delhi,73417,Diesel,Manual,1st Owner,324899
+409,2016,Maruti,Ciaz,Ahmedabad,75343,Petrol,Manual,1st Owner,593599
+410,2016,Renault,Kwid,Hyderabad,21908,Petrol,Manual,1st Owner,308899
+411,2014,Hyundai,i10,Kolkata,48753,Petrol,Manual,2nd Owner,348099
+412,2012,Maruti,Swift Dzire,Noida,105522,Diesel,Manual,1st Owner,288399
+413,2016,Hyundai,Elite i20,New Delhi,65032,Petrol,Manual,1st Owner,410000
+414,2016,Maruti,Wagon R 1.0,Hyderabad,39789,Petrol,Manual,1st Owner,370399
+415,2019,Maruti,Eeco,Chennai,23090,Petrol,Manual,1st Owner,428299
+416,2020,Maruti,Alto,Ahmedabad,6297,Petrol,Manual,1st Owner,348799
+417,2014,Maruti,Swift Dzire,Pune,63538,Petrol,Manual,1st Owner,421999
+418,2014,Ford,Ecosport,New Delhi,34685,Diesel,Manual,1st Owner,475000
+419,2015,Maruti,Swift Dzire,Ahmedabad,56066,Diesel,Manual,1st Owner,482899
+420,2015,Honda,Jazz,Noida,47022,Petrol,Manual,1st Owner,457199
+421,2019,Maruti,Alto,Chennai,10210,Petrol,Manual,1st Owner,388599
+422,2014,Maruti,Alto 800,Chennai,65487,Petrol,Manual,1st Owner,229099
+423,2014,Maruti,Swift,Bengaluru,24892,Petrol,Manual,1st Owner,557299
+424,2016,Maruti,Alto 800,Pune,33699,Petrol,Manual,1st Owner,281799
+425,2020,Maruti,Vitara Brezza,Mumbai,4728,Petrol,Manual,1st Owner,1048499
+426,2016,Maruti,Alto 800,Bengaluru,34081,Petrol,Manual,1st Owner,310999
+427,2015,Maruti,Alto K10,Chennai,60384,Petrol,Manual,2nd Owner,286499
+428,2017,Honda,Amaze,Ahmedabad,10143,Petrol,Manual,1st Owner,550000
+429,2019,Maruti,Celerio,Bengaluru,5805,Petrol,Manual,1st Owner,580699
+430,2013,Volkswagen,Vento,Hyderabad,93624,Diesel,Manual,2nd Owner,416199
+431,2016,Maruti,Swift Dzire,Ahmedabad,75093,Diesel,Automatic,1st Owner,519799
+432,2012,Maruti,Wagon R 1.0,Chennai,38553,Petrol,Manual,1st Owner,315199
+433,2008,Hyundai,i10,Hyderabad,63040,Petrol,Manual,2nd Owner,219199
+434,2017,Hyundai,Grand i10,New Delhi,30161,Petrol,Manual,1st Owner,414000
+435,2013,Hyundai,i20,New Delhi,37840,Diesel,Manual,1st Owner,366399
+436,2012,Maruti,Swift Dzire,Noida,110400,Diesel,Manual,2nd Owner,341599
+437,2016,Maruti,Baleno,Pune,45907,Petrol,Manual,1st Owner,523699
+438,2019,Maruti,Alto 800,Hyderabad,34886,Petrol,Manual,1st Owner,299699
+439,2013,Maruti,Swift Dzire,Noida,67598,Diesel,Manual,2nd Owner,380199
+440,2020,Maruti,Alto,Ahmedabad,2016,Petrol,Manual,1st Owner,331499
+441,2015,Hyundai,Elite i20,New Delhi,27593,Petrol,Manual,1st Owner,496000
+442,2020,Tata,Tiago,New Delhi,9678,Petrol,Manual,1st Owner,519099
+443,2013,Maruti,Swift Dzire,Noida,129364,Diesel,Manual,1st Owner,320299
+444,2013,Maruti,Alto K10,Kolkata,113465,Petrol,Manual,1st Owner,261399
+445,2015,Hyundai,Grand i10,Bengaluru,35879,Petrol,Manual,2nd Owner,464599
+446,2018,Maruti,Baleno,Pune,11979,Petrol,Manual,2nd Owner,604199
+447,2018,Maruti,Vitara Brezza,Mumbai,16351,Diesel,Manual,1st Owner,857999
+448,2014,Maruti,Alto 800,Pune,50414,Petrol,Manual,2nd Owner,246899
+449,2014,Hyundai,Santro Xing,New Delhi,39366,Petrol,Manual,1st Owner,270000
+450,2017,Ford,Ecosport,Kolkata,50119,Diesel,Manual,1st Owner,600000
+451,2014,Maruti,Wagon R 1.0,Chennai,37398,Petrol,Manual,1st Owner,383099
+452,2017,Maruti,Dzire,Kolkata,43274,Petrol,Manual,1st Owner,570399
+453,2018,Maruti,Alto 800,Chennai,21679,Petrol,Manual,1st Owner,321699
+454,2012,Maruti,Swift Dzire,Mumbai,53074,Diesel,Manual,1st Owner,428999
+455,2014,Hyundai,Grand i10,Kolkata,52715,Petrol,Manual,1st Owner,374899
+456,2008,Hyundai,Santro Xing,Bengaluru,44365,Petrol,Manual,1st Owner,235799
+457,2015,Maruti,Swift,Bengaluru,48516,Petrol,Manual,1st Owner,502299
+458,2013,Maruti,Swift Dzire,Bengaluru,42534,Petrol,Manual,1st Owner,479199
+459,2011,Maruti,Wagon R 1.0,Chennai,45714,Petrol,Manual,2nd Owner,293799
+460,2018,Maruti,Baleno,Noida,25937,Petrol,Manual,1st Owner,575899
+461,2017,Hyundai,Elite i20,Hyderabad,46691,Diesel,Manual,2nd Owner,630599
+462,2014,Hyundai,Eon,Kolkata,25437,Petrol,Manual,2nd Owner,272699
+463,2010,Hyundai,i10,Mumbai,78790,Petrol,Automatic,1st Owner,275000
+464,2018,Maruti,Vitara Brezza,Ahmedabad,47583,Diesel,Manual,1st Owner,731799
+465,2015,Volkswagen,Polo,Noida,63925,Diesel,Manual,1st Owner,388999
+466,2019,Maruti,Vitara Brezza,New Delhi,24035,Diesel,Manual,2nd Owner,730999
+467,2018,Maruti,Baleno,Kolkata,9403,Petrol,Manual,1st Owner,602499
+468,2012,Maruti,Swift Dzire,Bengaluru,60348,Diesel,Manual,1st Owner,469799
+469,2018,Maruti,Vitara Brezza,Hyderabad,40172,Diesel,Automatic,1st Owner,901999
+470,2012,Maruti,Wagon R 1.0,Noida,101334,Petrol + CNG,Manual,2nd Owner,223999
+471,2017,Maruti,Alto 800,Kolkata,11705,Petrol,Manual,1st Owner,259799
+472,2017,Maruti,Ciaz,Ahmedabad,73605,Diesel,Manual,1st Owner,619499
+473,2009,Maruti,Alto,Bengaluru,24474,Petrol,Manual,1st Owner,224399
+474,2012,Maruti,Swift,Noida,120187,Diesel,Manual,2nd Owner,271499
+475,2017,Hyundai,Elite i20,Bengaluru,41590,Petrol,Manual,2nd Owner,677399
+476,2015,Hyundai,Eon,Chennai,15346,Petrol,Manual,3rd Owner,301299
+477,2017,Maruti,IGNIS,Mumbai,5328,Petrol,Automatic,1st Owner,586999
+478,2019,Maruti,Baleno,Ahmedabad,13973,Petrol,Manual,1st Owner,651299
+479,2011,Hyundai,i10,Noida,53323,Petrol,Manual,1st Owner,227899
+480,2015,Maruti,Alto K10,Pune,12341,Petrol,Manual,2nd Owner,328599
+481,2016,Renault,Kwid,Kolkata,57882,Petrol,Manual,1st Owner,314799
+482,2016,Maruti,Alto K10,Chennai,61676,Petrol,Manual,1st Owner,301799
+483,2016,Maruti,Baleno,Noida,33427,Petrol,Manual,1st Owner,513499
+484,2018,Honda,City,Kolkata,15621,Petrol,Automatic,1st Owner,1030999
+485,2018,Hyundai,Verna,Ahmedabad,55769,Petrol,Manual,1st Owner,789299
+486,2016,Hyundai,Grand i10,Chennai,20090,Petrol,Manual,2nd Owner,456099
+487,2015,Maruti,Swift,Ahmedabad,86714,Diesel,Manual,1st Owner,428599
+488,2016,Renault,Kwid,New Delhi,13054,Petrol,Manual,1st Owner,273999
+489,2014,Hyundai,i20,Noida,45890,Petrol + CNG,Manual,3rd Owner,341999
+490,2018,Hyundai,Verna,Pune,21347,Petrol,Automatic,1st Owner,1131099
+491,2017,Maruti,Alto 800,Noida,40409,Petrol,Manual,1st Owner,290699
+492,2011,Hyundai,i10,Hyderabad,109888,Petrol,Automatic,2nd Owner,312799
+493,2017,Maruti,Wagon R 1.0,Chennai,82239,Petrol,Manual,1st Owner,403399
+494,2013,Maruti,Swift,New Delhi,24022,Diesel,Manual,1st Owner,396599
+495,2014,Maruti,Swift,Bengaluru,64976,Petrol,Manual,1st Owner,493799
+496,2015,Maruti,Swift Dzire,Pune,111167,Diesel,Manual,2nd Owner,521799
+497,2016,Maruti,Alto K10,Kolkata,14967,Petrol,Manual,1st Owner,339599
+498,2014,Maruti,Swift,Chennai,3600,Petrol,Manual,1st Owner,448899
+499,2014,Maruti,Wagon R 1.0,Ahmedabad,73600,Petrol,Manual,2nd Owner,290499
+500,2014,Volkswagen,Polo,Pune,59474,Petrol,Automatic,1st Owner,587099
+501,2014,Maruti,Alto 800,Noida,38526,Petrol,Manual,2nd Owner,219399
+502,2016,Volkswagen,Polo,Mumbai,25095,Petrol,Automatic,2nd Owner,630799
+503,2014,Maruti,Alto 800,Kolkata,34369,Petrol,Manual,1st Owner,237899
+504,2009,Maruti,Alto,New Delhi,76236,Petrol,Manual,1st Owner,125000
+505,2009,Hyundai,i10,Bengaluru,94539,Petrol,Automatic,2nd Owner,265499
+506,2017,Maruti,Baleno,Mumbai,15549,Petrol,Manual,1st Owner,595000
+507,2011,Maruti,Ritz,Pune,143702,Diesel,Manual,2nd Owner,202099
+508,2016,Maruti,Ertiga,Pune,84394,Diesel,Manual,1st Owner,748099
+509,2011,Hyundai,i10,Bengaluru,73153,Petrol,Manual,1st Owner,304799
+510,2017,Maruti,Baleno,Ahmedabad,83204,Diesel,Manual,1st Owner,582499
+511,2017,Hyundai,Creta,Mumbai,32707,Petrol,Manual,1st Owner,845000
+512,2011,Maruti,Alto,New Delhi,44423,Petrol,Manual,2nd Owner,142000
+513,2020,Maruti,Eeco,Ahmedabad,16036,Petrol,Manual,1st Owner,453299
+514,2014,Maruti,Swift,Noida,61924,Petrol,Manual,1st Owner,404699
+515,2012,Maruti,Alto K10,New Delhi,50067,Petrol,Manual,1st Owner,188000
+516,2013,Honda,Brio,New Delhi,54148,Petrol,Manual,1st Owner,290000
+517,2018,Hyundai,Grand i10,Chennai,32373,Petrol,Manual,1st Owner,504899
+518,2013,Maruti,Swift,Noida,88467,Diesel,Manual,2nd Owner,314899
+519,2014,Honda,City,Kolkata,56615,Petrol,Manual,1st Owner,487099
+520,2018,Maruti,Eeco,Ahmedabad,92405,Petrol + CNG,Manual,1st Owner,405799
+521,2010,Hyundai,i20,Hyderabad,53951,Petrol,Manual,2nd Owner,267399
+522,2017,Maruti,Dzire,Mumbai,32887,Petrol,Automatic,1st Owner,679000
+523,2013,Maruti,Ertiga,New Delhi,51981,Diesel,Manual,1st Owner,475499
+524,2015,Maruti,Celerio,Chennai,25662,Petrol,Automatic,2nd Owner,393299
+525,2013,Hyundai,i10,Bengaluru,16089,Petrol,Manual,2nd Owner,390099
+526,2016,Hyundai,Creta,Ahmedabad,94762,Diesel,Automatic,1st Owner,882399
+527,2019,Maruti,Baleno,Kolkata,17973,Petrol,Manual,1st Owner,601599
+528,2010,Hyundai,i20,Hyderabad,63614,Petrol,Manual,1st Owner,353199
+529,2014,Hyundai,Grand i10,Kolkata,66438,Petrol,Manual,1st Owner,414299
+530,2020,Maruti,Alto,Kolkata,1584,Petrol,Manual,1st Owner,386799
+531,2011,Hyundai,i10,Hyderabad,31976,Petrol,Automatic,2nd Owner,347499
+532,2011,Honda,Brio,Mumbai,55340,Petrol,Manual,1st Owner,239000
+533,2019,Hyundai,VENUE,Bengaluru,10683,Petrol,Manual,1st Owner,1097799
+534,2011,Hyundai,i10,Chennai,13179,Petrol,Manual,1st Owner,315999
+535,2015,Honda,Jazz,Mumbai,49394,Petrol,Manual,1st Owner,487299
+536,2019,Maruti,Dzire,Kolkata,5788,Petrol,Manual,2nd Owner,625699
+537,2018,Maruti,Baleno,Noida,6905,Petrol,Manual,1st Owner,594799
+538,2008,Hyundai,Santro Xing,Ahmedabad,66315,Petrol,Manual,1st Owner,92170
+539,2019,Ford,Ecosport,Hyderabad,7346,Petrol,Manual,1st Owner,962299
+540,2014,Hyundai,i10,Chennai,35571,Petrol,Manual,1st Owner,352999
+541,2012,Maruti,Eeco,Noida,60171,Petrol + CNG,Manual,2nd Owner,201099
+542,2012,Honda,City,Noida,77333,Petrol,Automatic,4th Owner,366899
+543,2020,Maruti,Vitara Brezza,Mumbai,18943,Petrol,Manual,1st Owner,983699
+544,2018,Renault,Kwid,Ahmedabad,71160,Petrol,Manual,1st Owner,322199
+545,2011,Maruti,Alto,Chennai,40146,Petrol,Manual,1st Owner,192899
+546,2018,Maruti,Alto 800,Chennai,34457,Petrol,Manual,2nd Owner,332699
+547,2012,Hyundai,i10,Kolkata,72040,Petrol,Manual,1st Owner,245999
+548,2016,Hyundai,Eon,Chennai,25086,Petrol,Manual,1st Owner,311799
+549,2017,Maruti,Swift,New Delhi,29789,Diesel,Manual,1st Owner,590499
+550,2017,Maruti,Alto 800,Ahmedabad,32323,Petrol,Manual,1st Owner,294099
+551,2016,Maruti,Alto K10,Noida,56793,Petrol,Manual,1st Owner,268999
+552,2015,Hyundai,Elite i20,Noida,81421,Petrol,Manual,1st Owner,488099
+553,2016,Honda,City,Noida,103777,Diesel,Manual,1st Owner,499999
+554,2019,Renault,Kwid,Hyderabad,17078,Petrol,Automatic,1st Owner,473999
+555,2014,Maruti,Swift Dzire,Bengaluru,42551,Petrol,Manual,1st Owner,507199
+556,2017,Renault,Kwid,Chennai,51913,Petrol,Automatic,1st Owner,403299
+557,2017,Volkswagen,Polo,Mumbai,71786,Diesel,Manual,1st Owner,399000
+558,2013,Maruti,Alto K10,New Delhi,26185,Petrol,Manual,1st Owner,275000
+559,2016,Maruti,Swift,Bengaluru,57626,Petrol,Manual,2nd Owner,539199
+560,2010,Maruti,Swift Dzire,Mumbai,81348,Petrol,Manual,1st Owner,265000
+561,2019,Maruti,S Cross,Kolkata,20033,Diesel,Manual,1st Owner,901099
+562,2019,Maruti,Vitara Brezza,Mumbai,21135,Diesel,Manual,1st Owner,918899
+563,2015,Maruti,Alto 800,Chennai,22321,Petrol,Manual,1st Owner,281499
+564,2017,Maruti,Swift,Ahmedabad,119572,Diesel,Manual,1st Owner,476499
+565,2018,Volkswagen,Polo,Mumbai,21476,Petrol,,1st Owner,490299
+566,2012,Hyundai,Santro Xing,Kolkata,46591,Petrol,Manual,1st Owner,217099
+567,2016,Maruti,Baleno,Bengaluru,33482,Petrol,Manual,1st Owner,637799
+568,2017,Maruti,Vitara Brezza,Pune,38464,Diesel,Manual,1st Owner,770599
+569,2011,Hyundai,i10,Pune,99820,Petrol,Manual,1st Owner,207199
+570,2017,Hyundai,Grand i10,Ahmedabad,41809,Petrol,Manual,1st Owner,472899
+571,2016,Hyundai,Elite i20,Hyderabad,118470,Diesel,Manual,1st Owner,592199
+572,2018,Maruti,Ciaz,Mumbai,15511,Diesel,Manual,1st Owner,921999
+573,2017,Maruti,Baleno,New Delhi,35250,Petrol,Manual,1st Owner,546399
+574,2015,Volkswagen,Polo,Chennai,39763,Petrol,Manual,2nd Owner,505599
+575,2016,Maruti,Alto 800,Chennai,18251,Petrol,Manual,2nd Owner,294499
+576,2013,Maruti,Swift Dzire,Chennai,43991,Petrol,Manual,1st Owner,465699
+577,2017,Maruti,Baleno,Ahmedabad,21692,Petrol,Manual,1st Owner,468399
+578,2018,Hyundai,Elite i20,Bengaluru,27247,Petrol,Manual,1st Owner,771999
+579,2018,Tata,Tiago,Bengaluru,16624,Petrol,Manual,1st Owner,556699
+580,2010,Hyundai,i10,Chennai,69119,Petrol,Manual,1st Owner,231199
+581,2016,Maruti,Baleno,New Delhi,21653,Petrol,Manual,2nd Owner,488199
+582,2019,Maruti,Ciaz,Noida,7620,Petrol,Manual,2nd Owner,853499
+583,2013,Maruti,Alto 800,Kolkata,16586,Petrol,Manual,1st Owner,239699
+584,2017,Honda,Jazz,Kolkata,59521,Petrol,Manual,1st Owner,488199
+585,2018,Ford,Ecosport,Noida,27238,Diesel,Manual,1st Owner,820299
+586,2018,Maruti,Baleno,Kolkata,43678,Petrol,Manual,1st Owner,509399
+587,2014,Maruti,Celerio,Bengaluru,36805,Petrol,Automatic,1st Owner,393099
+588,2019,Maruti,IGNIS,Mumbai,12821,Petrol,Manual,1st Owner,568299
+589,2020,Maruti,Alto,Ahmedabad,11454,Petrol,Manual,1st Owner,341199
+590,2018,Maruti,Eeco,Bengaluru,31895,Petrol,Manual,1st Owner,410799
+591,2015,Maruti,Alto 800,Bengaluru,38418,Petrol,Manual,1st Owner,310399
+592,2013,Maruti,Alto K10,Chennai,7304,Petrol,Manual,1st Owner,283399
+593,2012,Honda,City,New Delhi,55376,Petrol,Manual,2nd Owner,317000
+594,2008,Hyundai,Santro Xing,New Delhi,33246,Petrol,Manual,1st Owner,138000
+595,2015,Maruti,Baleno,Mumbai,47715,Diesel,Manual,1st Owner,563099
+596,2017,Maruti,Wagon R 1.0,Noida,38574,Petrol,Manual,1st Owner,362299
+597,2017,Maruti,Alto 800,Chennai,23201,Petrol,Manual,1st Owner,307999
+598,2011,Hyundai,Santro Xing,Bengaluru,69819,Petrol,Manual,2nd Owner,239099
+599,2019,Maruti,Eeco,Chennai,15497,Petrol,Manual,1st Owner,467399
+600,2019,Renault,Kwid,Kolkata,11126,Petrol,Manual,1st Owner,349399
+601,2019,Maruti,Vitara Brezza,Pune,5899,Diesel,Manual,1st Owner,915599
+602,2014,Hyundai,Elite i20,Noida,37734,Diesel,Manual,1st Owner,519999
+603,2018,Maruti,Swift,Kolkata,21075,Petrol,Manual,1st Owner,613099
+604,2017,Maruti,Celerio,New Delhi,88442,Petrol,Automatic,1st Owner,397699
+605,2014,Maruti,Alto K10,Pune,60402,Petrol,Manual,1st Owner,237399
+606,2019,Maruti,Baleno,Mumbai,19543,Petrol,Manual,1st Owner,680599
+607,2018,Hyundai,Creta,Hyderabad,89645,Diesel,,1st Owner,855799
+608,2018,Hyundai,Elite i20,Kolkata,15427,Petrol,Manual,2nd Owner,617699
+609,2013,Hyundai,i10,Bengaluru,22201,Petrol,Automatic,1st Owner,449699
+610,2014,Hyundai,i10,Ahmedabad,41036,Petrol,Manual,1st Owner,361799
+611,2012,Hyundai,i10,Ahmedabad,80147,Petrol,Manual,1st Owner,243899
+612,2011,Hyundai,i10,Pune,58161,Petrol,Manual,1st Owner,256099
+613,2014,Maruti,Swift,Mumbai,28543,Petrol,Manual,1st Owner,401699
+614,2014,Volkswagen,Polo,Chennai,87035,Diesel,Manual,2nd Owner,416699
+615,2015,Honda,Amaze,Mumbai,33484,Petrol,Automatic,1st Owner,486000
+616,2016,Honda,Jazz,Bengaluru,27468,Petrol,Manual,1st Owner,659499
+617,2013,Hyundai,i10,Bengaluru,59237,Petrol,Automatic,1st Owner,408299
+618,2017,Maruti,Baleno,Chennai,47186,Petrol,Manual,2nd Owner,535699
+619,2012,Hyundai,i20,Kolkata,65853,Petrol,Manual,2nd Owner,403999
+620,2017,Hyundai,Grand i10,New Delhi,8055,Petrol,Manual,1st Owner,505000
+621,2015,Maruti,Wagon R 1.0,Patna,31278,Petrol,Manual,1st Owner,349599
+622,2014,Maruti,Alto K10,Bengaluru,32647,Petrol,Manual,1st Owner,348199
+623,2017,Renault,Kwid,Bengaluru,35141,Petrol,Manual,1st Owner,404799
+624,2016,Hyundai,i10,Patna,71661,Petrol,Manual,1st Owner,295199
+625,2015,Maruti,Wagon R 1.0,Kolkata,15751,Petrol,Manual,1st Owner,368799
+626,2012,Volkswagen,Polo,Mumbai,46917,Petrol,Manual,2nd Owner,356699
+627,2020,Hyundai,VENUE,New Delhi,10339,Petrol,Manual,1st Owner,990000
+628,2014,Hyundai,Elite i20,Pune,71543,Diesel,Manual,2nd Owner,504599
+629,2019,Maruti,Alto 800,Ahmedabad,24034,Petrol,Manual,1st Owner,316599
+630,2019,Ford,Ecosport,Mumbai,9675,Petrol,,1st Owner,988699
+631,2019,Hyundai,VENUE,Mumbai,26447,Petrol,,2nd Owner,1028199
+632,2014,Maruti,Celerio,Bengaluru,15874,Petrol,Automatic,1st Owner,423299
+633,2019,Hyundai,VENUE,Mumbai,8459,Petrol,,1st Owner,1095699
+634,2019,Hyundai,NEW SANTRO,Noida,1571,Petrol,Manual,1st Owner,500199
+635,2018,Maruti,Swift,Bengaluru,7157,Petrol,Manual,1st Owner,636099
+636,2019,Maruti,Swift,Chennai,14448,Petrol,Manual,1st Owner,633299
+637,2016,Maruti,Baleno,Pune,32301,Petrol,Manual,1st Owner,590099
+638,2017,Maruti,Baleno,Bengaluru,31833,Petrol,Manual,1st Owner,604599
+639,2013,Maruti,Swift,Pune,62613,Petrol,Manual,1st Owner,452599
+640,2016,Volkswagen,Polo,Noida,62257,Petrol,Manual,2nd Owner,390699
+641,2016,Maruti,Baleno,Hyderabad,200759,Diesel,Manual,1st Owner,533799
+642,2016,Maruti,Vitara Brezza,Noida,98517,Diesel,Manual,1st Owner,685699
+643,2018,Hyundai,Grand i10,Bengaluru,31187,Petrol,Manual,1st Owner,559299
+644,2016,Maruti,Wagon R 1.0,Mumbai,19209,Petrol,Automatic,1st Owner,383499
+645,2011,Maruti,Ritz,Bengaluru,62420,Petrol,Manual,1st Owner,361899
+646,2017,Maruti,Alto 800,Bengaluru,37801,Petrol,Manual,3rd Owner,333699
+647,2015,Honda,City,Noida,48843,Petrol,Automatic,1st Owner,601299
+648,2014,Maruti,Swift Dzire,New Delhi,42296,Diesel,Manual,1st Owner,481699
+649,2020,Hyundai,Creta,Noida,27629,Diesel,,1st Owner,1431999
+650,2014,Honda,Brio,New Delhi,30905,Petrol,Manual,2nd Owner,349000
+651,2016,Honda,Jazz,Chennai,21601,Petrol,Manual,2nd Owner,533199
+652,2013,Hyundai,i20,Kolkata,84343,Petrol,Manual,1st Owner,413199
+653,2018,Honda,Amaze,Patna,26964,Petrol,Manual,1st Owner,647899
+654,2012,Maruti,Alto K10,Kolkata,27457,Petrol,Manual,2nd Owner,224899
+655,2011,Maruti,Wagon R 1.0,Pune,117927,Petrol,Manual,1st Owner,225099
+656,2013,Maruti,Wagon R 1.0,Chennai,48821,Petrol,Manual,1st Owner,352699
+657,2017,Maruti,Alto 800,New Delhi,26772,Petrol,Manual,1st Owner,271999
+658,2017,Maruti,IGNIS,Noida,42049,Petrol,Manual,1st Owner,458799
+659,2019,Maruti,Eeco,Kolkata,45660,Petrol,Manual,1st Owner,392399
+660,2018,Hyundai,Grand i10,Chennai,27108,Petrol,Manual,2nd Owner,516699
+661,2016,Maruti,Celerio,Noida,17543,Petrol,Manual,1st Owner,410199
+662,2012,Maruti,Swift Dzire,New Delhi,20883,Petrol,Manual,1st Owner,365000
+663,2016,Honda,Jazz,Mumbai,24347,Petrol,Manual,1st Owner,535000
+664,2012,Honda,Brio,Hyderabad,58363,Petrol,Manual,1st Owner,359899
+665,2020,Maruti,Vitara Brezza,Noida,13764,Petrol,,1st Owner,897699
+666,2016,Maruti,Alto 800,Mumbai,5089,Petrol,Manual,1st Owner,307399
+667,2015,Maruti,Alto K10,Pune,9013,Petrol,Manual,1st Owner,337499
+668,2019,Hyundai,Elite i20,Mumbai,24667,Petrol,,1st Owner,625000
+669,2015,Maruti,Swift,New Delhi,46856,Diesel,Manual,1st Owner,411399
+670,2016,Maruti,Swift,Chennai,10560,Petrol,Manual,1st Owner,495699
+671,2018,Renault,Kwid,Mumbai,24219,Petrol,Manual,1st Owner,352599
+672,2016,Maruti,Wagon R 1.0,Chennai,33463,Petrol,Manual,1st Owner,388699
+673,2016,Honda,Jazz,Mumbai,22737,Petrol,Automatic,1st Owner,599000
+674,2010,Maruti,Swift Dzire,Mumbai,35777,Petrol,Manual,1st Owner,259000
+675,2017,Maruti,Celerio,Noida,45641,Petrol,Automatic,1st Owner,413099
+676,2019,Maruti,Alto K10,Pune,2253,Petrol,,1st Owner,459399
+677,2017,Hyundai,Grand i10,Hyderabad,47201,Petrol,Automatic,2nd Owner,538599
+678,2015,Maruti,Swift,Ahmedabad,84164,Diesel,Manual,1st Owner,446299
+679,2018,Maruti,Dzire,Noida,29137,Petrol,Manual,1st Owner,541499
+680,2015,Ford,Ecosport,Ahmedabad,126671,Diesel,Manual,2nd Owner,491099
+681,2015,Hyundai,Grand i10,Mumbai,50090,Petrol,Manual,1st Owner,399499
+682,2018,Maruti,Vitara Brezza,Ahmedabad,72378,Diesel,Manual,1st Owner,747999
+683,2017,Maruti,Vitara Brezza,Pune,70598,Diesel,Manual,1st Owner,708399
+684,2013,Maruti,Alto 800,Kolkata,24532,Petrol,Manual,1st Owner,228599
+685,2014,Maruti,Alto 800,Pune,40278,Petrol,Manual,1st Owner,267899
+686,2013,Honda,Brio,Patna,41930,Petrol,Manual,2nd Owner,316499
+687,2012,Maruti,Swift Dzire,Pune,102985,Diesel,Manual,2nd Owner,375499
+688,2019,Hyundai,Creta,Ahmedabad,51604,Diesel,Manual,1st Owner,1119599
+689,2012,Maruti,Alto K10,New Delhi,49179,Petrol,Manual,1st Owner,234399
+690,2018,Hyundai,Grand i10,Chennai,21790,Petrol,Manual,2nd Owner,516499
+691,2019,Hyundai,Creta,Chennai,17855,Petrol,Automatic,2nd Owner,1224699
+692,2013,Hyundai,Eon,New Delhi,57841,Petrol,Manual,1st Owner,233699
+693,2016,Maruti,Alto 800,Chennai,34151,Petrol,Manual,2nd Owner,279399
+694,2017,Maruti,Celerio,Bengaluru,41404,Petrol,Manual,1st Owner,456899
+695,2019,Maruti,Alto 800,Ahmedabad,34871,Petrol,Manual,1st Owner,316899
+696,2017,Hyundai,Verna,Pune,52005,Petrol,Manual,1st Owner,860799
+697,2019,Hyundai,Elite i20,Ahmedabad,10177,Petrol,Manual,1st Owner,651999
+698,2015,Maruti,Swift,Mumbai,67426,Diesel,Manual,1st Owner,477099
+699,2013,Hyundai,i20,Bengaluru,25453,Petrol,Manual,1st Owner,470099
+700,2013,Maruti,Swift Dzire,Chennai,85672,Diesel,Manual,2nd Owner,412899
+701,2016,Maruti,Celerio,Bengaluru,24075,Petrol,Automatic,1st Owner,516799
+702,2015,Hyundai,Creta,Noida,80247,Diesel,,1st Owner,724699
+703,2017,Maruti,Alto 800,Chennai,74463,Petrol,Manual,1st Owner,338399
+704,2013,Ford,Ecosport,Kolkata,50902,Petrol,Manual,1st Owner,681499
+705,2015,Maruti,Swift,Pune,28123,Petrol,Manual,2nd Owner,419999
+706,2017,Hyundai,Grand i10,Pune,31484,Petrol,Automatic,1st Owner,528599
+707,2016,Maruti,Swift,Mumbai,43126,Diesel,Manual,1st Owner,521000
+708,2014,Maruti,Ertiga,Mumbai,13742,Petrol,Manual,1st Owner,653000
+709,2019,Hyundai,VENUE,Ahmedabad,34892,Diesel,Manual,1st Owner,924799
+710,2011,Hyundai,i10,Hyderabad,47620,Petrol,Automatic,2nd Owner,329799
+711,2017,Tata,Tiago,New Delhi,16370,Petrol,Manual,1st Owner,377299
+712,2012,Hyundai,i10,New Delhi,44703,Petrol,Manual,1st Owner,268299
+713,2016,Hyundai,Grand i10,Ahmedabad,79732,Petrol,Manual,1st Owner,404299
+714,2017,Maruti,Vitara Brezza,Ahmedabad,93983,Diesel,Manual,1st Owner,672799
+715,2010,Maruti,Alto,New Delhi,70239,Petrol,Manual,1st Owner,141399
+716,2014,Maruti,Wagon R 1.0,Kolkata,63281,Petrol,Manual,1st Owner,330099
+717,2015,Honda,Amaze,Kolkata,51297,Petrol,Manual,2nd Owner,426899
+718,2013,Maruti,Wagon R 1.0,Patna,92059,Petrol,Manual,1st Owner,270699
+719,2017,Hyundai,Elite i20,Pune,34776,Petrol,Manual,1st Owner,600999
+720,2013,Hyundai,i20,Noida,81344,Diesel,Manual,2nd Owner,282499
+721,2015,Maruti,Wagon R 1.0,Hyderabad,59329,Petrol,Manual,1st Owner,373599
+722,2017,Maruti,Dzire,Kolkata,50856,Petrol,Manual,1st Owner,532899
+723,2017,Maruti,Alto 800,Kolkata,16909,Petrol,Manual,1st Owner,300399
+724,2016,Hyundai,Elite i20,Mumbai,42507,Petrol,Manual,1st Owner,508999
+725,2014,Hyundai,Grand i10,Bengaluru,25381,Petrol,Manual,1st Owner,508499
+726,2013,Hyundai,Grand i10,Chennai,57716,Petrol,Manual,2nd Owner,367799
+727,2017,Hyundai,Grand i10,New Delhi,37785,Petrol,Manual,1st Owner,465000
+728,2013,Maruti,Wagon R 1.0,Chennai,30782,Petrol,Manual,1st Owner,353499
+729,2018,Maruti,IGNIS,Bengaluru,19215,Petrol,Manual,1st Owner,620599
+730,2016,Maruti,Swift,New Delhi,29893,Petrol,Manual,1st Owner,407099
+731,2014,Maruti,Alto 800,Kolkata,24316,Petrol,Manual,1st Owner,242299
+732,2013,Honda,Brio,Pune,44622,Petrol,Manual,1st Owner,278499
+733,2016,Hyundai,Eon,Chennai,41675,Petrol,Manual,3rd Owner,289899
+734,2016,Hyundai,i10,New Delhi,18509,Petrol,Manual,1st Owner,375000
+735,2011,Maruti,Wagon R 1.0,Mumbai,64309,Petrol,Manual,1st Owner,255000
+736,2011,Maruti,Alto,Hyderabad,31119,Petrol,Manual,1st Owner,220399
+737,2019,Maruti,Vitara Brezza,New Delhi,19336,Diesel,Automatic,1st Owner,891299
+738,2014,Maruti,Alto 800,New Delhi,67513,Petrol,Manual,1st Owner,214699
+739,2014,Maruti,Alto 800,Kolkata,29950,Petrol,Manual,1st Owner,226399
+740,2014,Volkswagen,Vento,Ahmedabad,81328,Diesel,Manual,2nd Owner,480000
+741,2017,Hyundai,Grand i10,New Delhi,35013,Petrol,Manual,2nd Owner,450999
+742,2016,Maruti,Baleno,Hyderabad,33768,Petrol,Manual,1st Owner,560899
+743,2019,Maruti,Swift,Mumbai,12720,Petrol,Manual,2nd Owner,695000
+744,2020,Honda,City,New Delhi,9114,Petrol,Manual,1st Owner,1004099
+745,2017,Maruti,Eeco,Chennai,9328,Petrol,Manual,1st Owner,421099
+746,2016,Honda,Jazz,Pune,18091,Petrol,Manual,1st Owner,462699
+747,2016,Maruti,Celerio,Bengaluru,30947,Petrol,Manual,2nd Owner,412599
+748,2015,Ford,Ecosport,Noida,140707,Diesel,Manual,2nd Owner,460799
+749,2011,Maruti,Alto K10,Hyderabad,68843,Petrol,Manual,2nd Owner,218499
+750,2010,Maruti,Alto,Hyderabad,71120,Petrol,Manual,1st Owner,182699
+751,2014,Maruti,Wagon R 1.0,Kolkata,35834,Petrol,Manual,1st Owner,326099
+752,2017,Hyundai,Eon,Chennai,50665,Petrol,Manual,2nd Owner,352499
+753,2019,Maruti,Swift,Patna,2040,Petrol,Automatic,1st Owner,601899
+754,2013,Maruti,Alto 800,Mumbai,40256,Petrol,Manual,1st Owner,224399
+755,2016,Hyundai,Grand i10,Noida,56653,Petrol,Manual,1st Owner,392299
+756,2014,Maruti,Alto K10,Kolkata,77830,Petrol,Manual,1st Owner,238799
+757,2015,Maruti,Wagon R 1.0,Mumbai,30131,Petrol,Manual,1st Owner,333799
+758,2016,Honda,City,Noida,31190,Petrol,,1st Owner,488299
+759,2015,Maruti,Alto 800,Kolkata,40883,Petrol,Manual,1st Owner,248799
+760,2019,Maruti,Alto,Ahmedabad,8438,Petrol,Manual,1st Owner,350199
+761,2016,Hyundai,Grand i10,Pune,29440,Petrol,Manual,1st Owner,469799
+762,2017,Hyundai,Grand i10,Ahmedabad,42230,Petrol,Manual,1st Owner,454799
+763,2014,Hyundai,Grand i10,Bengaluru,51252,Petrol,Manual,1st Owner,467299
+764,2018,Maruti,Vitara Brezza,Pune,32815,Diesel,Manual,1st Owner,890899
+765,2010,Maruti,Ritz,Bengaluru,61156,Petrol,Manual,1st Owner,318499
+766,2018,Hyundai,Elite i20,Hyderabad,26796,Petrol,Manual,1st Owner,640499
+767,2016,Hyundai,Elite i20,Mumbai,36926,Petrol,Manual,3rd Owner,395000
+768,2014,Honda,Amaze,Kolkata,42283,Petrol,Manual,1st Owner,343799
+769,2017,Maruti,Celerio,Bengaluru,36684,Petrol,Manual,1st Owner,464499
+770,2018,Ford,Ecosport,Patna,78492,Diesel,Manual,1st Owner,605999
+771,2015,Maruti,Swift Dzire,Patna,46013,Petrol,Manual,1st Owner,489099
+772,2015,Maruti,Ertiga,Noida,116238,Diesel,Manual,1st Owner,502399
+773,2014,Maruti,Alto 800,Kolkata,51024,Petrol,Manual,1st Owner,224999
+774,2011,Maruti,Swift,Pune,68471,Diesel,Manual,1st Owner,377599
+775,2017,Maruti,Vitara Brezza,Ahmedabad,150666,Diesel,Manual,1st Owner,695299
+776,2013,Maruti,Wagon R 1.0,Chennai,57595,Petrol,Manual,2nd Owner,346499
+777,2017,Renault,Kwid,Pune,4845,Petrol,Manual,1st Owner,323299
+778,2015,Maruti,Baleno,New Delhi,59364,Diesel,Manual,1st Owner,413999
+779,2014,Hyundai,Elite i20,Ahmedabad,63572,Petrol,Manual,1st Owner,541999
+780,2017,Maruti,Wagon R 1.0,Mumbai,5842,Petrol,Automatic,1st Owner,431000
+781,2015,Hyundai,Verna,Pune,25274,Petrol,Manual,1st Owner,505299
+782,2016,Maruti,Alto 800,Hyderabad,20215,Petrol,Manual,2nd Owner,286499
+783,2010,Maruti,Wagon R 1.0,Bengaluru,52160,Petrol,Manual,1st Owner,271199
+784,2012,Maruti,Alto,Chennai,74535,Petrol,Manual,1st Owner,240799
+785,2018,Tata,Tiago,Pune,22294,Petrol,Manual,1st Owner,367599
+786,2017,Maruti,Alto 800,Pune,33832,Petrol,Manual,1st Owner,310999
+787,2016,Maruti,Alto K10,New Delhi,13289,Petrol,Manual,1st Owner,303000
+788,2012,Maruti,Alto K10,Bengaluru,49264,Petrol,Manual,1st Owner,298999
+789,2017,Hyundai,Grand i10,Ahmedabad,25676,Petrol,Manual,1st Owner,468999
+790,2015,Maruti,Swift Dzire,Ahmedabad,62743,Diesel,Manual,1st Owner,482499
+791,2012,Maruti,Alto K10,Bengaluru,36453,Petrol,Manual,1st Owner,277599
+792,2015,Maruti,Alto 800,Ahmedabad,98708,Petrol,Manual,1st Owner,256699
+793,2016,Maruti,Celerio,Bengaluru,7113,Petrol,Manual,1st Owner,449399
+794,2013,Hyundai,Verna,Noida,53143,Diesel,Manual,1st Owner,505399
+795,2017,Honda,City,Hyderabad,89362,Petrol,Automatic,1st Owner,880099
+796,2011,Volkswagen,Vento,Mumbai,75961,Diesel,Manual,1st Owner,340000
+797,2012,Hyundai,i10,Mumbai,52405,Petrol,Manual,2nd Owner,260000
+798,2017,Hyundai,Grand i10,Kolkata,10521,Petrol,Manual,1st Owner,459899
+799,2013,Maruti,Wagon R 1.0,Kolkata,52240,Petrol,Manual,1st Owner,320199
+800,2018,Ford,Ecosport,Patna,36010,Diesel,Manual,1st Owner,791999
+801,2011,Maruti,Wagon R 1.0,Chennai,72997,Petrol,Manual,2nd Owner,280999
+802,2015,Hyundai,Grand i10,Bengaluru,49207,Petrol,Manual,1st Owner,468799
+803,2018,Hyundai,Elite i20,Noida,12481,Petrol,Manual,1st Owner,581899
+804,2015,Hyundai,Grand i10,Bengaluru,59134,Petrol,Manual,2nd Owner,425799
+805,2018,Maruti,Swift,Chennai,66411,Diesel,Automatic,1st Owner,636499
+806,2019,Maruti,Alto,Ahmedabad,27799,Petrol,Manual,1st Owner,321999
+807,2014,Hyundai,Elite i20,Mumbai,45257,Diesel,Manual,2nd Owner,498000
+808,2015,Hyundai,Elite i20,Pune,51851,Petrol,Manual,1st Owner,577199
+809,2018,Maruti,Alto K10,Kolkata,21293,Petrol,Manual,1st Owner,320599
+810,2019,Hyundai,Elite i20,Hyderabad,10031,Petrol,Manual,2nd Owner,747099
+811,2018,Maruti,Swift,New Delhi,25400,Petrol,Manual,1st Owner,474000
+812,2018,Maruti,Swift,Bengaluru,26306,Petrol,Manual,1st Owner,627799
+813,2014,Hyundai,Eon,Noida,40438,Petrol,Manual,2nd Owner,224999
+814,2014,Maruti,Celerio,Mumbai,58624,Petrol,Automatic,1st Owner,370000
+815,2011,Maruti,Ritz,Bengaluru,76052,Petrol,Manual,2nd Owner,341699
+816,2013,Maruti,Alto 800,Chennai,43405,Petrol,Manual,1st Owner,254899
+817,2017,Maruti,Baleno,Ahmedabad,60422,Diesel,Manual,1st Owner,538199
+818,2014,Volkswagen,Polo,Chennai,70475,Petrol,Manual,1st Owner,409699
+819,2015,Volkswagen,Polo,New Delhi,62865,Petrol,Manual,1st Owner,383000
+820,2018,Maruti,Alto K10,Bengaluru,15426,Petrol,Automatic,1st Owner,458399
+821,2014,Honda,City,Noida,79500,Diesel,Manual,2nd Owner,546699
+822,2015,Hyundai,Grand i10,Chennai,16026,Petrol,Manual,1st Owner,431099
+823,2017,Renault,Kwid,New Delhi,11146,Petrol,Manual,1st Owner,280000
+824,2018,Hyundai,NEW SANTRO,Chennai,31012,Petrol,Manual,1st Owner,552299
+825,2016,Maruti,Wagon R 1.0,Patna,41199,Petrol,Automatic,2nd Owner,311999
+826,2016,Hyundai,Creta,Hyderabad,69300,Petrol,Manual,2nd Owner,708599
+827,2008,Hyundai,Santro Xing,Bengaluru,60152,Petrol + LPG,Manual,1st Owner,214599
+828,2012,Maruti,Alto 800,New Delhi,82189,Petrol,Manual,1st Owner,209999
+829,2018,Maruti,Eeco,Ahmedabad,9788,Petrol,Manual,1st Owner,441399
+830,2012,Maruti,Alto K10,Bengaluru,58683,Petrol,Manual,1st Owner,279899
+831,2012,Maruti,Swift Dzire,New Delhi,61164,Diesel,Manual,1st Owner,301699
+832,2015,Maruti,Wagon R 1.0,Chennai,45929,Petrol,Manual,1st Owner,356099
+833,2018,Maruti,Baleno,Kolkata,26805,Petrol,Manual,1st Owner,642399
+834,2018,Maruti,Dzire,Pune,28626,Diesel,Manual,1st Owner,722199
+835,2015,Maruti,Swift Dzire,Kolkata,126168,Petrol,Manual,1st Owner,422299
+836,2017,Maruti,Alto 800,Pune,25919,Petrol,Manual,2nd Owner,258899
+837,2014,Hyundai,Grand i10,Noida,62609,Petrol,Manual,2nd Owner,364199
+838,2019,Maruti,Swift,Ahmedabad,17595,Petrol,Manual,1st Owner,488699
+839,2016,Hyundai,Elite i20,Pune,84503,Petrol,Manual,1st Owner,549099
+840,2018,Maruti,IGNIS,Hyderabad,54250,Petrol,Manual,1st Owner,387399
+841,2018,Maruti,Dzire,Mumbai,35413,Diesel,Automatic,1st Owner,763699
+842,2010,Hyundai,i20,New Delhi,66122,Petrol,,3rd Owner,232000
+843,2012,Maruti,Alto K10,Hyderabad,81849,Petrol,Manual,2nd Owner,211799
+844,2016,Hyundai,Grand i10,Chennai,31883,Petrol,Manual,2nd Owner,415899
+845,2015,Maruti,Swift Dzire,Ahmedabad,106364,Diesel,Manual,1st Owner,433699
+846,2014,Maruti,Wagon R 1.0,Noida,17178,Petrol,Manual,1st Owner,331299
+847,2013,Volkswagen,Polo,Kolkata,51693,Petrol,Manual,1st Owner,403499
+848,2015,Maruti,Alto K10,Chennai,31802,Petrol,,2nd Owner,326299
+849,2020,Hyundai,Creta,New Delhi,7383,Petrol,Manual,1st Owner,1389899
+850,2015,Maruti,Swift Dzire,New Delhi,53303,Petrol,Manual,1st Owner,408000
+851,2017,Hyundai,Grand i10,Hyderabad,18950,Petrol,Manual,2nd Owner,483799
+852,2019,Maruti,Vitara Brezza,Ahmedabad,72902,Diesel,Manual,1st Owner,859799
+853,2014,Maruti,Alto 800,Noida,61815,Petrol,Manual,1st Owner,217299
+854,2019,Maruti,Alto,Chennai,13595,Petrol,Manual,2nd Owner,383099
+855,2014,Hyundai,Eon,Mumbai,35075,Petrol,Manual,2nd Owner,235000
+856,2012,Maruti,Ertiga,Kolkata,71002,Diesel,Manual,1st Owner,584299
+857,2013,Honda,Amaze,Kolkata,37382,Petrol,Manual,1st Owner,349199
+858,2011,Hyundai,i10,New Delhi,47724,Petrol,Manual,1st Owner,217000
+859,2015,Hyundai,Grand i10,Pune,27404,Petrol,Manual,3rd Owner,433799
+860,2018,Maruti,Alto 800,Patna,23489,Petrol,Manual,1st Owner,284599
+861,2015,Volkswagen,Polo,Chennai,67132,Petrol,Manual,1st Owner,512599
+862,2020,Maruti,Eeco,Chennai,7284,Petrol,Manual,1st Owner,491999
+863,2010,Maruti,Wagon R 1.0,New Delhi,62342,Petrol,Manual,2nd Owner,183000
+864,2014,Honda,Amaze,Pune,24048,Petrol,Manual,1st Owner,426599
+865,2018,Hyundai,Grand i10,Ahmedabad,7197,Petrol,Manual,1st Owner,563999
+866,2012,Maruti,Swift Dzire,Pune,39899,Diesel,Manual,1st Owner,478699
+867,2016,Hyundai,i10,New Delhi,18490,Petrol,Manual,1st Owner,390000
+868,2017,Renault,Kwid,New Delhi,22473,Petrol,Manual,1st Owner,235399
+869,2011,Hyundai,i10,Mumbai,38126,Petrol,Manual,1st Owner,221000
+870,2012,Honda,City,Noida,125687,Petrol,,1st Owner,399499
+871,2014,Honda,Amaze,Patna,31116,Petrol,Manual,1st Owner,402399
+872,2017,Maruti,Alto 800,Hyderabad,7995,Petrol,Manual,1st Owner,338099
+873,2015,Maruti,Celerio,Chennai,48794,Petrol,Manual,2nd Owner,344099
+874,2013,Maruti,Swift Dzire,Hyderabad,76078,Petrol,Manual,1st Owner,411999
+875,2015,Maruti,Swift,Noida,91280,Diesel,Manual,1st Owner,360599
+876,2020,Maruti,Eeco,Chennai,1289,Petrol,Manual,1st Owner,435599
+877,2017,Maruti,Eeco,Ahmedabad,26805,Petrol,Manual,1st Owner,392799
+878,2018,Maruti,Alto 800,Patna,2341,Petrol,Manual,1st Owner,271700
+879,2013,Maruti,Alto 800,Bengaluru,18710,Petrol,Manual,2nd Owner,286399
+880,2019,Hyundai,Creta,Noida,25139,Petrol,Automatic,1st Owner,1317799
+881,2012,Maruti,Alto 800,New Delhi,25610,Petrol,Manual,2nd Owner,199099
+882,2015,Maruti,Swift,Chennai,65160,Diesel,Manual,2nd Owner,457599
+883,2009,Maruti,Alto,Noida,31579,Petrol,Manual,1st Owner,150399
+884,2014,Hyundai,i20,Noida,88666,Diesel,Manual,2nd Owner,383699
+885,2015,Maruti,Swift,Kolkata,42322,Petrol,Manual,1st Owner,491299
+886,2019,Maruti,Vitara Brezza,Hyderabad,39695,Diesel,Manual,1st Owner,1057099
+887,2019,Maruti,Swift,Ahmedabad,63292,Petrol,Manual,1st Owner,558999
+888,2008,Hyundai,i10,Pune,82148,Petrol,Manual,3rd Owner,179399
+889,2018,Maruti,Ciaz,Pune,50593,Diesel,Manual,1st Owner,876799
+890,2018,Hyundai,Creta,Pune,48945,Diesel,Manual,3rd Owner,990899
+891,2015,Maruti,Celerio,Hyderabad,44444,Petrol,Automatic,1st Owner,385099
+892,2013,Maruti,Swift,Noida,114506,Diesel,Manual,1st Owner,348699
+893,2014,Hyundai,i20,New Delhi,51945,Petrol,Manual,1st Owner,360399
+894,2014,Maruti,Swift Dzire,Bengaluru,49418,Petrol,Manual,1st Owner,495899
+895,2015,Maruti,Swift Dzire,Hyderabad,187721,Diesel,Manual,1st Owner,497599
+896,2019,Maruti,Dzire,Hyderabad,21168,Diesel,Manual,1st Owner,764999
+897,2018,Maruti,Alto 800,Ahmedabad,28147,Petrol,Manual,1st Owner,313799
+898,2016,Honda,Amaze,Mumbai,17713,Petrol,Automatic,2nd Owner,538199
+899,2011,Maruti,Alto K10,Bengaluru,82396,Petrol,Manual,3rd Owner,233399
+900,2019,Ford,Ecosport,Pune,8635,Petrol,Manual,1st Owner,1068999
+901,2015,Maruti,Ertiga,Bengaluru,53684,Diesel,Manual,2nd Owner,657399
+902,2015,Hyundai,Eon,Kolkata,62229,Petrol,Manual,2nd Owner,297299
+903,2017,Renault,Kwid,Ahmedabad,65387,Petrol,Manual,2nd Owner,261799
+904,2016,Maruti,Wagon R 1.0,Chennai,15549,Petrol,Manual,1st Owner,431199
+905,2008,Maruti,Swift,Hyderabad,95854,Petrol,Manual,2nd Owner,243999
+906,2017,Hyundai,Elite i20,Mumbai,11775,Petrol,Manual,1st Owner,679699
+907,2014,Hyundai,Elite i20,Chennai,45421,Petrol,Manual,2nd Owner,474999
+908,2019,Maruti,Eeco,Ahmedabad,69221,Petrol + CNG,Manual,1st Owner,443699
+909,2015,Maruti,Wagon R 1.0,Mumbai,41620,Petrol,Manual,1st Owner,340000
+910,2015,Maruti,Swift,Hyderabad,122156,Diesel,Manual,2nd Owner,493499
+911,2019,Maruti,Alto K10,Bengaluru,12689,Petrol,Manual,2nd Owner,370199
+912,2011,Honda,City,Pune,131933,Petrol,Manual,3rd Owner,284699
+913,2015,Maruti,Alto 800,Pune,36683,Petrol,Manual,1st Owner,279499
+914,2019,Maruti,Eeco,Ahmedabad,112620,Petrol + CNG,Manual,1st Owner,442499
+915,2017,Maruti,Vitara Brezza,New Delhi,19776,Diesel,Manual,1st Owner,799000
+916,2018,Hyundai,NEW SANTRO,Pune,6874,Petrol,Automatic,1st Owner,510899
+917,2017,Maruti,Ertiga,Ahmedabad,94104,Diesel,Manual,2nd Owner,698399
+918,2016,Maruti,Baleno,Hyderabad,66569,Petrol,Manual,2nd Owner,585999
+919,2014,Maruti,Wagon R 1.0,Chennai,24663,Petrol,Manual,1st Owner,365099
+920,2014,Maruti,Swift Dzire,New Delhi,56518,Diesel,Manual,2nd Owner,334000
+921,2019,Maruti,S Cross,Mumbai,21538,Diesel,Manual,1st Owner,1041999
+922,2018,Honda,Amaze,Chennai,29177,Petrol,,1st Owner,675899
+923,2015,Honda,Brio,Bengaluru,47708,Petrol,Manual,1st Owner,408499
+924,2012,Maruti,Swift,Patna,58594,Diesel,Manual,2nd Owner,325099
+925,2010,Maruti,Alto,Bengaluru,47758,Petrol,Manual,1st Owner,241199
+926,2012,Hyundai,i20,Mumbai,50750,Petrol,Manual,1st Owner,349000
+927,2017,Maruti,Ciaz,Chennai,89981,Petrol,Manual,1st Owner,646999
+928,2018,Renault,Kwid,Noida,29623,Petrol,Manual,2nd Owner,294399
+929,2012,Maruti,Swift,Noida,30589,Diesel,Manual,1st Owner,304999
+930,2017,Renault,Kwid,Mumbai,12462,Petrol,Manual,1st Owner,366499
+931,2014,Maruti,Ritz,Bengaluru,52410,Petrol,Manual,1st Owner,420099
+932,2012,Maruti,Alto,Kolkata,32892,Petrol,Manual,1st Owner,158899
+933,2017,Maruti,Baleno,Pune,56095,Petrol,Manual,1st Owner,516899
+934,2010,Maruti,Ritz,Chennai,83163,Petrol,Manual,3rd Owner,233099
+935,2013,Hyundai,i20,Bengaluru,64354,Diesel,Manual,3rd Owner,430599
+936,2014,Maruti,Swift,Noida,87194,Petrol,Manual,1st Owner,352199
+937,2015,Maruti,Alto 800,Ahmedabad,20329,Petrol,Manual,1st Owner,246099
+938,2017,Maruti,Ertiga,Ahmedabad,33221,Diesel,Manual,1st Owner,772899
+939,2017,Maruti,Swift Dzire,Hyderabad,19208,Diesel,Manual,1st Owner,690499
+940,2018,Renault,Kwid,Mumbai,6333,Petrol,Manual,1st Owner,350000
+941,2010,Hyundai,i10,Noida,116871,Petrol,Manual,1st Owner,215799
+942,2017,Renault,Kwid,Mumbai,37009,Petrol,Manual,1st Owner,320000
+943,2014,Maruti,Swift,New Delhi,68109,Diesel,Manual,1st Owner,363899
+944,2012,Maruti,Alto,Bengaluru,24640,Petrol,Manual,1st Owner,290599
+945,2018,Maruti,Swift,Ahmedabad,80785,Petrol,Manual,1st Owner,504999
+946,2016,Maruti,Swift Dzire,Mumbai,43981,Diesel,Manual,1st Owner,609899
+947,2015,Hyundai,Grand i10,Bengaluru,42972,Petrol,Manual,1st Owner,457999
+948,2018,Tata,Tiago,Chennai,9776,Petrol,Manual,1st Owner,533899
+949,2018,Maruti,Dzire,Patna,57946,Diesel,Manual,1st Owner,703799
+950,2018,Maruti,Dzire,Noida,13489,Petrol,Manual,2nd Owner,539999
+951,2016,Maruti,Alto K10,Chennai,14006,Petrol,,2nd Owner,361599
+952,2017,Hyundai,Elite i20,Noida,31378,Petrol,Manual,1st Owner,601499
+953,2017,Hyundai,Grand i10,Hyderabad,44204,Petrol,Manual,1st Owner,543099
+954,2013,Maruti,Swift Dzire,Noida,110484,Diesel,Manual,1st Owner,384599
+955,2016,Maruti,Vitara Brezza,Ahmedabad,108585,Diesel,Manual,1st Owner,617099
+956,2017,Renault,Kwid,Bengaluru,24686,Petrol,Automatic,1st Owner,423599
+957,2018,Maruti,Dzire,Pune,64285,Diesel,Manual,1st Owner,768799
+958,2018,Maruti,Swift,Patna,28203,Petrol,Manual,1st Owner,604299
+959,2012,Honda,Brio,Pune,52789,Petrol,Manual,1st Owner,266899
+960,2016,Maruti,Celerio,Hyderabad,34102,Petrol,Automatic,1st Owner,441699
+961,2018,Hyundai,Grand i10,Ahmedabad,18621,Petrol,Manual,1st Owner,501799
+962,2014,Honda,Amaze,Pune,27757,Petrol,Manual,1st Owner,437999
+963,2016,Maruti,Baleno,Hyderabad,153720,Petrol,Automatic,1st Owner,524699
+964,2012,Maruti,Swift,Kolkata,26627,Petrol,Manual,1st Owner,344699
+965,2016,Maruti,Celerio,Chennai,62433,Petrol,Manual,1st Owner,345899
+966,2017,Maruti,Alto 800,Ahmedabad,11658,Petrol,Manual,1st Owner,293899
+967,2015,Maruti,Swift Dzire,Chennai,74575,Diesel,Manual,1st Owner,496399
+968,2017,Ford,Ecosport,Noida,22113,Petrol,Manual,1st Owner,574599
+969,2018,Maruti,Alto 800,Ahmedabad,22854,Petrol,Manual,1st Owner,325099
+970,2019,Maruti,Eeco,Ahmedabad,4619,Petrol,Manual,1st Owner,480399
+971,2019,Maruti,Baleno,Ahmedabad,11316,Petrol,Manual,1st Owner,653699
+972,2015,Maruti,Alto K10,Hyderabad,234628,Petrol,Manual,1st Owner,212599
+973,2014,Maruti,Swift,Bengaluru,61970,Diesel,Manual,2nd Owner,463299
+974,2016,Maruti,Ciaz,Pune,82646,Diesel,Manual,1st Owner,589399
+975,2018,Hyundai,Creta,Chennai,47876,Diesel,,1st Owner,1112799
+976,2014,Maruti,Swift,New Delhi,31062,Petrol,Manual,1st Owner,390000
+977,2017,Maruti,Celerio,New Delhi,36606,Petrol,Automatic,1st Owner,370000
+978,2014,Maruti,Wagon R 1.0,Bengaluru,62642,Petrol,Manual,1st Owner,358199
+979,2015,Maruti,Wagon R 1.0,Bengaluru,29109,Petrol,Manual,2nd Owner,389499
+980,2014,Maruti,Alto K10,New Delhi,36628,Petrol,Manual,1st Owner,275999
+981,2014,Ford,Ecosport,Mumbai,39985,Petrol,Manual,1st Owner,545099
+982,2016,Hyundai,Grand i10,Mumbai,47324,Petrol,Manual,1st Owner,430299
+983,2017,Maruti,Swift,Mumbai,49179,Diesel,Manual,1st Owner,588000
+984,2019,Maruti,Eeco,Kolkata,11311,Petrol,Manual,1st Owner,390899
+985,2014,Maruti,Alto 800,Hyderabad,167062,Petrol,Manual,1st Owner,232099
+986,2016,Maruti,Wagon R 1.0,Chennai,32050,Petrol,Automatic,1st Owner,418999
+987,2015,Maruti,Wagon R 1.0,Mumbai,13522,Petrol,Manual,1st Owner,353599
+988,2017,Maruti,Vitara Brezza,New Delhi,35429,Diesel,Manual,1st Owner,741399
+989,2016,Maruti,Vitara Brezza,Kolkata,54938,Diesel,Manual,1st Owner,639099
+990,2017,Maruti,Baleno,New Delhi,12117,Petrol,Manual,2nd Owner,511799
+991,2012,Hyundai,i20,Ahmedabad,78490,Petrol,Manual,1st Owner,326399
+992,2019,Maruti,Alto,Ahmedabad,22827,Petrol,Manual,1st Owner,309299
+993,2010,Maruti,Alto,Bengaluru,57772,Petrol,Manual,1st Owner,234699
+994,2010,Maruti,Swift Dzire,Mumbai,84008,Diesel,Manual,2nd Owner,281699
+995,2015,Maruti,Alto K10,New Delhi,27490,Petrol,Manual,1st Owner,265099
+996,2015,Honda,Brio,Ahmedabad,50393,Petrol,Manual,1st Owner,305399
+997,2014,Maruti,Alto 800,Chennai,39576,Petrol,Manual,3rd Owner,250899
+998,2016,Maruti,Ertiga,Mumbai,30894,Diesel,Manual,1st Owner,754599
+999,2019,Maruti,Eeco,Bengaluru,6081,Petrol,Manual,1st Owner,466399
+1000,2018,Maruti,Dzire,Patna,32757,Diesel,Manual,1st Owner,637099
+1001,2016,Hyundai,Elite i20,Mumbai,56445,Petrol,Manual,2nd Owner,511899
+1002,2016,Maruti,Celerio,Pune,85812,Petrol,Manual,1st Owner,427199
+1003,2013,Maruti,Alto 800,New Delhi,44386,Petrol,Manual,1st Owner,200000
+1004,2015,Maruti,Swift,Ahmedabad,30905,Petrol,Manual,1st Owner,448199
+1005,2017,Maruti,Alto 800,Ahmedabad,28159,Petrol,Manual,2nd Owner,290799
+1006,2018,Maruti,Alto 800,Ahmedabad,16541,Petrol,Manual,1st Owner,330399
+1007,2012,Maruti,Alto K10,Patna,35858,Petrol,Manual,1st Owner,177699
+1008,2011,Volkswagen,Vento,Pune,87473,Petrol,Manual,1st Owner,250899
+1009,2016,Honda,Jazz,Patna,50007,Petrol,Manual,2nd Owner,382599
+1010,2012,Maruti,Alto K10,Kolkata,29621,Petrol,Manual,2nd Owner,259099
+1011,2013,Honda,Amaze,Pune,105820,Petrol,Manual,1st Owner,345299
+1012,2017,Maruti,Swift,Mumbai,44758,Petrol,Manual,1st Owner,503999
+1013,2017,Maruti,Baleno,New Delhi,26788,Petrol,Manual,2nd Owner,529899
+1014,2014,Maruti,Swift Dzire,New Delhi,50613,Diesel,Manual,1st Owner,342000
+1015,2013,Maruti,Wagon R 1.0,Hyderabad,58558,Petrol,Manual,1st Owner,337299
+1016,2017,Maruti,IGNIS,Bengaluru,21391,Petrol,Manual,1st Owner,493199
+1017,2018,Maruti,Dzire,Mumbai,37973,Diesel,Automatic,1st Owner,753899
+1018,2019,Maruti,Eeco,Ahmedabad,13464,Petrol,Manual,1st Owner,491699
+1019,2011,Hyundai,i10,Bengaluru,71708,Petrol,Manual,2nd Owner,305799
+1020,2015,Hyundai,Elite i20,Hyderabad,62400,Diesel,Manual,1st Owner,633199
+1021,2017,Maruti,Wagon R 1.0,Chennai,19552,Petrol,Automatic,1st Owner,506599
+1022,2016,Maruti,Swift Dzire,Pune,110078,Diesel,Manual,1st Owner,574099
+1023,2019,Hyundai,NEW SANTRO,Mumbai,9521,Petrol,Manual,1st Owner,476099
+1024,2016,Hyundai,Grand i10,Ahmedabad,49156,Petrol,Manual,1st Owner,432199
+1025,2018,Maruti,Alto K10,Bengaluru,3660,Petrol,Automatic,1st Owner,411899
+1026,2016,Hyundai,i10,Chennai,28477,Petrol,Manual,2nd Owner,396599
+1027,2014,Hyundai,Eon,Noida,76990,Petrol,Manual,1st Owner,212799
+1028,2014,Maruti,Alto K10,Bengaluru,62336,Petrol,Manual,1st Owner,335999
+1029,2019,Ford,Ecosport,Ahmedabad,11869,Petrol,Manual,1st Owner,783999
+1030,2015,Hyundai,Grand i10,Chennai,50398,Petrol,Manual,2nd Owner,416599
+1031,2011,Honda,City,Noida,50609,Petrol,Automatic,1st Owner,405899
+1032,2019,Honda,Jazz,Chennai,16519,Petrol,Manual,1st Owner,634599
+1033,2015,Maruti,Swift,Noida,80212,Diesel,Manual,1st Owner,378999
+1034,2018,Maruti,Alto 800,New Delhi,8490,Petrol,Manual,1st Owner,314399
+1035,2011,Maruti,Ritz,Bengaluru,45719,Petrol,Manual,2nd Owner,339199
+1036,2010,Honda,Jazz,Mumbai,69317,Petrol,Manual,2nd Owner,231999
+1037,2015,Maruti,Ritz,Bengaluru,54899,Petrol,Manual,1st Owner,502099
+1038,2015,Maruti,Swift,Ahmedabad,49622,Diesel,Manual,1st Owner,438399
+1039,2015,Maruti,Celerio,Hyderabad,86746,Petrol,Automatic,1st Owner,393499
+1040,2019,Hyundai,VENUE,Ahmedabad,12165,Petrol,Automatic,2nd Owner,888599
+1041,2020,Maruti,Eeco,Ahmedabad,3036,Petrol,Manual,1st Owner,475599
+1042,2018,Ford,Ecosport,Hyderabad,71483,Diesel,Manual,1st Owner,777599
+1043,2019,Maruti,Alto,Mumbai,21494,Petrol,Manual,2nd Owner,375299
+1044,2010,Maruti,Wagon R 1.0,New Delhi,62339,Petrol,Manual,2nd Owner,178000
+1045,2017,Hyundai,Elite i20,Chennai,50031,Petrol,Manual,2nd Owner,620899
+1046,2019,Hyundai,NEW SANTRO,Hyderabad,29452,Petrol,Manual,1st Owner,527399
+1047,2016,Hyundai,Elite i20,Hyderabad,38230,Petrol,Manual,1st Owner,639699
+1048,2018,Hyundai,Grand i10,Noida,55365,Petrol,Manual,2nd Owner,433099
+1049,2013,Hyundai,Eon,Kolkata,34821,Petrol,Manual,2nd Owner,240999
+1050,2017,Hyundai,Elite i20,New Delhi,34724,Petrol,Manual,1st Owner,585000
+1051,2019,Maruti,IGNIS,Chennai,17283,Petrol,Manual,1st Owner,596799
+1052,2017,Maruti,Swift,Chennai,16944,Petrol,Manual,1st Owner,615299
+1053,2009,Maruti,Alto,New Delhi,35919,Petrol,Manual,1st Owner,155799
+1054,2011,Maruti,Alto K10,Bengaluru,67419,Petrol,Manual,4th Owner,231199
+1055,2019,Hyundai,Elite i20,Bengaluru,13805,Petrol,Manual,1st Owner,709199
+1056,2017,Maruti,Alto K10,New Delhi,12139,Petrol,Manual,1st Owner,348599
+1057,2017,Maruti,Alto 800,Pune,12393,Petrol,Manual,1st Owner,347899
+1058,2014,Maruti,Swift,Kolkata,31436,Petrol,Manual,1st Owner,425599
+1059,2016,Maruti,Vitara Brezza,New Delhi,41629,Diesel,Manual,1st Owner,694899
+1060,2014,Maruti,Swift,Ahmedabad,89060,Diesel,Manual,2nd Owner,398299
+1061,2013,Maruti,Alto 800,Bengaluru,22219,Petrol,Manual,2nd Owner,274999
+1062,2014,Maruti,Alto K10,Bengaluru,40061,Petrol,Manual,2nd Owner,322099
+1063,2014,Maruti,Wagon R 1.0,Pune,137757,Petrol,Manual,1st Owner,319999
+1064,2012,Hyundai,i10,Bengaluru,21239,Petrol,Manual,1st Owner,389499
+1065,2019,Maruti,Ciaz,Kolkata,18625,Petrol,Manual,1st Owner,744599
+1066,2020,Hyundai,VENUE,Mumbai,3843,Petrol,Manual,1st Owner,972699
+1067,2013,Ford,Ecosport,Noida,95001,Petrol,Manual,2nd Owner,396399
+1068,2014,Hyundai,Santro Xing,New Delhi,39378,Petrol,Manual,1st Owner,271000
+1069,2015,Maruti,Alto 800,New Delhi,9217,Petrol,Manual,1st Owner,258599
+1070,2017,Maruti,Baleno,New Delhi,7395,Petrol,Manual,1st Owner,586000
+1071,2010,Hyundai,i20,Kolkata,54757,Petrol,Manual,2nd Owner,160000
+1072,2016,Maruti,Baleno,Hyderabad,51170,Diesel,Manual,1st Owner,629099
+1073,2018,Maruti,Alto 800,Noida,27886,Petrol,Manual,1st Owner,271899
+1074,2015,Hyundai,Elite i20,Pune,37423,Diesel,Manual,1st Owner,574899
+1075,2014,Hyundai,Eon,Bengaluru,25857,Petrol,Manual,1st Owner,310099
+1076,2017,Maruti,IGNIS,Bengaluru,53658,Petrol,Automatic,1st Owner,530599
+1077,2014,Hyundai,Grand i10,Kolkata,116254,Diesel,Manual,1st Owner,287599
+1078,2017,Renault,Kwid,Kolkata,27336,Petrol,,1st Owner,278899
+1079,2018,Maruti,Eeco,Noida,34554,Petrol + CNG,Manual,1st Owner,441399
+1080,2014,Maruti,Alto K10,Chennai,41920,Petrol,Manual,1st Owner,284599
+1081,2014,Hyundai,Verna,Pune,57515,Diesel,Manual,1st Owner,599999
+1082,2017,Maruti,Baleno,Chennai,37606,Diesel,Manual,2nd Owner,571899
+1083,2016,Hyundai,Grand i10,Pune,10484,Petrol,Manual,1st Owner,444799
+1084,2015,Honda,Amaze,Noida,27407,Petrol,Manual,1st Owner,453399
+1085,2013,Honda,Brio,Hyderabad,62124,Petrol,Manual,1st Owner,328499
+1086,2016,Honda,Brio,New Delhi,36373,Petrol,Manual,1st Owner,399000
+1087,2019,Maruti,Baleno,Chennai,14938,Petrol,Manual,1st Owner,666199
+1088,2012,Maruti,Wagon R 1.0,Hyderabad,14631,Petrol,Manual,1st Owner,334999
+1089,2018,Maruti,Celerio,Pune,10626,Petrol,Manual,1st Owner,469099
+1090,2015,Maruti,Wagon R 1.0,Patna,68840,Petrol + CNG,Manual,1st Owner,315399
+1091,2019,Maruti,Swift,Noida,14959,Petrol,Manual,1st Owner,609699
+1092,2014,Hyundai,i10,Chennai,49378,Petrol,Manual,1st Owner,342699
+1093,2018,Hyundai,Grand i10,Hyderabad,31705,Petrol,Automatic,1st Owner,577499
+1094,2015,Honda,Jazz,Ahmedabad,90931,Petrol,Automatic,2nd Owner,461768
+1095,2014,Maruti,Alto 800,New Delhi,16877,Petrol,Manual,1st Owner,237499
+1096,2012,Hyundai,i20,Mumbai,64884,Petrol,Manual,2nd Owner,325499
+1097,2018,Maruti,Swift,Chennai,31935,Petrol,Manual,1st Owner,597199
+1098,2019,Maruti,Alto 800,Kolkata,7646,Petrol,Manual,1st Owner,343499
+1099,2015,Maruti,Alto K10,Pune,12657,Petrol,Manual,1st Owner,266899
+1100,2019,Maruti,Ertiga,Pune,23140,Diesel,Manual,1st Owner,1117799
+1101,2017,Tata,Tiago,Chennai,54117,Petrol,Manual,2nd Owner,403999
+1102,2019,Maruti,Eeco,Ahmedabad,12028,Petrol,Manual,1st Owner,457999
+1103,2017,Hyundai,Grand i10,Ahmedabad,10931,Petrol,Automatic,3rd Owner,500499
+1104,2019,Maruti,Celerio,Noida,11873,Petrol,Manual,1st Owner,395499
+1105,2011,Maruti,Wagon R 1.0,Bengaluru,29575,Petrol,Manual,1st Owner,346899
+1106,2018,Maruti,Alto 800,Hyderabad,25725,Petrol,Manual,1st Owner,319799
+1107,2016,Maruti,S Cross,Ahmedabad,53065,Diesel,Manual,1st Owner,623999
+1108,2017,Ford,Ecosport,Mumbai,13768,Petrol,Automatic,2nd Owner,778499
+1109,2016,Renault,Kwid,Noida,40124,Petrol,Manual,3rd Owner,235299
+1110,2013,Maruti,Swift,Bengaluru,51646,Petrol,Manual,1st Owner,449299
+1111,2013,Hyundai,i20,Mumbai,19494,Petrol,Manual,2nd Owner,381000
+1112,2017,Hyundai,Eon,Chennai,35527,Petrol,Manual,1st Owner,335799
+1113,2018,Maruti,Baleno,Kolkata,18175,Petrol,Manual,1st Owner,564799
+1114,2012,Hyundai,i10,Mumbai,55032,Petrol,Manual,1st Owner,262000
+1115,2013,Volkswagen,Vento,Mumbai,21010,Petrol,Automatic,1st Owner,495000
+1116,2018,Maruti,Alto 800,Ahmedabad,20086,Petrol,Manual,1st Owner,334499
+1117,2011,Maruti,Alto,Chennai,57621,Petrol,Manual,2nd Owner,221599
+1118,2015,Hyundai,i10,Patna,33972,Petrol,Manual,1st Owner,221000
+1119,2012,Maruti,Alto 800,Kolkata,38732,Petrol,Manual,1st Owner,285499
+1120,2020,Maruti,Eeco,Ahmedabad,6094,Petrol,Manual,1st Owner,430599
+1121,2019,Hyundai,Creta,Ahmedabad,5616,Petrol,Manual,2nd Owner,1050299
+1122,2015,Volkswagen,Vento,Ahmedabad,62397,Petrol,,1st Owner,450000
+1123,2017,Renault,Kwid,Ahmedabad,54481,Petrol,Automatic,1st Owner,321799
+1124,2013,Ford,Ecosport,Kolkata,88950,Diesel,Manual,1st Owner,429999
+1125,2018,Hyundai,Elite i20,Noida,35431,Petrol,Manual,1st Owner,550499
+1126,2017,Maruti,Dzire,Pune,29736,Diesel,Manual,1st Owner,697599
+1127,2018,Maruti,Alto 800,Ahmedabad,70027,Petrol,Manual,1st Owner,304699
+1128,2015,Honda,City,Mumbai,5144,Petrol,Manual,1st Owner,714199
+1129,2012,Maruti,Alto 800,Bengaluru,28642,Petrol,Manual,1st Owner,258099
+1130,2018,Honda,Amaze,Mumbai,11175,Petrol,Manual,1st Owner,644399
+1131,2021,Maruti,Baleno,Ahmedabad,8762,Petrol,Manual,1st Owner,526500
+1132,2015,Maruti,Wagon R 1.0,Kolkata,17668,Petrol,Manual,1st Owner,341899
+1133,2015,Maruti,Swift,Noida,35725,Petrol,Manual,1st Owner,398399
+1134,2016,Volkswagen,Polo,Pune,66689,Petrol,Manual,1st Owner,478199
+1135,2020,Maruti,Dzire,New Delhi,27816,Petrol,Manual,1st Owner,575000
+1136,2013,Maruti,Swift Dzire,Noida,156670,Diesel,Manual,1st Owner,299999
+1137,2017,Maruti,Swift,Chennai,28667,Petrol,Manual,1st Owner,585099
+1138,2018,Hyundai,Grand i10,Noida,24804,Petrol,Manual,1st Owner,443399
+1139,2016,Hyundai,Eon,Chennai,36422,Petrol,Manual,1st Owner,302099
+1140,2018,Maruti,Baleno,Patna,24114,Petrol,Manual,1st Owner,593299
+1141,2015,Volkswagen,Polo,Chennai,44193,Petrol,Manual,2nd Owner,478399
+1142,2018,Hyundai,Elite i20,Hyderabad,8643,Petrol,Manual,1st Owner,674199
+1143,2016,Maruti,Vitara Brezza,Noida,89521,Diesel,Manual,1st Owner,670199
+1144,2016,Maruti,Vitara Brezza,Ahmedabad,149890,Diesel,Manual,2nd Owner,703799
+1145,2015,Maruti,Swift Dzire,Kolkata,56107,Petrol,Manual,1st Owner,535099
+1146,2016,Maruti,Ciaz,Pune,82541,Diesel,Manual,2nd Owner,579199
+1147,2013,Hyundai,Eon,Kolkata,18965,Petrol,Manual,1st Owner,221399
+1148,2019,Maruti,Swift,New Delhi,12538,Petrol,Manual,1st Owner,535000
+1149,2016,Hyundai,Grand i10,Bengaluru,25000,Petrol,Manual,1st Owner,498299
+1150,2015,Maruti,Swift,Ahmedabad,53233,Petrol,Manual,2nd Owner,419199
+1151,2012,Hyundai,i20,Pune,36697,Petrol,Manual,2nd Owner,314499
+1152,2019,Maruti,Vitara Brezza,Ahmedabad,16477,Diesel,Manual,1st Owner,841499
+1153,2014,Maruti,Swift Dzire,Mumbai,40454,Petrol,Manual,1st Owner,439199
+1154,2010,Volkswagen,Polo,Hyderabad,225564,Diesel,Manual,1st Owner,151000
+1155,2011,Hyundai,i10,Noida,29101,Petrol,Manual,3rd Owner,266699
+1156,2014,Maruti,Celerio,Bengaluru,24947,Petrol,Automatic,1st Owner,419599
+1157,2018,Hyundai,Grand i10,Bengaluru,16018,Petrol,Automatic,2nd Owner,575399
+1158,2019,Honda,City,Pune,7424,Petrol,Manual,1st Owner,1079199
+1159,2018,Maruti,Baleno,Ahmedabad,68152,Diesel,Manual,1st Owner,536799
+1160,2015,Maruti,Swift,Noida,41046,Petrol,Manual,2nd Owner,398199
+1161,2019,Maruti,Baleno,Chennai,8872,Petrol,Manual,2nd Owner,698299
+1162,2020,Renault,Kwid,Noida,4415,Petrol,Manual,1st Owner,420999
+1163,2014,Maruti,Alto 800,Kolkata,14195,Petrol,Manual,2nd Owner,245399
+1164,2011,Volkswagen,Vento,Mumbai,62699,Petrol,Manual,1st Owner,290000
+1165,2014,Hyundai,Grand i10,Ahmedabad,62035,Petrol,Automatic,3rd Owner,401299
+1166,2013,Maruti,Alto 800,Kolkata,9682,Petrol,Manual,1st Owner,244199
+1167,2019,Hyundai,Grand i10,Pune,19007,Petrol,Manual,1st Owner,486499
+1168,2015,Maruti,Swift Dzire,Hyderabad,97036,Diesel,Manual,1st Owner,514899
+1169,2015,Honda,Brio,Bengaluru,4392,Petrol,Manual,1st Owner,512399
+1170,2012,Honda,Brio,Bengaluru,56027,Petrol,Manual,2nd Owner,322699
+1171,2019,Maruti,Eeco,Ahmedabad,2475,Petrol,Manual,1st Owner,490699
+1172,2019,Maruti,IGNIS,Chennai,1278,Petrol,Manual,1st Owner,579299
+1173,2018,Maruti,S Cross,Kolkata,69736,Diesel,Manual,1st Owner,821699
+1174,2016,Maruti,Baleno,Noida,88453,Diesel,Manual,1st Owner,521599
+1175,2017,Maruti,Swift,Chennai,42061,Petrol,Manual,1st Owner,529699
+1176,2015,Hyundai,Grand i10,Noida,32744,Petrol,Manual,2nd Owner,356799
+1177,2013,Maruti,Swift Dzire,Noida,104974,Petrol,Manual,1st Owner,352899
+1178,2014,Maruti,Celerio,Bengaluru,18035,Petrol,Automatic,1st Owner,438199
+1179,2017,Maruti,Dzire,Pune,15738,Diesel,Manual,1st Owner,712599
+1180,2012,Maruti,Ritz,Pune,88243,Diesel,Manual,2nd Owner,321699
+1181,2012,Maruti,Swift,Bengaluru,51166,Petrol,Manual,1st Owner,467999
+1182,2018,Tata,Tiago,Chennai,11253,Petrol,Manual,1st Owner,479699
+1183,2015,Ford,Ecosport,Chennai,85750,Petrol,Manual,1st Owner,534299
+1184,2009,Maruti,Alto,Bengaluru,38264,Petrol,Manual,1st Owner,223799
+1185,2019,Renault,Kwid,New Delhi,18483,Petrol,Manual,2nd Owner,338899
+1186,2015,Maruti,Eeco,Kolkata,80887,Petrol,Manual,1st Owner,337599
+1187,2019,Hyundai,Grand i10,Kolkata,7096,Petrol,Manual,1st Owner,508199
+1188,2017,Hyundai,Creta,Kolkata,50042,Diesel,Manual,1st Owner,868199
+1189,2015,Maruti,Swift,Ahmedabad,60507,Diesel,Manual,1st Owner,476599
+1190,2011,Hyundai,i10,Mumbai,59337,Petrol,Manual,1st Owner,250000
+1191,2016,Hyundai,Eon,Bengaluru,12373,Petrol,Manual,2nd Owner,310399
+1192,2017,Hyundai,Eon,Kolkata,23048,Petrol,Manual,1st Owner,298199
+1193,2015,Maruti,Swift Dzire,Hyderabad,106675,Petrol,Manual,1st Owner,486199
+1194,2016,Maruti,Baleno,Mumbai,14866,Petrol,Manual,2nd Owner,534899
+1195,2020,Maruti,Baleno,Ahmedabad,5672,Petrol,Manual,1st Owner,641999
+1196,2016,Maruti,Baleno,Chennai,53571,Petrol,Automatic,1st Owner,619499
+1197,2009,Hyundai,i10,Chennai,31179,Petrol,Manual,1st Owner,255299
+1198,2012,Hyundai,i10,New Delhi,38701,Petrol,Manual,1st Owner,240000
+1199,2017,Maruti,Alto 800,Chennai,12389,Petrol,Manual,1st Owner,322199
+1200,2017,Hyundai,Creta,Bengaluru,23831,Petrol,Manual,1st Owner,817599
+1201,2019,Hyundai,Elite i20,Hyderabad,5355,Petrol,Manual,2nd Owner,718899
+1202,2015,Hyundai,Elite i20,Chennai,79674,Petrol,Manual,1st Owner,550999
+1203,2013,Hyundai,Grand i10,Bengaluru,77006,Petrol,Manual,2nd Owner,373799
+1204,2016,Hyundai,Elite i20,Mumbai,14207,Petrol,Manual,1st Owner,549899
+1205,2017,Maruti,Eeco,Ahmedabad,139835,Petrol + LPG,Manual,1st Owner,398299
+1206,2018,Maruti,Alto 800,Noida,20589,Petrol,Manual,1st Owner,317699
+1207,2018,Maruti,Alto 800,Chennai,7431,Petrol,Manual,1st Owner,339399
+1208,2014,Maruti,Swift Dzire,Mumbai,23329,Petrol,Manual,1st Owner,462299
+1209,2013,Maruti,Alto 800,Noida,82921,Petrol + CNG,Manual,2nd Owner,174799
+1210,2018,Ford,Ecosport,Kolkata,17041,Diesel,Manual,1st Owner,744599
+1211,2018,Maruti,Eeco,Noida,47263,Petrol + CNG,Manual,1st Owner,382899
+1212,2013,Hyundai,Grand i10,Noida,21843,Petrol,Manual,1st Owner,399499
+1213,2018,Hyundai,Elite i20,Ahmedabad,73614,Diesel,Manual,1st Owner,643199
+1214,2019,Maruti,Eeco,Ahmedabad,88418,Petrol + CNG,Manual,1st Owner,443399
+1215,2015,Hyundai,Elite i20,New Delhi,60865,Petrol,Manual,1st Owner,480799
+1216,2015,Maruti,S Cross,Hyderabad,74484,Diesel,Manual,2nd Owner,469899
+1217,2015,Maruti,Swift,Mumbai,30761,Petrol,Manual,2nd Owner,413599
+1218,2011,Volkswagen,Polo,New Delhi,56387,Petrol,Manual,2nd Owner,313199
+1219,2015,Hyundai,Elite i20,Kolkata,47673,Petrol,Manual,2nd Owner,522999
+1220,2015,Maruti,Wagon R 1.0,Kolkata,52942,Petrol,Manual,1st Owner,298499
+1221,2017,Maruti,Alto 800,New Delhi,65480,Petrol,Manual,1st Owner,268399
+1222,2015,Maruti,Wagon R 1.0,Hyderabad,68409,Petrol,Manual,2nd Owner,360399
+1223,2019,Maruti,Ertiga,Hyderabad,37486,Diesel,Manual,1st Owner,1199899
+1224,2017,Renault,Kwid,Noida,23048,Petrol,Manual,1st Owner,275899
+1225,2015,Maruti,Swift Dzire,Noida,75571,Diesel,Manual,2nd Owner,403099
+1226,2011,Maruti,Alto,Chennai,21809,Petrol,Manual,1st Owner,251699
+1227,2009,Hyundai,Santro Xing,Hyderabad,105529,Petrol,Manual,1st Owner,172199
+1228,2014,Volkswagen,Vento,Mumbai,46905,Petrol,,1st Owner,450000
+1229,2019,Maruti,Vitara Brezza,New Delhi,26930,Diesel,Manual,1st Owner,767399
+1230,2018,Maruti,Alto 800,New Delhi,36558,Petrol,Manual,1st Owner,318299
+1231,2015,Hyundai,Grand i10,Kolkata,34200,Petrol,Manual,1st Owner,439799
+1232,2011,Hyundai,i10,Hyderabad,70969,Petrol,Manual,1st Owner,277099
+1233,2014,Maruti,Wagon R 1.0,Hyderabad,90978,Petrol,Manual,2nd Owner,335899
+1234,2014,Hyundai,Grand i10,Bengaluru,28276,Petrol,Manual,2nd Owner,456999
+1235,2016,Maruti,Alto 800,Bengaluru,24003,Petrol,Manual,1st Owner,307099
+1236,2016,Maruti,Swift Dzire,Pune,26583,Petrol,Manual,1st Owner,480699
+1237,2020,Maruti,Eeco,Ahmedabad,32209,Petrol,Manual,1st Owner,479699
+1238,2016,Maruti,Baleno,Mumbai,26348,Petrol,Manual,1st Owner,570899
+1239,2013,Maruti,Swift Dzire,New Delhi,60460,Petrol,Manual,1st Owner,345000
+1240,2015,Maruti,Celerio,Hyderabad,44574,Petrol,Automatic,1st Owner,431999
+1241,2016,Honda,Jazz,Noida,30737,Petrol,Manual,1st Owner,524799
+1242,2014,Maruti,Celerio,New Delhi,44563,Petrol,Manual,1st Owner,327000
+1243,2016,Hyundai,Elite i20,Hyderabad,88860,Petrol,Manual,1st Owner,522299
+1244,2019,Maruti,Eeco,Chennai,9891,Petrol,Manual,1st Owner,448899
+1245,2018,Maruti,Ciaz,Noida,13003,Petrol,Manual,1st Owner,909099
+1246,2017,Hyundai,Creta,Noida,80682,Diesel,Automatic,1st Owner,965099
+1247,2019,Maruti,Celerio,Pune,6559,Petrol,Manual,1st Owner,518599
+1248,2013,Maruti,Swift Dzire,Bengaluru,53166,Petrol,,1st Owner,442199
+1249,2014,Honda,Brio,Pune,75162,Petrol,Automatic,1st Owner,422899
+1250,2011,Maruti,Alto K10,Hyderabad,73025,Petrol,Manual,2nd Owner,200299
+1251,2013,Ford,Ecosport,Bengaluru,39651,Petrol,Manual,2nd Owner,656199
+1252,2017,Maruti,Alto 800,Noida,23227,Petrol,Manual,1st Owner,268599
+1253,2017,Hyundai,Creta,Hyderabad,30014,Petrol,Manual,1st Owner,890099
+1254,2019,Maruti,Vitara Brezza,Noida,27082,Diesel,Manual,1st Owner,831499
+1255,2015,Maruti,Wagon R 1.0,Pune,57492,Petrol,Manual,1st Owner,349999
+1256,2018,Maruti,Baleno,Kolkata,4171,Petrol,Manual,1st Owner,637699
+1257,2019,Maruti,Vitara Brezza,Noida,29804,Diesel,Manual,1st Owner,765199
+1258,2013,Maruti,Swift,Noida,107134,Diesel,Manual,1st Owner,301699
+1259,2011,Hyundai,i10,Hyderabad,116395,Petrol,Automatic,1st Owner,347499
+1260,2010,Honda,City,Noida,60222,Petrol,Automatic,1st Owner,361199
+1261,2015,Hyundai,i10,Bengaluru,23841,Petrol,Manual,1st Owner,433899
+1262,2015,Maruti,Alto 800,Pune,13222,Petrol,Manual,1st Owner,278899
+1263,2011,Maruti,Alto,Bengaluru,77395,Petrol,Manual,2nd Owner,217799
+1264,2014,Hyundai,Eon,Bengaluru,25897,Petrol,Manual,2nd Owner,319099
+1265,2019,Maruti,Baleno,Chennai,18253,Petrol,Manual,1st Owner,693999
+1266,2018,Maruti,IGNIS,Noida,30591,Petrol,Manual,2nd Owner,419599
+1267,2012,Hyundai,i20,Ahmedabad,106922,Diesel,Manual,3rd Owner,300000
+1268,2013,Maruti,Alto 800,New Delhi,52685,Petrol,Manual,1st Owner,210199
+1269,2016,Maruti,Wagon R 1.0,Mumbai,15848,Petrol,Manual,1st Owner,375000
+1270,2017,Hyundai,Grand i10,Pune,14217,Petrol,Automatic,1st Owner,529099
+1271,2009,Maruti,Swift,Hyderabad,100009,Diesel,Manual,1st Owner,265299
+1272,2015,Hyundai,Creta,Noida,113657,Diesel,Manual,1st Owner,784099
+1273,2010,Maruti,Ritz,Bengaluru,66102,Petrol,Manual,2nd Owner,311099
+1274,2014,Hyundai,i20,Chennai,33697,Petrol,Manual,2nd Owner,424399
+1275,2014,Maruti,Swift,Chennai,61230,Diesel,Manual,1st Owner,502299
+1276,2020,Ford,Ecosport,Pune,16710,Diesel,Manual,1st Owner,978399
+1277,2009,Hyundai,i10,Hyderabad,66427,Petrol,Manual,2nd Owner,223799
+1278,2016,Volkswagen,Polo,Mumbai,50835,Petrol,Manual,2nd Owner,438999
+1279,2016,Hyundai,Grand i10,Pune,57926,Petrol,Manual,1st Owner,437599
+1280,2010,Maruti,Alto,Bengaluru,36141,Petrol,Manual,1st Owner,228499
+1281,2018,Maruti,Dzire,Mumbai,31766,Petrol,Manual,1st Owner,650000
+1282,2015,Hyundai,Grand i10,Mumbai,21129,Petrol,Manual,2nd Owner,446099
+1283,2013,Hyundai,i20,Bengaluru,45113,Petrol,Manual,1st Owner,475099
+1284,2014,Maruti,Alto K10,Bengaluru,43290,Petrol,Manual,3rd Owner,310099
+1285,2015,Maruti,Alto K10,Bengaluru,24669,Petrol,Manual,1st Owner,345199
+1286,2016,Maruti,Baleno,Bengaluru,32903,Petrol,Manual,1st Owner,630399
+1287,2015,Maruti,Swift,New Delhi,24140,Petrol,Manual,1st Owner,408000
+1288,2014,Maruti,Swift,Mumbai,56520,Petrol,Manual,2nd Owner,382999
+1289,2012,Honda,Brio,Mumbai,62846,Petrol,Manual,2nd Owner,255000
+1290,2017,Maruti,Wagon R 1.0,Chennai,42080,Petrol,Manual,2nd Owner,421299
+1291,2010,Hyundai,i10,New Delhi,61347,Petrol,Manual,2nd Owner,151000
+1292,2015,Maruti,Swift Dzire,New Delhi,45517,Petrol,Manual,1st Owner,440000
+1293,2013,Maruti,Swift,Bengaluru,45342,Petrol,Manual,3rd Owner,420099
+1294,2015,Maruti,Celerio,Hyderabad,102472,Petrol,Manual,1st Owner,344499
+1295,2015,Maruti,Swift Dzire,Hyderabad,107589,Petrol,Manual,1st Owner,515699
+1296,2013,Hyundai,Verna,Kolkata,67574,Petrol,Manual,1st Owner,402999
+1297,2015,Maruti,Swift Dzire,Hyderabad,60966,Petrol,Manual,2nd Owner,503599
+1298,2012,Maruti,Swift Dzire,Pune,133678,Diesel,Manual,1st Owner,423099
+1299,2017,Hyundai,Creta,Ahmedabad,80660,Diesel,Manual,1st Owner,768399
+1300,2018,Hyundai,NEW SANTRO,Chennai,11119,Petrol,,1st Owner,552999
+1301,2018,Maruti,Baleno,Ahmedabad,36190,Petrol,Manual,1st Owner,562099
+1302,2020,Maruti,Baleno,Bengaluru,21632,Petrol,Automatic,1st Owner,836899
+1303,2015,Hyundai,i10,Chennai,56757,Petrol,Manual,1st Owner,386199
+1304,2016,Maruti,Baleno,Chennai,37783,Petrol,Manual,1st Owner,622699
+1305,2011,Maruti,Alto,Hyderabad,59373,Petrol,Manual,2nd Owner,211099
+1306,2017,Renault,Kwid,New Delhi,20040,Petrol,Manual,1st Owner,360000
+1307,2018,Maruti,Alto K10,Kolkata,2664,Petrol,,1st Owner,374499
+1308,2012,Hyundai,i20,Noida,55764,Diesel,Manual,2nd Owner,261099
+1309,2014,Maruti,Ertiga,Kolkata,96226,Diesel,Manual,1st Owner,615799
+1310,2012,Hyundai,i20,Kolkata,81650,Diesel,Manual,2nd Owner,211799
+1311,2011,Maruti,Swift,Mumbai,58013,Petrol,Manual,1st Owner,305000
+1312,2016,Maruti,Swift,Ahmedabad,44689,Petrol,Manual,1st Owner,483399
+1313,2019,Maruti,Alto,New Delhi,10554,Petrol,Manual,1st Owner,329000
+1314,2017,Hyundai,Grand i10,Ahmedabad,100507,Petrol,Manual,1st Owner,521799
+1315,2011,Volkswagen,Polo,Pune,38579,Petrol,Manual,1st Owner,277899
+1316,2009,Hyundai,Santro Xing,Kolkata,35383,Petrol,Manual,1st Owner,163599
+1317,2015,Honda,Brio,Bengaluru,42320,Petrol,Manual,2nd Owner,427799
+1318,2015,Maruti,Swift Dzire,Noida,71488,Diesel,Manual,1st Owner,380599
+1319,2015,Hyundai,Elite i20,Kolkata,28228,Petrol,Manual,2nd Owner,465599
+1320,2019,Maruti,Eeco,Chennai,15028,Petrol,Manual,1st Owner,451399
+1321,2014,Hyundai,i10,Hyderabad,28446,Petrol,Manual,1st Owner,350799
+1322,2019,Maruti,Swift,Noida,3362,Petrol,Manual,1st Owner,620699
+1323,2019,Hyundai,NEW SANTRO,Chennai,20728,Petrol,Manual,1st Owner,485599
+1324,2019,Maruti,Alto,Ahmedabad,39667,Petrol,Manual,1st Owner,333299
+1325,2019,Maruti,Baleno,Mumbai,15025,Petrol,Manual,1st Owner,645699
+1326,2014,Maruti,Alto 800,Chennai,24198,Petrol,Manual,1st Owner,272299
+1327,2011,Volkswagen,Polo,Pune,38375,Petrol,Manual,1st Owner,293199
+1328,2017,Renault,Kwid,Noida,11721,Petrol,,1st Owner,383799
+1329,2017,Maruti,Wagon R 1.0,Chennai,30184,Petrol,Manual,1st Owner,433999
+1330,2017,Maruti,Celerio,Bengaluru,18456,Petrol,Manual,1st Owner,502399
+1331,2019,Maruti,Eeco,Bengaluru,18812,Petrol,Manual,2nd Owner,447799
+1332,2015,Hyundai,Elite i20,Chennai,64360,Petrol,Manual,1st Owner,576399
+1333,2018,Maruti,Swift,Ahmedabad,8648,Petrol,Manual,1st Owner,590999
+1334,2014,Hyundai,Elite i20,Mumbai,32024,Petrol,Manual,2nd Owner,489999
+1335,2016,Maruti,Vitara Brezza,Noida,33572,Diesel,Manual,1st Owner,656799
+1336,2015,Maruti,Alto 800,Hyderabad,82540,Petrol,Manual,2nd Owner,265699
+1337,2017,Maruti,Wagon R 1.0,Ahmedabad,36824,Petrol,Manual,1st Owner,406499
+1338,2015,Maruti,Alto 800,Chennai,61643,Petrol,Manual,1st Owner,283499
+1339,2017,Maruti,Celerio,Noida,41914,Petrol,Automatic,2nd Owner,404199
+1340,2019,Maruti,Dzire,Kolkata,1674,Petrol,Manual,2nd Owner,641199
+1341,2015,Maruti,Swift,Chennai,86119,Petrol,Manual,2nd Owner,449399
+1342,2018,Hyundai,Elite i20,Hyderabad,20816,Petrol,Manual,1st Owner,640299
+1343,2015,Hyundai,Grand i10,Mumbai,40737,Petrol,Automatic,1st Owner,432499
+1344,2018,Maruti,Vitara Brezza,Pune,35742,Diesel,Automatic,1st Owner,970699
+1345,2016,Volkswagen,Polo,Bengaluru,40124,Petrol,Automatic,1st Owner,713799
+1346,2016,Maruti,Alto 800,New Delhi,51310,Petrol,Manual,1st Owner,308000
+1347,2014,Maruti,Ciaz,Kolkata,135293,Diesel,Manual,1st Owner,629199
+1348,2018,Honda,Amaze,Bengaluru,27684,Diesel,Manual,1st Owner,825899
+1349,2016,Maruti,Baleno,Hyderabad,103172,Petrol,Manual,1st Owner,624799
+1350,2014,Maruti,Eeco,Chennai,18371,Petrol,Manual,1st Owner,354499
+1351,2011,Volkswagen,Polo,New Delhi,67235,Petrol,Manual,1st Owner,211000
+1352,2016,Maruti,Wagon R 1.0,Bengaluru,27428,Petrol,Manual,2nd Owner,420299
+1353,2017,Maruti,Celerio,Mumbai,9506,Petrol,Manual,1st Owner,447499
+1354,2017,Honda,City,Bengaluru,47188,Petrol,Manual,1st Owner,814499
+1355,2018,Tata,Tiago,Chennai,12997,Petrol,Manual,1st Owner,528899
+1356,2016,Maruti,Vitara Brezza,Noida,98348,Diesel,Manual,1st Owner,641599
+1357,2016,Maruti,Vitara Brezza,Mumbai,46709,Diesel,Manual,1st Owner,735599
+1358,2014,Maruti,Alto 800,Pune,9503,Petrol,Manual,1st Owner,270699
+1359,2016,Maruti,Wagon R 1.0,New Delhi,27654,Petrol,Manual,1st Owner,325000
+1360,2016,Maruti,Baleno,Hyderabad,126738,Diesel,Manual,1st Owner,576899
+1361,2018,Volkswagen,Polo,Ahmedabad,16969,Petrol,Manual,1st Owner,553399
+1362,2015,Maruti,Swift,New Delhi,68871,Diesel,Manual,1st Owner,461899
+1363,2011,Hyundai,i10,Mumbai,43411,Petrol,Manual,2nd Owner,224499
+1364,2015,Maruti,Alto 800,Hyderabad,57741,Petrol,Manual,1st Owner,267099
+1365,2012,Maruti,Alto 800,Bengaluru,24679,Petrol,Manual,3rd Owner,236199
+1366,2015,Maruti,Wagon R 1.0,Bengaluru,33348,Petrol,Manual,1st Owner,429799
+1367,2020,Maruti,Vitara Brezza,Ahmedabad,10172,Petrol,Manual,1st Owner,734699
+1368,2013,Maruti,Alto K10,Kolkata,41992,Petrol,Manual,1st Owner,231699
+1369,2013,Maruti,Swift Dzire,Mumbai,44065,Petrol,Manual,1st Owner,500000
+1370,2017,Maruti,Ertiga,Bengaluru,30910,Petrol,Manual,1st Owner,800199
+1371,2018,Maruti,Baleno,Hyderabad,142383,Petrol,Manual,1st Owner,634699
+1372,2015,Maruti,Wagon R 1.0,Pune,70814,Petrol,Manual,1st Owner,334599
+1373,2016,Maruti,Alto K10,Kolkata,8615,Petrol,Manual,1st Owner,280699
+1374,2017,Ford,Ecosport,Mumbai,37819,Petrol,Automatic,1st Owner,870899
+1375,2016,Honda,City,New Delhi,56403,Petrol,Manual,1st Owner,580099
+1376,2010,Maruti,Alto K10,Chennai,33888,Petrol,Manual,1st Owner,221899
+1377,2020,Maruti,Baleno,Ahmedabad,4560,Petrol,Manual,1st Owner,675699
+1378,2012,Maruti,Alto,Hyderabad,45552,Petrol,Manual,2nd Owner,222099
+1379,2015,Maruti,Swift,Noida,73411,Petrol,Manual,1st Owner,334699
+1380,2010,Maruti,Alto,New Delhi,48926,Petrol,Manual,1st Owner,148099
+1381,2012,Hyundai,i10,Chennai,71853,Petrol,Manual,2nd Owner,303599
+1382,2013,Honda,Brio,Mumbai,35510,Petrol,Automatic,1st Owner,495000
+1383,2016,Maruti,Ertiga,Noida,24744,Diesel,Manual,1st Owner,640799
+1384,2013,Hyundai,i10,Patna,91080,Petrol,Manual,1st Owner,298199
+1385,2008,Hyundai,Santro Xing,Hyderabad,65391,Petrol,Manual,1st Owner,195799
+1386,2014,Maruti,Wagon R 1.0,Bengaluru,51642,Petrol,Manual,2nd Owner,361199
+1387,2016,Maruti,S Cross,Bengaluru,31699,Diesel,Manual,2nd Owner,700199
+1388,2013,Maruti,Alto K10,Hyderabad,44958,Petrol,Manual,2nd Owner,250699
+1389,2014,Hyundai,i10,Pune,21661,Petrol,Manual,1st Owner,342199
+1390,2015,Honda,Brio,Ahmedabad,42162,Petrol,Manual,1st Owner,361599
+1391,2018,Tata,Tiago,Mumbai,18562,Petrol,Manual,1st Owner,495000
+1392,2017,Maruti,Baleno,New Delhi,32501,Petrol,Manual,1st Owner,607000
+1393,2015,Hyundai,i10,New Delhi,61271,Petrol,Manual,1st Owner,262000
+1394,2012,Maruti,Swift,Bengaluru,38628,Petrol,Manual,1st Owner,518199
+1395,2020,Maruti,Alto,Noida,9641,Petrol,Manual,1st Owner,346799
+1396,2020,Hyundai,Elite i20,Noida,16962,Petrol,Manual,1st Owner,630899
+1397,2013,Hyundai,Verna,Mumbai,45050,Petrol,Manual,1st Owner,444000
+1398,2019,Hyundai,NEW SANTRO,Pune,13505,Petrol,Automatic,1st Owner,538199
+1399,2021,Hyundai,VENUE,Ahmedabad,5656,Petrol,Manual,1st Owner,807999
+1400,2018,Maruti,Alto K10,Chennai,35899,Petrol,Manual,1st Owner,357199
+1401,2016,Maruti,Swift,Pune,82420,Diesel,Manual,1st Owner,550399
+1402,2018,Tata,Tiago,Hyderabad,10150,Petrol,Manual,1st Owner,474299
+1403,2020,Maruti,Alto,Ahmedabad,3772,Petrol,Manual,1st Owner,344799
+1404,2014,Honda,Amaze,Mumbai,35265,Petrol,Manual,1st Owner,423499
+1405,2016,Volkswagen,Vento,Pune,68067,Petrol,,1st Owner,647499
+1406,2017,Hyundai,Elite i20,Pune,40459,Petrol,Manual,1st Owner,572599
+1407,2015,Maruti,Swift Dzire,Kolkata,30260,Petrol,Manual,1st Owner,621399
+1408,2015,Honda,City,Kolkata,50173,Petrol,Manual,2nd Owner,491099
+1409,2016,Hyundai,Grand i10,Bengaluru,30878,Petrol,Manual,1st Owner,503899
+1410,2016,Maruti,Baleno,Pune,12939,Petrol,Automatic,1st Owner,676899
+1411,2014,Maruti,Wagon R 1.0,Bengaluru,57275,Petrol,Manual,1st Owner,363799
+1412,2015,Maruti,Swift,Pune,40555,Petrol,Manual,1st Owner,480299
+1413,2016,Maruti,Swift,Chennai,51487,Petrol,Manual,1st Owner,489599
+1414,2020,Maruti,Alto,New Delhi,3403,Petrol,Manual,1st Owner,389499
+1415,2008,Honda,City,Noida,82360,Petrol + CNG,Manual,2nd Owner,191899
+1416,2018,Honda,City,Patna,25952,Petrol,Manual,1st Owner,830699
+1417,2010,Maruti,Wagon R 1.0,Hyderabad,65373,Petrol,Manual,1st Owner,257199
+1418,2018,Maruti,Alto 800,Ahmedabad,55697,Petrol,Manual,1st Owner,321999
+1419,2017,Hyundai,Elite i20,New Delhi,24343,Petrol,Manual,1st Owner,482899
+1420,2020,Hyundai,Creta,Ahmedabad,26284,Diesel,Manual,1st Owner,1312999
+1421,2020,Hyundai,VENUE,Pune,17977,Petrol,Manual,1st Owner,1030999
+1422,2008,Honda,City,Noida,83312,Petrol,Manual,2nd Owner,220299
+1423,2013,Honda,Amaze,Noida,96753,Diesel,Manual,1st Owner,266499
+1424,2014,Hyundai,Grand i10,Mumbai,31628,Petrol,Manual,1st Owner,415000
+1425,2013,Maruti,Ertiga,Kolkata,103862,Diesel,Manual,1st Owner,476399
+1426,2016,Maruti,Swift,Ahmedabad,74017,Petrol + CNG,Manual,1st Owner,456199
+1427,2014,Maruti,Ritz,Bengaluru,56793,Petrol,Manual,1st Owner,428799
+1428,2016,Maruti,Alto 800,Chennai,50541,Petrol,Manual,2nd Owner,271699
+1429,2017,Hyundai,Elite i20,Noida,30418,Petrol,Manual,1st Owner,620399
+1430,2012,Maruti,Swift,Mumbai,69711,Diesel,Manual,2nd Owner,368199
+1431,2017,Hyundai,Grand i10,Chennai,24297,Petrol,Manual,1st Owner,535199
+1432,2017,Maruti,Alto K10,Pune,11213,Petrol,Manual,1st Owner,341799
+1433,2016,Maruti,Swift,Kolkata,45646,Petrol,Manual,1st Owner,384099
+1434,2017,Maruti,Ciaz,Hyderabad,62738,Petrol,Automatic,1st Owner,500000
+1435,2018,Honda,Jazz,Bengaluru,26259,Petrol,Automatic,1st Owner,748199
+1436,2019,Maruti,Eeco,Chennai,20162,Petrol,Manual,1st Owner,467899
+1437,2013,Maruti,Ritz,New Delhi,70687,Diesel,Manual,1st Owner,269999
+1438,2016,Maruti,Swift,Ahmedabad,58543,Petrol,Manual,1st Owner,481299
+1439,2014,Hyundai,Verna,Bengaluru,49713,Petrol,Manual,1st Owner,564399
+1440,2011,Maruti,Alto K10,New Delhi,48177,Petrol,Manual,1st Owner,179000
+1441,2011,Maruti,Alto K10,New Delhi,64499,Petrol,Manual,2nd Owner,176599
+1442,2015,Maruti,Swift,Ahmedabad,94015,Diesel,Manual,1st Owner,453299
+1443,2019,Maruti,Eeco,Ahmedabad,80770,Petrol,Manual,1st Owner,482499
+1444,2016,Maruti,Baleno,Noida,71114,Diesel,Manual,1st Owner,599499
+1445,2010,Honda,City,Chennai,79065,Petrol,Manual,1st Owner,374599
+1446,2019,Honda,Amaze,Patna,6224,Petrol,Manual,1st Owner,581099
+1447,2020,Maruti,Dzire,Ahmedabad,25940,Petrol,Manual,1st Owner,719599
+1448,2014,Maruti,Alto K10,Chennai,45043,Petrol,Manual,2nd Owner,261599
+1449,2018,Maruti,Alto 800,Noida,5851,Petrol,Manual,1st Owner,314199
+1450,2018,Tata,Tiago,Bengaluru,35083,Petrol,Manual,1st Owner,548299
+1451,2016,Hyundai,Grand i10,Ahmedabad,53013,Petrol,Manual,1st Owner,445899
+1452,2018,Maruti,Dzire,Kolkata,28865,Petrol,Manual,1st Owner,660099
+1453,2012,Maruti,Swift Dzire,Mumbai,8707,Petrol,Manual,1st Owner,440000
+1454,2015,Maruti,Alto 800,Kolkata,4153,Petrol,Manual,1st Owner,257599
+1455,2012,Hyundai,i20,Hyderabad,68266,Diesel,Manual,2nd Owner,411899
+1456,2018,Maruti,Alto 800,New Delhi,15838,Petrol,Manual,1st Owner,303799
+1457,2011,Maruti,Ritz,Bengaluru,60921,Petrol,Manual,2nd Owner,358799
+1458,2007,Hyundai,Santro Xing,Chennai,71079,Petrol,Manual,1st Owner,167299
+1459,2017,Volkswagen,Polo,Bengaluru,33492,Petrol,Automatic,2nd Owner,791299
+1460,2013,Hyundai,Grand i10,New Delhi,40273,Petrol,Manual,1st Owner,334599
+1461,2017,Hyundai,Grand i10,New Delhi,15673,Petrol,Manual,1st Owner,434599
+1462,2017,Maruti,Alto 800,Kolkata,23793,Petrol,Manual,1st Owner,256599
+1463,2016,Maruti,Alto 800,Bengaluru,6489,Petrol,Manual,1st Owner,343599
+1464,2011,Honda,City,Noida,136865,Petrol,Manual,1st Owner,298699
+1465,2015,Maruti,Swift Dzire,Mumbai,15052,Petrol,Manual,2nd Owner,499099
+1466,2016,Maruti,Vitara Brezza,Noida,58078,Diesel,Manual,1st Owner,625999
+1467,2019,Maruti,Vitara Brezza,Ahmedabad,39833,Diesel,Manual,1st Owner,742599
+1468,2017,Tata,Tiago,Bengaluru,10252,Petrol,Automatic,1st Owner,571699
+1469,2018,Maruti,Vitara Brezza,Pune,37061,Diesel,Manual,1st Owner,819799
+1470,2013,Maruti,Alto 800,Mumbai,45481,Petrol,Manual,1st Owner,238199
+1471,2012,Hyundai,Verna,Mumbai,43248,Petrol,Manual,1st Owner,408000
+1472,2013,Maruti,Swift Dzire,Pune,88341,Diesel,Manual,1st Owner,502499
+1473,2019,Maruti,Alto 800,Ahmedabad,15413,Petrol,Manual,1st Owner,314799
+1474,2018,Maruti,Vitara Brezza,Noida,34119,Diesel,Manual,1st Owner,727999
+1475,2017,Maruti,Alto 800,Ahmedabad,45978,Petrol,Manual,1st Owner,302199
+1476,2017,Hyundai,Grand i10,Kolkata,26485,Petrol,Manual,2nd Owner,433599
+1477,2014,Maruti,Swift,Ahmedabad,99686,Petrol,Manual,1st Owner,389199
+1478,2013,Maruti,Alto 800,Chennai,58171,Petrol,Manual,2nd Owner,263499
+1479,2013,Ford,Ecosport,New Delhi,59984,Diesel,Manual,1st Owner,415000
+1480,2016,Maruti,S Cross,Ahmedabad,79672,Diesel,Manual,2nd Owner,568899
+1481,2016,Maruti,Baleno,Hyderabad,54916,Petrol,Manual,1st Owner,498399
+1482,2018,Maruti,Alto K10,Bengaluru,47120,Petrol,Manual,1st Owner,417699
+1483,2011,Maruti,Alto K10,Hyderabad,92261,Petrol,Manual,2nd Owner,199699
+1484,2014,Maruti,Swift Dzire,New Delhi,49118,Diesel,Manual,1st Owner,374299
+1485,2018,Hyundai,Elite i20,Bengaluru,24969,Petrol,Automatic,2nd Owner,641899
+1486,2019,Ford,Ecosport,Noida,18721,Diesel,Manual,1st Owner,881499
+1487,2018,Hyundai,Elite i20,New Delhi,15847,Petrol,Manual,1st Owner,650000
+1488,2013,Hyundai,i20,Ahmedabad,156349,Diesel,Manual,1st Owner,316899
+1489,2018,Ford,Ecosport,Pune,17149,Petrol,Manual,1st Owner,897999
+1490,2012,Honda,City,Chennai,79174,Petrol,Manual,2nd Owner,477199
+1491,2019,Maruti,Vitara Brezza,Kolkata,16522,Diesel,Manual,1st Owner,895699
+1492,2019,Hyundai,Elite i20,Chennai,11855,Petrol,,2nd Owner,600999
+1493,2016,Hyundai,Eon,Hyderabad,10674,Petrol,Manual,2nd Owner,307299
+1494,2009,Hyundai,i10,Chennai,72628,Petrol,Manual,1st Owner,228099
+1495,2018,Maruti,S Cross,Pune,36864,Diesel,Manual,1st Owner,811899
+1496,2014,Maruti,Swift,Ahmedabad,87127,Diesel,Manual,1st Owner,476199
+1497,2016,Tata,Tiago,Bengaluru,19032,Petrol,Manual,2nd Owner,451499
+1498,2019,Maruti,Alto 800,Ahmedabad,8500,Petrol,Manual,1st Owner,355499
+1499,2016,Maruti,Alto 800,Pune,16709,Petrol,Manual,2nd Owner,283799
+1500,2018,Hyundai,Elite i20,Hyderabad,15432,Petrol,Automatic,1st Owner,745099
+1501,2016,Maruti,Alto 800,Pune,18780,Petrol,Manual,1st Owner,288199
+1502,2017,Maruti,Swift Dzire,Noida,51767,Diesel,Manual,2nd Owner,511099
+1503,2012,Maruti,Alto,Hyderabad,21215,Petrol,Manual,1st Owner,237199
+1504,2014,Maruti,Wagon R 1.0,Ahmedabad,17433,Petrol,Manual,1st Owner,350799
+1505,2010,Honda,City,New Delhi,86479,Petrol,Manual,3rd Owner,301999
+1506,2016,Maruti,Swift Dzire,Hyderabad,120994,Diesel,Manual,1st Owner,576499
+1507,2016,Maruti,Baleno,Pune,45554,Petrol,Manual,1st Owner,556999
+1508,2015,Maruti,Swift,Noida,108083,Diesel,Manual,1st Owner,373799
+1509,2018,Hyundai,Grand i10,Ahmedabad,21422,Petrol,Manual,2nd Owner,502099
+1510,2015,Honda,Jazz,Patna,40696,Petrol,Manual,2nd Owner,415499
+1511,2014,Maruti,Celerio,Mumbai,42746,Petrol + CNG,Manual,1st Owner,395000
+1512,2014,Maruti,Swift,Mumbai,34681,Petrol,Manual,2nd Owner,350000
+1513,2015,Ford,Ecosport,Ahmedabad,69828,Petrol,Automatic,1st Owner,501500
+1514,2012,Maruti,Alto,Bengaluru,25985,Petrol,Manual,1st Owner,274099
+1515,2011,Maruti,Swift,Hyderabad,110950,Diesel,Manual,1st Owner,295899
+1516,2016,Hyundai,Grand i10,Ahmedabad,77375,Petrol,Automatic,1st Owner,496099
+1517,2017,Maruti,Alto 800,Pune,16069,Petrol,Manual,1st Owner,329399
+1518,2015,Maruti,Ciaz,Noida,105869,Diesel,Manual,3rd Owner,501499
+1519,2018,Maruti,Eeco,Chennai,6145,Petrol,Manual,1st Owner,412399
+1520,2017,Hyundai,Creta,Ahmedabad,70456,Diesel,Automatic,2nd Owner,915399
+1521,2015,Maruti,Swift Dzire,Hyderabad,94320,Petrol,Manual,1st Owner,511899
+1522,2016,Renault,Kwid,Pune,35271,Petrol,Manual,1st Owner,315799
+1523,2019,Hyundai,Grand i10,Kolkata,19168,Petrol,Manual,1st Owner,574299
+1524,2015,Maruti,Alto K10,New Delhi,26183,Petrol,Automatic,1st Owner,304399
+1525,2019,Hyundai,Grand i10,Ahmedabad,27957,Petrol,Manual,1st Owner,575199
+1526,2020,Maruti,Swift,New Delhi,3570,Petrol,Manual,1st Owner,566899
+1527,2013,Maruti,Swift Dzire,Kolkata,63820,Petrol,Manual,1st Owner,474199
+1528,2014,Hyundai,Eon,Kolkata,66332,Petrol,Manual,1st Owner,207699
+1529,2014,Maruti,Celerio,Chennai,66622,Petrol,Automatic,4th Owner,360599
+1530,2010,Maruti,Alto K10,Hyderabad,86328,Petrol,Manual,2nd Owner,221899
+1531,2017,Hyundai,Creta,Pune,72410,Diesel,Automatic,1st Owner,1177499
+1532,2016,Maruti,Alto 800,Ahmedabad,72137,Petrol,Manual,1st Owner,251899
+1533,2014,Ford,Ecosport,Kolkata,138451,Diesel,Manual,1st Owner,463399
+1534,2018,Maruti,Baleno,Pune,8173,Petrol,Manual,1st Owner,615799
+1535,2009,Hyundai,i10,Hyderabad,42392,Petrol,Manual,1st Owner,255299
+1536,2017,Hyundai,Grand i10,Mumbai,40592,Petrol,Manual,1st Owner,434000
+1537,2018,Honda,Jazz,Chennai,29265,Petrol,Manual,1st Owner,598799
+1538,2012,Maruti,Ritz,Noida,102747,Petrol,Manual,1st Owner,240299
+1539,2019,Maruti,Dzire,Ahmedabad,24174,Diesel,Manual,1st Owner,725000
+1540,2015,Maruti,Wagon R 1.0,Chennai,78823,Petrol,Manual,1st Owner,375599
+1541,2018,Maruti,S Cross,Ahmedabad,22662,Diesel,Manual,1st Owner,818399
+1542,2018,Maruti,Swift,Mumbai,24009,Petrol,Manual,1st Owner,575000
+1543,2016,Hyundai,Grand i10,Noida,35756,Petrol,Manual,1st Owner,447199
+1544,2012,Maruti,Swift,Ahmedabad,82287,Diesel,Manual,1st Owner,320000
+1545,2014,Maruti,Celerio,Bengaluru,15222,Petrol,Automatic,2nd Owner,428399
+1546,2018,Maruti,Dzire,Bengaluru,23838,Petrol,Manual,1st Owner,643099
+1547,2018,Maruti,Dzire,Ahmedabad,62969,Diesel,Automatic,1st Owner,592999
+1548,2016,Maruti,Baleno,Mumbai,37777,Petrol,Manual,2nd Owner,529299
+1549,2018,Hyundai,Grand i10,Ahmedabad,30866,Petrol,Manual,1st Owner,488199
+1550,2013,Maruti,Swift,Ahmedabad,46773,Petrol,Manual,1st Owner,429899
+1551,2016,Maruti,Swift,Chennai,58581,Petrol,Manual,1st Owner,463899
+1552,2014,Hyundai,Grand i10,Mumbai,37891,Petrol,Manual,1st Owner,469000
+1553,2012,Hyundai,i20,New Delhi,44822,Petrol,Manual,1st Owner,312000
+1554,2019,Hyundai,Grand i10,Kolkata,9682,Petrol,Manual,1st Owner,518599
+1555,2011,Volkswagen,Polo,Pune,39230,Petrol,Manual,2nd Owner,271199
+1556,2014,Ford,Ecosport,New Delhi,56811,Diesel,Manual,2nd Owner,460000
+1557,2019,Hyundai,Grand i10,Mumbai,11750,Petrol,,1st Owner,611099
+1558,2018,Maruti,Baleno,New Delhi,33770,Petrol,Manual,1st Owner,544399
+1559,2017,Renault,Kwid,Mumbai,37369,Petrol,Manual,1st Owner,325000
+1560,2019,Maruti,Eeco,Bengaluru,11944,Petrol,Manual,1st Owner,499199
+1561,2009,Maruti,Alto,Pune,24653,Petrol,Manual,1st Owner,145599
+1562,2020,Hyundai,VENUE,Noida,7177,Petrol,Manual,1st Owner,745199
+1563,2018,Maruti,Alto 800,Chennai,9670,Petrol,Manual,1st Owner,320299
+1564,2016,Maruti,Alto 800,Noida,24069,Petrol,Manual,1st Owner,280899
+1565,2011,Maruti,Alto K10,Chennai,42789,Petrol,Manual,2nd Owner,221099
+1566,2016,Hyundai,Grand i10,Pune,36820,Petrol,Manual,2nd Owner,465399
+1567,2020,Volkswagen,Vento,Bengaluru,8464,Petrol,Automatic,1st Owner,1402699
+1568,2016,Maruti,Wagon R 1.0,Mumbai,42369,Petrol,Automatic,2nd Owner,371000
+1569,2018,Hyundai,Elite i20,Chennai,17880,Petrol,Manual,1st Owner,615799
+1570,2015,Maruti,Swift,Bengaluru,35490,Petrol,Manual,1st Owner,545599
+1571,2019,Maruti,Eeco,Ahmedabad,55514,Petrol + CNG,Manual,1st Owner,441499
+1572,2016,Maruti,Baleno,Chennai,43630,Petrol,Manual,1st Owner,598499
+1573,2013,Maruti,Swift Dzire,Mumbai,53065,Diesel,Manual,1st Owner,382199
+1574,2014,Maruti,Swift,New Delhi,72108,Diesel,Manual,1st Owner,386499
+1575,2019,Maruti,Swift,Ahmedabad,90461,Petrol,Manual,1st Owner,565699
+1576,2018,Maruti,Alto 800,Mumbai,4343,Petrol,Manual,1st Owner,351499
+1577,2013,Honda,Brio,Mumbai,21488,Petrol,Manual,2nd Owner,337000
+1578,2015,Maruti,Swift,Ahmedabad,26749,Petrol,Manual,2nd Owner,478899
+1579,2019,Tata,Tiago,New Delhi,22651,Petrol,Manual,1st Owner,380799
+1580,2018,Hyundai,NEW SANTRO,Mumbai,4972,Petrol,Manual,1st Owner,540199
+1581,2016,Hyundai,Grand i10,Hyderabad,33396,Petrol,Manual,1st Owner,476999
+1582,2013,Hyundai,Verna,Bengaluru,51051,Petrol,Manual,3rd Owner,510099
+1583,2016,Hyundai,Grand i10,Mumbai,53486,Petrol,Automatic,2nd Owner,417499
+1584,2012,Honda,Brio,Hyderabad,32173,Petrol,Manual,1st Owner,355699
+1585,2016,Maruti,Ertiga,Mumbai,33931,Diesel,Manual,1st Owner,766499
+1586,2012,Honda,Brio,Pune,23307,Petrol,Manual,2nd Owner,239299
+1587,2010,Honda,City,Hyderabad,151899,Petrol,Automatic,1st Owner,408199
+1588,2011,Hyundai,Verna,Noida,108004,Petrol + CNG,Automatic,3rd Owner,391899
+1589,2016,Maruti,Wagon R 1.0,Chennai,32196,Petrol,Manual,1st Owner,396899
+1590,2018,Maruti,Celerio,Chennai,53793,Petrol,Manual,1st Owner,420799
+1591,2015,Hyundai,Grand i10,Pune,71225,Petrol,Manual,1st Owner,419999
+1592,2012,Maruti,Swift Dzire,Noida,42478,Diesel,Manual,2nd Owner,342999
+1593,2013,Hyundai,Eon,Noida,44819,Petrol,Manual,3rd Owner,184699
+1594,2019,Hyundai,Grand i10,Ahmedabad,9953,Petrol,Manual,1st Owner,557399
+1595,2011,Honda,City,Noida,56073,Petrol,Manual,1st Owner,356999
+1596,2017,Maruti,Swift,Ahmedabad,145903,Diesel,Manual,1st Owner,486199
+1597,2018,Maruti,Eeco,Ahmedabad,20815,Petrol,Manual,1st Owner,426499
+1598,2015,Maruti,Wagon R 1.0,Hyderabad,76719,Petrol,Manual,1st Owner,337699
+1599,2015,Volkswagen,Polo,Chennai,57417,Petrol,Manual,2nd Owner,465699
+1600,2008,Hyundai,Santro Xing,New Delhi,91288,Petrol,Manual,1st Owner,145899
+1601,2016,Hyundai,Creta,Kolkata,33130,Diesel,Manual,1st Owner,850000
+1602,2019,Maruti,Eeco,Chennai,25091,Petrol,Manual,1st Owner,466799
+1603,2012,Honda,Brio,Mumbai,59285,Petrol,Manual,1st Owner,318899
+1604,2015,Hyundai,Elite i20,Kolkata,105969,Petrol,Manual,1st Owner,650499
+1605,2019,Maruti,Eeco,Hyderabad,9338,Petrol,Manual,2nd Owner,472099
+1606,2015,Maruti,Swift,Noida,96266,Diesel,Manual,1st Owner,418499
+1607,2011,Hyundai,Verna,Mumbai,66614,Diesel,Automatic,1st Owner,415000
+1608,2013,Honda,Amaze,Mumbai,47239,Petrol,Manual,2nd Owner,362999
+1609,2016,Hyundai,Grand i10,Pune,42095,Petrol,Manual,1st Owner,432399
+1610,2010,Hyundai,i20,Ahmedabad,77357,Petrol,Manual,2nd Owner,270000
+1611,2019,Hyundai,Grand i10,Kolkata,21404,Petrol,Manual,1st Owner,527799
+1612,2012,Honda,City,New Delhi,55419,Petrol,Manual,2nd Owner,327000
+1613,2014,Hyundai,Elite i20,Mumbai,45800,Petrol,Manual,1st Owner,473899
+1614,2018,Renault,Kwid,Kolkata,7026,Petrol,Manual,1st Owner,386299
+1615,2017,Hyundai,Elite i20,Hyderabad,38526,Petrol,Manual,2nd Owner,586899
+1616,2012,Maruti,Swift,Noida,129639,Diesel,Manual,1st Owner,281199
+1617,2018,Hyundai,Verna,Ahmedabad,57187,Diesel,Automatic,1st Owner,1033299
+1618,2015,Maruti,Swift,Noida,101616,Diesel,Manual,1st Owner,407199
+1619,2015,Maruti,Baleno,Noida,30804,Diesel,Manual,1st Owner,476799
+1620,2019,Maruti,Alto 800,Kolkata,3731,Petrol,Manual,1st Owner,304399
+1621,2020,Maruti,Alto,New Delhi,11520,Petrol,Manual,1st Owner,374499
+1622,2013,Maruti,Swift,Chennai,67328,Diesel,Manual,2nd Owner,412699
+1623,2015,Maruti,Alto 800,Pune,31631,Petrol,Manual,1st Owner,266099
+1624,2013,Maruti,Ertiga,Kolkata,105573,Diesel,Manual,2nd Owner,596899
+1625,2016,Maruti,Vitara Brezza,Noida,57731,Diesel,Manual,1st Owner,641299
+1626,2019,Maruti,Eeco,Ahmedabad,22718,Petrol,Manual,1st Owner,457199
+1627,2012,Maruti,Swift,Bengaluru,63009,Petrol,Manual,1st Owner,432799
+1628,2013,Volkswagen,Polo,Chennai,77021,Petrol,Manual,2nd Owner,349099
+1629,2014,Maruti,Ritz,Bengaluru,66505,Diesel,Manual,2nd Owner,503999
+1630,2013,Honda,Amaze,Bengaluru,62825,Petrol,Manual,1st Owner,478799
+1631,2016,Hyundai,Elite i20,Bengaluru,33068,Petrol,Manual,2nd Owner,635699
+1632,2019,Maruti,Baleno,Hyderabad,941,Petrol,Manual,1st Owner,670299
+1633,2014,Volkswagen,Vento,Kolkata,76983,Petrol,Manual,1st Owner,289699
+1634,2016,Maruti,Swift,New Delhi,16428,Petrol,Manual,1st Owner,455899
+1635,2016,Hyundai,Grand i10,Kolkata,12776,Petrol,Manual,1st Owner,418599
+1636,2014,Hyundai,i20,Mumbai,33778,Petrol,Manual,1st Owner,458999
+1637,2017,Maruti,Wagon R 1.0,New Delhi,55238,Petrol,Manual,1st Owner,359399
+1638,2015,Maruti,Swift Dzire,New Delhi,62486,Diesel,Manual,1st Owner,386999
+1639,2015,Hyundai,Eon,Bengaluru,18405,Petrol,Manual,2nd Owner,290299
+1640,2010,Hyundai,i10,Mumbai,28925,Petrol,Manual,2nd Owner,222799
+1641,2020,Hyundai,Creta,New Delhi,16973,Petrol,Manual,1st Owner,1303000
+1642,2013,Honda,Amaze,Mumbai,43089,Petrol,Manual,2nd Owner,437699
+1643,2017,Maruti,Swift,Noida,73900,Diesel,Manual,1st Owner,445299
+1644,2018,Maruti,Dzire,Hyderabad,42575,Petrol,Automatic,1st Owner,623999
+1645,2014,Maruti,Wagon R 1.0,Pune,11365,Petrol,Manual,1st Owner,351599
+1646,2014,Maruti,Ritz,New Delhi,69930,Diesel,Manual,1st Owner,255299
+1647,2016,Hyundai,Creta,Ahmedabad,20036,Diesel,,1st Owner,951000
+1648,2007,Maruti,Alto,Hyderabad,132515,Petrol,Manual,1st Owner,128999
+1649,2018,Maruti,Alto 800,Hyderabad,7885,Petrol,Manual,1st Owner,330299
+1650,2015,Maruti,Swift,New Delhi,34854,Petrol,Manual,1st Owner,386899
+1651,2018,Maruti,Celerio,Mumbai,10199,Petrol,Manual,1st Owner,486699
+1652,2015,Renault,Kwid,Mumbai,22817,Petrol,Manual,2nd Owner,234000
+1653,2011,Maruti,Alto K10,Hyderabad,47359,Petrol,Manual,2nd Owner,213399
+1654,2012,Maruti,Wagon R 1.0,Hyderabad,105694,Petrol,Manual,1st Owner,299299
+1655,2015,Hyundai,Creta,Noida,32524,Diesel,,1st Owner,695699
+1656,2018,Maruti,S Cross,Ahmedabad,42122,Diesel,Manual,1st Owner,854799
+1657,2020,Maruti,Alto,Ahmedabad,8992,Petrol,Manual,1st Owner,344899
+1658,2018,Maruti,Alto 800,Hyderabad,42143,Petrol,Manual,1st Owner,294499
+1659,2017,Maruti,Ertiga,Ahmedabad,74344,Diesel,Manual,1st Owner,662899
+1660,2018,Maruti,Vitara Brezza,New Delhi,20634,Diesel,Manual,1st Owner,738799
+1661,2017,Maruti,Wagon R 1.0,Chennai,24401,Petrol,Manual,1st Owner,425599
+1662,2016,Maruti,Ciaz,Noida,55437,Diesel,Manual,3rd Owner,492299
+1663,2017,Maruti,Baleno,New Delhi,43299,Petrol,Manual,1st Owner,583999
+1664,2016,Maruti,Wagon R 1.0,Chennai,29049,Petrol,Manual,1st Owner,439099
+1665,2012,Maruti,Swift Dzire,Noida,48390,Diesel,Manual,1st Owner,302599
+1666,2018,Maruti,Baleno,Mumbai,14988,Petrol,Manual,3rd Owner,603499
+1667,2016,Hyundai,Grand i10,Pune,27714,Petrol,Manual,1st Owner,503599
+1668,2017,Hyundai,Grand i10,New Delhi,21404,Petrol,Manual,1st Owner,475000
+1669,2018,Maruti,Dzire,Mumbai,9850,Petrol,Manual,1st Owner,651999
+1670,2012,Maruti,Swift Dzire,New Delhi,81549,Diesel,Manual,1st Owner,339499
+1671,2020,Maruti,Alto,Ahmedabad,4179,Petrol,Manual,1st Owner,363299
+1672,2017,Maruti,Baleno,Mumbai,49964,Petrol,Automatic,1st Owner,641199
+1673,2014,Hyundai,Elite i20,Chennai,74476,Diesel,Manual,1st Owner,568599
+1674,2018,Maruti,Celerio,New Delhi,6644,Petrol,Manual,1st Owner,421599
+1675,2015,Maruti,Alto K10,Bengaluru,36136,Petrol,Manual,2nd Owner,356099
+1676,2018,Renault,Kwid,Ahmedabad,45234,Petrol,Automatic,1st Owner,392299
+1677,2019,Renault,Kwid,Ahmedabad,4488,Petrol,Manual,1st Owner,358999
+1678,2016,Maruti,S Cross,Kolkata,57828,Diesel,Manual,1st Owner,550000
+1679,2010,Maruti,Ritz,Bengaluru,38191,Petrol,Manual,1st Owner,354399
+1680,2015,Hyundai,Grand i10,Kolkata,10233,Petrol,Manual,1st Owner,446399
+1681,2008,Maruti,Swift Dzire,Noida,166525,Petrol,Manual,1st Owner,153399
+1682,2016,Hyundai,Grand i10,Mumbai,11592,Petrol,Manual,2nd Owner,399000
+1683,2014,Hyundai,Grand i10,Kolkata,34478,Petrol,Manual,1st Owner,454399
+1684,2016,Renault,Kwid,Mumbai,48693,Petrol,Manual,1st Owner,311000
+1685,2017,Maruti,Swift,Chennai,23798,Petrol,Manual,1st Owner,526699
+1686,2015,Hyundai,Grand i10,Kolkata,34500,Petrol,Manual,1st Owner,544799
+1687,2014,Hyundai,i20,Mumbai,34538,Diesel,Manual,2nd Owner,445000
+1688,2016,Hyundai,Creta,Ahmedabad,132350,Diesel,Manual,2nd Owner,838599
+1689,2017,Hyundai,Grand i10,Noida,52175,Petrol,Manual,2nd Owner,403999
+1690,2018,Hyundai,Verna,Kolkata,33124,Petrol,Manual,1st Owner,785599
+1691,2011,Honda,City,Mumbai,73611,Petrol,Manual,2nd Owner,284499
+1692,2013,Maruti,Swift,Bengaluru,26021,Petrol,Manual,1st Owner,499099
+1693,2013,Maruti,Wagon R 1.0,Kolkata,17791,Petrol,Manual,1st Owner,368799
+1694,2015,Maruti,Celerio,Kolkata,6777,Petrol,Manual,1st Owner,391499
+1695,2012,Maruti,Alto,Bengaluru,39773,Petrol,Manual,2nd Owner,252799
+1696,2011,Hyundai,i10,New Delhi,42808,Petrol,Manual,1st Owner,287199
+1697,2016,Maruti,Baleno,Bengaluru,50005,Petrol,Manual,1st Owner,651499
+1698,2015,Volkswagen,Polo,Kolkata,29732,Petrol,Manual,1st Owner,265155
+1699,2014,Hyundai,Grand i10,Mumbai,39689,Petrol,Automatic,1st Owner,425000
+1700,2010,Maruti,Wagon R 1.0,Mumbai,81341,Petrol,Manual,2nd Owner,225999
+1701,2008,Hyundai,Santro Xing,Hyderabad,78841,Petrol,Manual,2nd Owner,143000
+1702,2017,Maruti,Wagon R 1.0,Ahmedabad,51642,Petrol,Manual,1st Owner,387399
+1703,2013,Maruti,Swift,New Delhi,58850,Diesel,Manual,1st Owner,329399
+1704,2014,Honda,City,Hyderabad,122226,Diesel,Manual,1st Owner,590000
+1705,2016,Renault,Kwid,Kolkata,27089,Petrol,Manual,1st Owner,264799
+1706,2015,Volkswagen,Polo,Hyderabad,130613,Diesel,Manual,2nd Owner,395499
+1707,2017,Renault,Kwid,Pune,4348,Petrol,Automatic,1st Owner,373099
+1708,2018,Maruti,Wagon R 1.0,Kolkata,26128,Petrol,Manual,1st Owner,392699
+1709,2014,Maruti,Alto K10,New Delhi,51228,Petrol,Manual,1st Owner,244299
+1710,2018,Hyundai,Grand i10,Kolkata,9765,Petrol,Manual,2nd Owner,480199
+1711,2013,Maruti,Wagon R 1.0,New Delhi,29715,Petrol,Manual,1st Owner,281000
+1712,2016,Maruti,Vitara Brezza,Noida,42210,Diesel,Manual,2nd Owner,629399
+1713,2010,Maruti,Ritz,Pune,82265,Diesel,Manual,1st Owner,207799
+1714,2017,Maruti,Ertiga,Ahmedabad,58026,Diesel,Manual,1st Owner,719899
+1715,2010,Hyundai,i10,Bengaluru,43402,Petrol,Manual,3rd Owner,263399
+1716,2018,Maruti,Wagon R 1.0,New Delhi,7131,Petrol,Manual,1st Owner,418000
+1717,2018,Maruti,Wagon R 1.0,Mumbai,10391,Petrol,Manual,1st Owner,456000
+1718,2015,Honda,Amaze,Noida,69315,Diesel,Manual,1st Owner,337599
+1719,2016,Maruti,Vitara Brezza,Ahmedabad,149993,Diesel,Manual,1st Owner,732199
+1720,2017,Hyundai,Eon,Mumbai,37522,Petrol,Manual,1st Owner,314000
+1721,2010,Hyundai,i10,Bengaluru,43890,Petrol,Manual,2nd Owner,292299
+1722,2019,Maruti,Baleno,Kolkata,14256,Petrol,Manual,1st Owner,606199
+1723,2017,Maruti,Baleno,New Delhi,32712,Petrol,Manual,1st Owner,528399
+1724,2016,Maruti,Baleno,New Delhi,40520,Petrol,Automatic,1st Owner,533000
+1725,2018,Volkswagen,Polo,Mumbai,6460,Petrol,Automatic,1st Owner,849000
+1726,2014,Maruti,Wagon R 1.0,Kolkata,33121,Petrol,Manual,1st Owner,342499
+1727,2018,Hyundai,Elite i20,Chennai,28667,Petrol,Manual,1st Owner,612699
+1728,2013,Hyundai,Eon,Kolkata,48473,Petrol,Manual,1st Owner,214299
+1729,2018,Maruti,Baleno,Kolkata,17740,Petrol,Manual,1st Owner,566699
+1730,2013,Hyundai,Grand i10,Noida,72089,Petrol,Manual,2nd Owner,329199
+1731,2013,Honda,Brio,Noida,27915,Petrol,Automatic,1st Owner,419299
+1732,2015,Maruti,Alto K10,Pune,64096,Petrol,Manual,1st Owner,292799
+1733,2015,Maruti,Swift,New Delhi,28371,Petrol,Manual,1st Owner,445000
+1734,2015,Maruti,Wagon R 1.0,Chennai,25650,Petrol,Manual,1st Owner,382699
+1735,2014,Hyundai,Eon,Bengaluru,30303,Petrol,Manual,1st Owner,315299
+1736,2013,Maruti,Swift,Noida,66350,Diesel,Manual,1st Owner,302999
+1737,2015,Maruti,Alto K10,Noida,70731,Petrol,Automatic,1st Owner,249699
+1738,2016,Renault,Kwid,Ahmedabad,56870,Petrol,Manual,2nd Owner,240999
+1739,2018,Maruti,Baleno,Ahmedabad,14117,Petrol,Manual,1st Owner,577899
+1740,2017,Maruti,Dzire,Hyderabad,175702,Diesel,Manual,2nd Owner,568899
+1741,2015,Hyundai,Elite i20,Mumbai,21713,Petrol,Manual,2nd Owner,425000
+1742,2018,Hyundai,Grand i10,Noida,13899,Petrol,Manual,1st Owner,467799
+1743,2015,Maruti,Alto 800,Chennai,23689,Petrol,Manual,1st Owner,291999
+1744,2014,Maruti,Swift,Ahmedabad,21991,Petrol,Manual,1st Owner,437199
+1745,2011,Maruti,Alto K10,Chennai,80046,Petrol,Manual,1st Owner,226999
+1746,2014,Hyundai,Grand i10,Ahmedabad,44346,Petrol,Manual,1st Owner,399599
+1747,2018,Maruti,Alto 800,New Delhi,43644,Petrol,Manual,1st Owner,283099
+1748,2011,Honda,City,New Delhi,61366,Petrol,Manual,2nd Owner,331000
+1749,2020,Maruti,Alto,New Delhi,11676,Petrol,Manual,1st Owner,343099
+1750,2010,Honda,City,New Delhi,47405,Petrol,Manual,1st Owner,360799
+1751,2019,Hyundai,Elite i20,Pune,13012,Petrol,Manual,1st Owner,754899
+1752,2015,Maruti,Wagon R 1.0,Kolkata,26359,Petrol,Manual,1st Owner,344099
+1753,2017,Maruti,Swift,Chennai,46786,Petrol,Manual,1st Owner,566699
+1754,2016,Volkswagen,Vento,Pune,117793,Petrol,,1st Owner,580499
+1755,2017,Maruti,Alto 800,Bengaluru,10742,Petrol,Manual,2nd Owner,355299
+1756,2016,Honda,City,Hyderabad,26069,Petrol,Manual,1st Owner,602199
+1757,2014,Maruti,Wagon R 1.0,Mumbai,25583,Petrol,Manual,1st Owner,356199
+1758,2016,Tata,Tiago,Bengaluru,31258,Petrol,Manual,2nd Owner,475599
+1759,2018,Hyundai,Creta,Pune,12778,Petrol,Automatic,1st Owner,1389099
+1760,2015,Honda,City,Noida,102442,Diesel,Manual,2nd Owner,502799
+1761,2017,Maruti,Alto K10,Hyderabad,84937,Petrol,Manual,1st Owner,314599
+1762,2013,Maruti,Wagon R 1.0,Mumbai,60559,Petrol,Manual,1st Owner,313699
+1763,2018,Maruti,IGNIS,Kolkata,30763,Petrol,Manual,1st Owner,453899
+1764,2018,Maruti,Alto 800,New Delhi,11961,Petrol,Manual,1st Owner,325199
+1765,2019,Hyundai,VENUE,Ahmedabad,26396,Petrol,Manual,1st Owner,1002699
+1766,2017,Maruti,Ciaz,Noida,69848,Diesel,Manual,1st Owner,553199
+1767,2015,Honda,Brio,Pune,30487,Petrol,Manual,1st Owner,404299
+1768,2017,Hyundai,Elite i20,Noida,50827,Petrol,Manual,1st Owner,517699
+1769,2015,Maruti,Alto 800,Pune,32440,Petrol,Manual,2nd Owner,269899
+1770,2017,Maruti,Alto 800,Mumbai,12009,Petrol,Manual,1st Owner,277099
+1771,2018,Ford,Ecosport,Ahmedabad,30271,Petrol,Manual,1st Owner,815899
+1772,2015,Hyundai,Eon,Ahmedabad,82404,Petrol,Manual,2nd Owner,231899
+1773,2017,Renault,Kwid,Bengaluru,8409,Petrol,Automatic,1st Owner,416799
+1774,2012,Maruti,Swift,Mumbai,51385,Petrol,Manual,1st Owner,331000
+1775,2018,Maruti,Alto 800,Chennai,72301,Petrol,Manual,1st Owner,357899
+1776,2015,Hyundai,Eon,New Delhi,20494,Petrol,Manual,1st Owner,265000
+1777,2017,Maruti,Alto 800,Chennai,69430,Petrol,Manual,1st Owner,287999
+1778,2014,Hyundai,Grand i10,Bengaluru,37259,Petrol,Automatic,1st Owner,490799
+1779,2014,Maruti,Swift,Ahmedabad,180460,Diesel,Manual,2nd Owner,346399
+1780,2013,Hyundai,Eon,Noida,66406,Petrol,Manual,1st Owner,223399
+1781,2012,Maruti,Alto,Hyderabad,37800,Petrol,Manual,1st Owner,234799
+1782,2018,Hyundai,Elite i20,Ahmedabad,40072,Diesel,Manual,1st Owner,685499
+1783,2012,Hyundai,i10,Bengaluru,43142,Petrol,Manual,1st Owner,374299
+1784,2018,Hyundai,Eon,Mumbai,15091,Petrol,Manual,1st Owner,314899
+1785,2011,Maruti,Alto K10,Bengaluru,66167,Petrol,Manual,1st Owner,234399
+1786,2010,Maruti,Swift,New Delhi,46441,Petrol,Manual,1st Owner,220000
+1787,2014,Hyundai,Grand i10,Noida,48866,Petrol + CNG,Manual,1st Owner,469399
+1788,2018,Maruti,Alto 800,Chennai,7765,Petrol,Manual,1st Owner,350199
+1789,2012,Maruti,Swift,Hyderabad,101039,Diesel,Manual,1st Owner,441399
+1790,2018,Ford,Ecosport,Bengaluru,33525,Diesel,Manual,1st Owner,818599
+1791,2015,Maruti,Baleno,New Delhi,14807,Petrol,Manual,1st Owner,540000
+1792,2014,Maruti,Swift,New Delhi,72597,Diesel,Manual,1st Owner,337399
+1793,2013,Maruti,Swift,New Delhi,26908,Petrol,Manual,1st Owner,363099
+1794,2019,Hyundai,VENUE,Bengaluru,3381,Petrol,Automatic,1st Owner,1195699
+1795,2014,Maruti,Swift,Hyderabad,84718,Diesel,Manual,1st Owner,458599
+1796,2018,Volkswagen,Polo,Bengaluru,40808,Petrol,Manual,1st Owner,640999
+1797,2017,Hyundai,Grand i10,New Delhi,37323,Petrol,Manual,1st Owner,446799
+1798,2017,Maruti,Wagon R 1.0,Chennai,18782,Petrol,Manual,2nd Owner,419599
+1799,2018,Maruti,Vitara Brezza,Noida,42537,Diesel,Automatic,2nd Owner,791899
+1800,2019,Honda,Jazz,Chennai,4355,Petrol,Automatic,1st Owner,921799
+1801,2018,Maruti,Baleno,Hyderabad,17499,Petrol,Manual,1st Owner,683199
+1802,2015,Maruti,Alto 800,Kolkata,42327,Petrol,Manual,1st Owner,308299
+1803,2014,Maruti,Alto 800,Chennai,54447,Petrol,Manual,2nd Owner,249099
+1804,2012,Maruti,Alto K10,Patna,39267,Petrol,Manual,1st Owner,200799
+1805,2011,Hyundai,i10,Hyderabad,63370,Petrol,Manual,1st Owner,260899
+1806,2018,Maruti,Baleno,Chennai,47586,Petrol,Manual,1st Owner,586499
+1807,2016,Hyundai,i10,Hyderabad,67396,Petrol,Manual,1st Owner,384799
+1808,2011,Volkswagen,Polo,Pune,63205,Petrol,Manual,1st Owner,321699
+1809,2017,Maruti,IGNIS,Mumbai,29912,Petrol,Manual,1st Owner,435099
+1810,2017,Maruti,Alto K10,Hyderabad,23583,Petrol,Manual,1st Owner,367299
+1811,2011,Hyundai,i20,Bengaluru,59172,Petrol,Manual,2nd Owner,384499
+1812,2018,Maruti,Vitara Brezza,Ahmedabad,54191,Diesel,Manual,1st Owner,759899
+1813,2013,Hyundai,Eon,Kolkata,33905,Petrol,Manual,1st Owner,282999
+1814,2015,Renault,Kwid,Noida,70590,Petrol,Manual,1st Owner,248899
+1815,2016,Hyundai,Creta,Kolkata,45731,Petrol,Manual,1st Owner,872499
+1816,2020,Hyundai,VENUE,Mumbai,4856,Petrol,Automatic,1st Owner,1175099
+1817,2011,Hyundai,i10,Hyderabad,112433,Petrol,Manual,2nd Owner,284999
+1818,2017,Hyundai,Grand i10,Bengaluru,34278,Petrol,Manual,1st Owner,512499
+1819,2011,Maruti,Alto,Bengaluru,46746,Petrol,Manual,2nd Owner,222799
+1820,2016,Hyundai,Grand i10,Bengaluru,15831,Petrol,Manual,1st Owner,578999
+1821,2016,Hyundai,Eon,Chennai,39041,Petrol,Manual,1st Owner,287299
+1822,2017,Renault,Kwid,Hyderabad,23023,Petrol,Manual,1st Owner,375799
+1823,2016,Hyundai,Elite i20,New Delhi,37628,Petrol,Manual,1st Owner,508999
+1824,2019,Ford,Ecosport,Patna,17752,Petrol,Manual,1st Owner,822999
+1825,2014,Maruti,Swift,Noida,60901,Diesel,Manual,1st Owner,383099
+1826,2020,Hyundai,Elite i20,Ahmedabad,6055,Petrol,Manual,1st Owner,723499
+1827,2017,Maruti,Ciaz,Ahmedabad,85440,Diesel,Manual,1st Owner,606599
+1828,2019,Maruti,Celerio,Chennai,13079,Petrol,Manual,1st Owner,496699
+1829,2015,Hyundai,Grand i10,Bengaluru,43106,Petrol,Manual,1st Owner,504399
+1830,2014,Maruti,Alto K10,Bengaluru,39855,Petrol,Manual,1st Owner,347399
+1831,2010,Maruti,Alto K10,Pune,41208,Petrol,Manual,2nd Owner,132899
+1832,2016,Maruti,Wagon R 1.0,Chennai,72804,Petrol,Automatic,1st Owner,460399
+1833,2015,Hyundai,Grand i10,Noida,68468,Petrol,Manual,2nd Owner,358099
+1834,2017,Hyundai,Elite i20,Noida,18213,Petrol,Manual,1st Owner,523999
+1835,2009,Hyundai,i10,Noida,104807,Petrol,Manual,1st Owner,167199
+1836,2014,Maruti,Swift,New Delhi,55728,Petrol,Manual,1st Owner,418499
+1837,2012,Hyundai,Verna,Mumbai,47475,Petrol,Manual,2nd Owner,411000
+1838,2017,Maruti,Swift,Mumbai,16498,Petrol,Manual,1st Owner,533999
+1839,2016,Maruti,Baleno,Pune,162864,Diesel,Manual,1st Owner,502999
+1840,2014,Maruti,Alto K10,Bengaluru,34163,Petrol,Manual,2nd Owner,315699
+1841,2013,Hyundai,i20,Mumbai,4323,Petrol,Manual,1st Owner,395000
+1842,2013,Maruti,Alto 800,Patna,49028,Petrol,Manual,1st Owner,197799
+1843,2016,Maruti,Wagon R 1.0,Hyderabad,9692,Petrol,Manual,1st Owner,412299
+1844,2018,Maruti,Baleno,Noida,23580,Petrol,Manual,1st Owner,611599
+1845,2018,Maruti,Vitara Brezza,Ahmedabad,38375,Diesel,Manual,1st Owner,756899
+1846,2015,Hyundai,Grand i10,Hyderabad,141654,Diesel,Manual,1st Owner,383699
+1847,2013,Maruti,Swift,Hyderabad,115883,Diesel,Manual,1st Owner,459999
+1848,2013,Hyundai,Verna,Mumbai,54601,Diesel,Manual,2nd Owner,465000
+1849,2009,Maruti,Swift Dzire,New Delhi,50541,Petrol,Manual,1st Owner,229499
+1850,2013,Hyundai,i20,Chennai,70271,Petrol,Manual,2nd Owner,395999
+1851,2012,Honda,City,New Delhi,58659,Petrol,Manual,1st Owner,410000
+1852,2012,Maruti,Swift,Noida,123852,Diesel,Manual,1st Owner,228399
+1853,2016,Maruti,S Cross,Ahmedabad,95502,Diesel,Manual,3rd Owner,510099
+1854,2014,Maruti,Swift Dzire,Chennai,18020,Petrol,Manual,1st Owner,481699
+1855,2017,Hyundai,Eon,Chennai,42159,Petrol,Manual,1st Owner,332299
+1856,2017,Renault,Kwid,Noida,39532,Petrol,Manual,1st Owner,289699
+1857,2016,Maruti,Baleno,Pune,35338,Petrol,Manual,1st Owner,569399
+1858,2018,Hyundai,Grand i10,Kolkata,10587,Petrol,Manual,1st Owner,487099
+1859,2017,Maruti,Celerio,Chennai,42636,Petrol,Manual,1st Owner,434099
+1860,2015,Hyundai,Grand i10,Hyderabad,35803,Petrol,Automatic,1st Owner,517599
+1861,2018,Maruti,Alto 800,Chennai,20711,Petrol,Manual,1st Owner,375599
+1862,2018,Maruti,Alto 800,Kolkata,34696,Petrol,Manual,1st Owner,322599
+1863,2011,Maruti,Ritz,Noida,41762,Petrol,Manual,1st Owner,201299
+1864,2012,Maruti,Wagon R 1.0,Chennai,81727,Petrol,Manual,1st Owner,282099
+1865,2018,Maruti,Vitara Brezza,Hyderabad,88052,Diesel,Automatic,2nd Owner,888699
+1866,2019,Maruti,Swift,Chennai,25719,Petrol,Manual,1st Owner,628299
+1867,2019,Volkswagen,Polo,Bengaluru,18757,Petrol,Manual,1st Owner,641499
+1868,2016,Maruti,Alto K10,Bengaluru,28652,Petrol,Automatic,2nd Owner,380099
+1869,2018,Maruti,Dzire,Mumbai,12128,Petrol,Automatic,1st Owner,708000
+1870,2018,Maruti,Eeco,Bengaluru,17010,Petrol,Manual,1st Owner,432699
+1871,2017,Maruti,IGNIS,Patna,29900,Petrol,Automatic,1st Owner,441299
+1872,2012,Hyundai,Santro Xing,Hyderabad,129644,Petrol + LPG,Manual,2nd Owner,254399
+1873,2014,Hyundai,i10,Noida,66464,Petrol,Manual,1st Owner,257799
+1874,2016,Maruti,Vitara Brezza,Noida,65146,Diesel,Manual,1st Owner,700799
+1875,2015,Hyundai,i10,Hyderabad,32606,Petrol,Manual,2nd Owner,378899
+1876,2018,Maruti,Alto 800,Hyderabad,18313,Petrol,Manual,1st Owner,334599
+1877,2013,Hyundai,Grand i10,Kolkata,31022,Petrol,Manual,1st Owner,356799
+1878,2018,Maruti,Eeco,Hyderabad,25514,Petrol,Manual,1st Owner,392599
+1879,2018,Maruti,Vitara Brezza,Hyderabad,99039,Diesel,Manual,2nd Owner,752299
+1880,2012,Maruti,Swift,Chennai,56130,Petrol,Manual,1st Owner,393299
+1881,2014,Maruti,Swift Dzire,Noida,111261,Diesel,Manual,2nd Owner,346799
+1882,2013,Maruti,Ritz,Bengaluru,58907,Petrol,Manual,2nd Owner,351099
+1883,2014,Maruti,Swift,Mumbai,27064,Petrol,Manual,1st Owner,425199
+1884,2014,Maruti,Alto 800,Patna,33969,Petrol,Manual,2nd Owner,199299
+1885,2014,Hyundai,Grand i10,Bengaluru,44700,Petrol,Manual,1st Owner,463799
+1886,2014,Maruti,Wagon R 1.0,Bengaluru,27274,Petrol,Manual,1st Owner,404199
+1887,2014,Hyundai,Elite i20,Pune,97995,Petrol,Manual,1st Owner,493099
+1888,2017,Honda,Jazz,Mumbai,15606,Petrol,Manual,1st Owner,565000
+1889,2018,Maruti,Dzire,Mumbai,6558,Petrol,Manual,1st Owner,710299
+1890,2012,Maruti,Ritz,Noida,123546,Diesel,Manual,1st Owner,210799
+1891,2009,Hyundai,Santro Xing,New Delhi,18353,Petrol,Manual,1st Owner,156000
+1892,2014,Maruti,Swift Dzire,Pune,87333,Diesel,Manual,1st Owner,498499
+1893,2012,Honda,City,Kolkata,29911,Petrol,Manual,2nd Owner,474199
+1894,2015,Maruti,Wagon R 1.0,Pune,75146,Petrol,Manual,1st Owner,347099
+1895,2016,Maruti,Baleno,New Delhi,679,Petrol,,1st Owner,656000
+1896,2014,Maruti,Alto 800,Chennai,27562,Petrol,Manual,1st Owner,266199
+1897,2010,Honda,City,Noida,42868,Petrol,Manual,2nd Owner,279199
+1898,2021,Ford,Ecosport,Ahmedabad,3543,Petrol,Manual,1st Owner,1025999
+1899,2018,Maruti,Alto 800,New Delhi,34375,Petrol,Manual,1st Owner,283000
+1900,2021,Maruti,Alto,Kolkata,2142,Petrol,Manual,1st Owner,368699
+1901,2012,Hyundai,Verna,Hyderabad,94562,Diesel,Automatic,2nd Owner,423499
+1902,2019,Maruti,Alto 800,Ahmedabad,53590,Petrol,Manual,1st Owner,333699
+1903,2015,Maruti,Alto K10,Bengaluru,44397,Petrol,Manual,1st Owner,321099
+1904,2016,Maruti,Celerio,Pune,8061,Petrol,Automatic,1st Owner,419699
+1905,2014,Honda,Amaze,Kolkata,101613,Diesel,Manual,2nd Owner,316499
+1906,2013,Maruti,Wagon R 1.0,Chennai,52259,Petrol,Manual,2nd Owner,340799
+1907,2011,Hyundai,i10,Mumbai,19251,Petrol,Manual,2nd Owner,245000
+1908,2019,Maruti,Swift,Noida,16528,Petrol,Manual,1st Owner,494199
+1909,2019,Maruti,Eeco,Kolkata,12076,Petrol,Manual,2nd Owner,407199
+1910,2017,Renault,Kwid,Noida,30629,Petrol + CNG,Manual,1st Owner,236099
+1911,2019,Honda,Amaze,Bengaluru,15979,Petrol,Manual,1st Owner,741099
+1912,2010,Hyundai,i10,Chennai,64666,Petrol,Automatic,1st Owner,271199
+1913,2018,Hyundai,Verna,Hyderabad,32419,Diesel,Automatic,1st Owner,1045599
+1914,2013,Hyundai,Grand i10,Kolkata,50140,Petrol,Manual,1st Owner,371299
+1915,2017,Hyundai,Elite i20,Noida,148526,Diesel,Manual,1st Owner,486799
+1916,2019,Hyundai,Grand i10,Ahmedabad,5748,Petrol,Manual,1st Owner,576499
+1917,2012,Maruti,Swift Dzire,New Delhi,79776,Diesel,Manual,1st Owner,314999
+1918,2013,Maruti,Ritz,Bengaluru,33225,Petrol,Manual,1st Owner,400999
+1919,2014,Maruti,Swift,New Delhi,31059,Petrol,Manual,1st Owner,385000
+1920,2016,Hyundai,Elite i20,Chennai,30742,Petrol,Manual,1st Owner,610999
+1921,2019,Maruti,Vitara Brezza,Chennai,5647,Diesel,Automatic,1st Owner,1065399
+1922,2015,Hyundai,Grand i10,Bengaluru,33077,Petrol,Manual,1st Owner,500799
+1923,2016,Maruti,Vitara Brezza,New Delhi,54460,Diesel,Manual,1st Owner,690999
+1924,2016,Maruti,Wagon R 1.0,Mumbai,46132,Petrol,Automatic,1st Owner,351299
+1925,2017,Maruti,Alto K10,New Delhi,34273,Petrol,Manual,1st Owner,295399
+1926,2015,Maruti,Swift Dzire,Chennai,56836,Petrol,Automatic,1st Owner,496999
+1927,2012,Maruti,Wagon R 1.0,Patna,36195,Petrol,Manual,1st Owner,241599
+1928,2012,Hyundai,i20,Mumbai,36933,Petrol,Manual,1st Owner,340000
+1929,2017,Maruti,Ciaz,Kolkata,15471,Petrol,Manual,1st Owner,602499
+1930,2014,Hyundai,Grand i10,Bengaluru,21727,Petrol,Automatic,1st Owner,514599
+1931,2013,Maruti,Swift Dzire,Chennai,61514,Petrol,Manual,3rd Owner,412999
+1932,2016,Maruti,Alto K10,Mumbai,13851,Petrol,,1st Owner,338499
+1933,2019,Hyundai,VENUE,Noida,17949,Petrol,Automatic,1st Owner,1123899
+1934,2017,Maruti,Baleno,Mumbai,35746,Petrol,Manual,1st Owner,659999
+1935,2012,Hyundai,Santro Xing,Hyderabad,34668,Petrol,Manual,1st Owner,316099
+1936,2016,Hyundai,Grand i10,Hyderabad,73156,Petrol,Manual,2nd Owner,465199
+1937,2017,Maruti,Eeco,Chennai,24142,Petrol,Manual,1st Owner,401399
+1938,2017,Maruti,Ertiga,Pune,51927,Diesel,Manual,1st Owner,890299
+1939,2013,Maruti,Swift,Patna,25409,Petrol,Manual,1st Owner,347899
+1940,2012,Hyundai,i20,Patna,67609,Petrol,Manual,1st Owner,324399
+1941,2013,Maruti,Swift Dzire,Chennai,53876,Petrol,Manual,2nd Owner,432199
+1942,2019,Hyundai,VENUE,Noida,25835,Diesel,Manual,1st Owner,1013699
+1943,2018,Maruti,Dzire,Noida,32617,Petrol,Manual,1st Owner,563999
+1944,2011,Honda,City,Chennai,86312,Petrol,Manual,1st Owner,376299
+1945,2016,Hyundai,Grand i10,Bengaluru,34448,Petrol,Manual,2nd Owner,426499
+1946,2013,Maruti,Wagon R 1.0,Kolkata,27942,Petrol,Manual,1st Owner,353899
+1947,2019,Maruti,Baleno,Bengaluru,7010,Petrol,Manual,1st Owner,727699
+1948,2017,Renault,Kwid,New Delhi,34004,Petrol,Manual,1st Owner,265000
+1949,2015,Maruti,Baleno,Kolkata,62114,Diesel,Manual,2nd Owner,520399
+1950,2020,Maruti,Alto,Ahmedabad,11664,Petrol,Manual,1st Owner,330799
+1951,2014,Hyundai,Grand i10,New Delhi,16795,Petrol,Manual,1st Owner,378699
+1952,2015,Maruti,Ertiga,New Delhi,52409,Diesel,Manual,1st Owner,564099
+1953,2015,Hyundai,Eon,Hyderabad,76848,Petrol,Manual,1st Owner,290699
+1954,2008,Hyundai,Santro Xing,Bengaluru,67394,Petrol + LPG,Manual,1st Owner,225199
+1955,2016,Maruti,Ertiga,Pune,58796,Diesel,Manual,1st Owner,711299
+1956,2016,Hyundai,Grand i10,Pune,90065,Petrol,Manual,1st Owner,438399
+1957,2019,Hyundai,Grand i10,Ahmedabad,26846,Petrol,Manual,1st Owner,559099
+1958,2019,Maruti,Swift,Ahmedabad,17212,Petrol,Manual,1st Owner,553499
+1959,2017,Maruti,Alto 800,Ahmedabad,48410,Petrol,,1st Owner,260000
+1960,2017,Maruti,Alto 800,New Delhi,18797,Petrol,Manual,2nd Owner,297899
+1961,2016,Hyundai,Elite i20,Pune,117299,Petrol,Manual,2nd Owner,507599
+1962,2011,Hyundai,i10,Hyderabad,116983,Petrol,Manual,2nd Owner,240499
+1963,2013,Maruti,Wagon R 1.0,Chennai,61203,Petrol,Manual,2nd Owner,343299
+1964,2018,Maruti,Baleno,New Delhi,32885,Petrol,Manual,1st Owner,542599
+1965,2017,Maruti,Swift,Noida,47563,Petrol,Manual,1st Owner,454799
+1966,2016,Maruti,Vitara Brezza,Noida,101948,Diesel,Manual,1st Owner,504099
+1967,2011,Maruti,Alto,Noida,41402,Petrol,Manual,1st Owner,145699
+1968,2018,Maruti,Swift,Kolkata,36820,Petrol,Manual,1st Owner,613599
+1969,2011,Maruti,Ritz,Hyderabad,65841,Petrol,Manual,1st Owner,276999
+1970,2017,Maruti,Celerio,Pune,23841,Petrol,Manual,1st Owner,421299
+1971,2014,Maruti,Swift,Bengaluru,43434,Petrol,Manual,2nd Owner,525099
+1972,2017,Maruti,Baleno,Ahmedabad,23728,Diesel,Manual,1st Owner,580499
+1973,2018,Maruti,Alto 800,Kolkata,14797,Petrol,Manual,1st Owner,298099
+1974,2009,Maruti,Alto,Bengaluru,67415,Petrol,Manual,2nd Owner,212399
+1975,2012,Maruti,Alto,Hyderabad,64304,Petrol,Manual,1st Owner,238299
+1976,2015,Maruti,Wagon R 1.0,Pune,39094,Petrol,Manual,2nd Owner,358899
+1977,2010,Hyundai,i10,Bengaluru,84426,Petrol,Manual,1st Owner,296299
+1978,2012,Hyundai,i20,Chennai,73841,Petrol,Manual,1st Owner,410999
+1979,2016,Maruti,Ciaz,Mumbai,37827,Petrol,Manual,1st Owner,583399
+1980,2019,Maruti,Vitara Brezza,Pune,20552,Diesel,Manual,1st Owner,940799
+1981,2014,Hyundai,Eon,New Delhi,60437,Petrol,Manual,1st Owner,241000
+1982,2013,Maruti,Alto 800,Chennai,44177,Petrol,Manual,1st Owner,253599
+1983,2014,Hyundai,Eon,Bengaluru,24427,Petrol,Manual,1st Owner,340999
+1984,2013,Maruti,Alto 800,Hyderabad,42131,Petrol,Manual,1st Owner,246999
+1985,2014,Maruti,Alto K10,Bengaluru,50599,Petrol,Manual,1st Owner,310899
+1986,2016,Maruti,Baleno,New Delhi,57058,Petrol,Manual,2nd Owner,401199
+1987,2014,Hyundai,Eon,New Delhi,54530,Petrol,Manual,1st Owner,215000
+1988,2018,Maruti,Vitara Brezza,Hyderabad,81477,Diesel,Manual,2nd Owner,774399
+1989,2015,Maruti,Celerio,Hyderabad,81688,Petrol,Manual,2nd Owner,374999
+1990,2017,Renault,Kwid,New Delhi,37165,Petrol,Manual,1st Owner,288000
+1991,2015,Honda,City,New Delhi,54027,Petrol,Automatic,2nd Owner,654199
+1992,2016,Maruti,Ciaz,Noida,41484,Diesel,Manual,1st Owner,548199
+1993,2019,Honda,Jazz,Chennai,5183,Petrol,,1st Owner,951199
+1994,2013,Maruti,Swift Dzire,Bengaluru,63858,Petrol,Manual,1st Owner,446099
+1995,2020,Maruti,Alto,Ahmedabad,38889,Petrol,Manual,1st Owner,371099
+1996,2014,Maruti,Alto K10,Hyderabad,118885,Petrol,Manual,2nd Owner,263899
+1997,2016,Hyundai,Creta,Pune,53817,Petrol,Automatic,1st Owner,993099
+1998,2013,Maruti,Swift Dzire,Mumbai,53692,Petrol,Manual,1st Owner,369299
+1999,2013,Maruti,Alto 800,Bengaluru,22668,Petrol,Manual,1st Owner,281399
+2000,2015,Maruti,Alto K10,Pune,64434,Petrol,Manual,1st Owner,334099
+2001,2018,Maruti,S Cross,Ahmedabad,75791,Diesel,Manual,1st Owner,821599
+2002,2017,Maruti,Alto 800,Hyderabad,39752,Petrol,Manual,1st Owner,303599
+2003,2018,Maruti,Vitara Brezza,Ahmedabad,28845,Diesel,Manual,1st Owner,786099
+2004,2011,Hyundai,Santro Xing,Bengaluru,42987,Petrol,Manual,1st Owner,287599
+2005,2016,Maruti,Wagon R 1.0,Mumbai,20667,Petrol,Automatic,1st Owner,436599
+2006,2008,Maruti,Swift,New Delhi,86350,Petrol,Manual,1st Owner,174899
+2007,2014,Volkswagen,Polo,Pune,57175,Petrol,Manual,1st Owner,445199
+2008,2017,Maruti,Wagon R 1.0,Pune,24723,Petrol,Manual,1st Owner,434599
+2009,2013,Honda,Brio,Patna,7197,Petrol,Manual,1st Owner,279699
+2010,2019,Hyundai,VENUE,New Delhi,7498,Petrol,Automatic,1st Owner,1033099
+2011,2010,Maruti,Alto K10,New Delhi,40666,Petrol,Manual,1st Owner,179199
+2012,2017,Honda,Jazz,Mumbai,49422,Petrol,Automatic,1st Owner,629799
+2013,2018,Renault,Kwid,Mumbai,6261,Petrol,Automatic,1st Owner,415099
+2014,2019,Maruti,Dzire,Bengaluru,11651,Petrol,Automatic,1st Owner,781099
+2015,2016,Maruti,Celerio,Bengaluru,42195,Petrol,Manual,1st Owner,434999
+2016,2012,Maruti,Alto K10,Bengaluru,48080,Petrol,Manual,2nd Owner,271499
+2017,2012,Hyundai,i10,Hyderabad,49548,Petrol,Automatic,2nd Owner,349399
+2018,2009,Maruti,Alto,Hyderabad,155996,Petrol + LPG,Manual,1st Owner,159099
+2019,2013,Maruti,Wagon R 1.0,Mumbai,15738,Petrol,Manual,1st Owner,270699
+2020,2015,Maruti,Alto K10,Chennai,42904,Petrol,Manual,1st Owner,342299
+2021,2015,Hyundai,Elite i20,Kolkata,63487,Petrol,Manual,1st Owner,406755
+2022,2014,Honda,Brio,Noida,106663,Petrol,Automatic,1st Owner,390199
+2023,2013,Maruti,Alto 800,Hyderabad,40932,Petrol,Manual,1st Owner,247299
+2024,2013,Maruti,Ritz,Bengaluru,41507,Petrol,Manual,1st Owner,418899
+2025,2017,Maruti,Alto 800,Bengaluru,6202,Petrol,Manual,2nd Owner,360299
+2026,2016,Maruti,Baleno,Chennai,83205,Diesel,Manual,2nd Owner,536699
+2027,2012,Maruti,Alto K10,Noida,35139,Petrol,Manual,2nd Owner,201699
+2028,2014,Honda,City,Noida,61067,Petrol,Manual,2nd Owner,509799
+2029,2012,Maruti,Swift,Noida,47140,Diesel,Manual,1st Owner,318699
+2030,2018,Maruti,Alto K10,Kolkata,43650,Petrol,Manual,1st Owner,322899
+2031,2015,Maruti,Swift Dzire,Hyderabad,101946,Petrol,Manual,2nd Owner,494099
+2032,2015,Maruti,Swift Dzire,New Delhi,60795,Diesel,Manual,1st Owner,362000
+2033,2019,Maruti,Baleno,Mumbai,6844,Petrol,Manual,1st Owner,672399
+2034,2018,Volkswagen,Polo,Bengaluru,18569,Petrol,Manual,1st Owner,570499
+2035,2018,Ford,Ecosport,Ahmedabad,131657,Diesel,Manual,1st Owner,784099
+2036,2016,Maruti,Vitara Brezza,Ahmedabad,44666,Diesel,Manual,1st Owner,770799
+2037,2015,Hyundai,Grand i10,Bengaluru,45929,Petrol,Manual,1st Owner,450099
+2038,2007,Hyundai,i10,Hyderabad,86145,Petrol,Manual,2nd Owner,203699
+2039,2017,Maruti,S Cross,Hyderabad,175035,Diesel,Manual,1st Owner,713499
+2040,2019,Maruti,Vitara Brezza,Noida,75243,Diesel,Manual,1st Owner,736899
+2041,2016,Maruti,Alto 800,Ahmedabad,54792,Petrol,Manual,1st Owner,245499
+2042,2017,Ford,Ecosport,Bengaluru,22688,Petrol,Automatic,1st Owner,780499
+2043,2012,Maruti,Alto K10,New Delhi,33175,Petrol,Manual,1st Owner,223199
+2044,2019,Maruti,Baleno,Noida,17916,Petrol,Manual,1st Owner,584099
+2045,2017,Hyundai,Elite i20,Noida,25595,Petrol,Manual,1st Owner,533299
+2046,2015,Maruti,Alto 800,Mumbai,30242,Petrol,Manual,1st Owner,251699
+2047,2015,Maruti,Alto K10,Bengaluru,13605,Petrol,Automatic,2nd Owner,373499
+2048,2012,Honda,Brio,Mumbai,24171,Petrol,Manual,2nd Owner,273299
+2049,2014,Maruti,Swift Dzire,Patna,116354,Petrol,Manual,1st Owner,442999
+2050,2016,Maruti,Wagon R 1.0,New Delhi,38766,Petrol,Manual,1st Owner,324000
+2051,2012,Hyundai,i20,Noida,79856,Petrol,Manual,2nd Owner,278399
+2052,2014,Maruti,Ritz,Bengaluru,54073,Petrol,Manual,2nd Owner,378699
+2053,2018,Maruti,Vitara Brezza,Ahmedabad,48983,Diesel,Manual,2nd Owner,727199
+2054,2016,Maruti,Alto K10,Ahmedabad,10179,Petrol,Manual,1st Owner,323699
+2055,2013,Maruti,Swift,New Delhi,55384,Petrol,Manual,1st Owner,330000
+2056,2017,Hyundai,Elite i20,Chennai,61695,Petrol,Manual,1st Owner,645299
+2057,2019,Honda,Amaze,Patna,45677,Petrol,Manual,1st Owner,538799
+2058,2009,Maruti,Swift,Mumbai,62487,Petrol,Manual,2nd Owner,178000
+2059,2016,Volkswagen,Polo,Bengaluru,7683,Petrol,Manual,1st Owner,620499
+2060,2018,Hyundai,NEW SANTRO,Chennai,11783,Petrol,Manual,1st Owner,486699
+2061,2020,Maruti,Swift,Noida,1755,Petrol,Manual,1st Owner,566399
+2062,2011,Maruti,Alto K10,Mumbai,69464,Petrol,Manual,1st Owner,173451
+2063,2017,Maruti,Vitara Brezza,Chennai,53498,Diesel,Manual,1st Owner,843599
+2064,2015,Honda,Amaze,New Delhi,40776,Diesel,Manual,1st Owner,431399
+2065,2008,Maruti,Swift Dzire,Pune,16352,Petrol,Manual,1st Owner,228599
+2066,2019,Hyundai,Elite i20,Hyderabad,14908,Petrol,Manual,1st Owner,780999
+2067,2009,Maruti,Ritz,New Delhi,62936,Petrol,Manual,1st Owner,221399
+2068,2015,Maruti,Swift,Patna,18821,Petrol,Manual,1st Owner,393999
+2069,2019,Maruti,Alto 800,Ahmedabad,8040,Petrol,Manual,1st Owner,337499
+2070,2018,Maruti,Vitara Brezza,Ahmedabad,28277,Diesel,Manual,1st Owner,825699
+2071,2017,Maruti,Ciaz,Ahmedabad,20142,Petrol,Manual,1st Owner,780000
+2072,2015,Maruti,Wagon R 1.0,Mumbai,48546,Petrol,Manual,1st Owner,304899
+2073,2018,Maruti,Dzire,Patna,66408,Diesel,Manual,1st Owner,622799
+2074,2019,Maruti,Dzire,Ahmedabad,10428,Petrol,Manual,1st Owner,658799
+2075,2013,Hyundai,i10,Bengaluru,35702,Petrol,Manual,1st Owner,379599
+2076,2016,Maruti,Vitara Brezza,Patna,50491,Diesel,Manual,2nd Owner,699599
+2077,2011,Maruti,Swift Dzire,Mumbai,62339,Petrol,Manual,2nd Owner,279000
+2078,2016,Maruti,Swift,Hyderabad,82732,Diesel,Manual,2nd Owner,497999
+2079,2017,Hyundai,Grand i10,Bengaluru,46722,Petrol,Manual,1st Owner,574199
+2080,2015,Maruti,Celerio,Bengaluru,4637,Petrol,Manual,1st Owner,427999
+2081,2016,Maruti,Alto K10,New Delhi,45300,Petrol,Manual,1st Owner,280000
+2082,2014,Maruti,Wagon R 1.0,Mumbai,56827,Petrol,Manual,1st Owner,303899
+2083,2018,Maruti,Vitara Brezza,Mumbai,11934,Diesel,Manual,1st Owner,875000
+2084,2015,Maruti,Swift,Noida,28452,Petrol,Manual,1st Owner,396299
+2085,2016,Maruti,Vitara Brezza,Pune,44496,Diesel,Manual,2nd Owner,701799
+2086,2013,Hyundai,Santro Xing,Hyderabad,22856,Petrol,Manual,1st Owner,305899
+2087,2018,Maruti,Vitara Brezza,Pune,57487,Diesel,Manual,1st Owner,823199
+2088,2017,Maruti,Alto 800,Pune,36816,Petrol,Manual,1st Owner,288699
+2089,2018,Renault,Kwid,Noida,32716,Petrol,Manual,2nd Owner,284399
+2090,2012,Hyundai,i10,Hyderabad,50097,Petrol,Manual,2nd Owner,313499
+2091,2015,Maruti,Swift,Noida,27735,Diesel,Manual,1st Owner,426399
+2092,2018,Honda,City,Kolkata,15201,Petrol,Manual,1st Owner,834199
+2093,2015,Maruti,Swift,Hyderabad,49228,Petrol,Manual,1st Owner,427699
+2094,2015,Maruti,Wagon R 1.0,Mumbai,21236,Petrol,Manual,2nd Owner,297199
+2095,2008,Maruti,Alto,Patna,116628,Petrol,Manual,2nd Owner,123599
+2096,2017,Maruti,Vitara Brezza,New Delhi,28576,Diesel,Manual,1st Owner,759899
+2097,2013,Hyundai,Verna,New Delhi,73591,Diesel,Manual,1st Owner,395999
+2098,2014,Maruti,Alto 800,Pune,51085,Petrol,Manual,2nd Owner,245599
+2099,2017,Maruti,Baleno,Pune,35369,Petrol,Manual,1st Owner,570699
+2100,2017,Renault,Kwid,Chennai,42259,Petrol,Manual,2nd Owner,325999
+2101,2018,Maruti,Celerio,Bengaluru,33277,Petrol,Automatic,1st Owner,520199
+2102,2010,Honda,City,Kolkata,70410,Petrol,Manual,3rd Owner,225000
+2103,2013,Maruti,Wagon R 1.0,Bengaluru,46248,Petrol,Manual,1st Owner,370199
+2104,2012,Hyundai,i20,Mumbai,66339,Diesel,Manual,1st Owner,372000
+2105,2018,Maruti,Alto 800,Kolkata,727,Petrol,Manual,1st Owner,333999
+2106,2017,Maruti,IGNIS,Ahmedabad,66263,Petrol,Manual,1st Owner,388999
+2107,2010,Maruti,Ritz,Noida,108338,Petrol,Manual,1st Owner,220799
+2108,2016,Honda,Brio,Patna,57330,Petrol,Manual,1st Owner,343699
+2109,2014,Hyundai,Eon,Kolkata,75005,Petrol,Manual,1st Owner,264699
+2110,2014,Maruti,Swift Dzire,Kolkata,47713,Petrol,Manual,1st Owner,393999
+2111,2016,Hyundai,Grand i10,Chennai,77847,Petrol,Manual,1st Owner,428699
+2112,2011,Maruti,Wagon R 1.0,Hyderabad,20979,Petrol,Manual,1st Owner,328399
+2113,2019,Maruti,Swift,New Delhi,25529,Petrol,Manual,1st Owner,594099
+2114,2017,Maruti,Baleno,Bengaluru,30016,Petrol,Manual,1st Owner,635699
+2115,2018,Ford,Ecosport,Patna,41336,Diesel,Manual,1st Owner,720099
+2116,2009,Maruti,Alto,New Delhi,54427,Petrol,Manual,1st Owner,158799
+2117,2014,Honda,Amaze,Pune,75156,Petrol,Manual,1st Owner,362199
+2118,2016,Renault,Kwid,Hyderabad,27623,Petrol,Manual,1st Owner,303599
+2119,2012,Maruti,Alto 800,Hyderabad,126194,Petrol,Manual,2nd Owner,222499
+2120,2018,Maruti,Alto 800,Chennai,17986,Petrol,Manual,1st Owner,350699
+2121,2016,Hyundai,Elite i20,Pune,34635,Petrol,Manual,1st Owner,582599
+2122,2015,Maruti,Wagon R 1.0,Chennai,59786,Petrol,Manual,2nd Owner,350099
+2123,2017,Tata,Tiago,Patna,20736,Petrol,Manual,1st Owner,407699
+2124,2013,Volkswagen,Polo,Hyderabad,84853,Petrol,Manual,1st Owner,413599
+2125,2018,Honda,Amaze,Pune,2361,Petrol,Manual,1st Owner,626599
+2126,2018,Maruti,Baleno,Chennai,28264,Petrol,Manual,2nd Owner,604999
+2127,2016,Maruti,Swift Dzire,Mumbai,32715,Petrol,Manual,1st Owner,545000
+2128,2011,Hyundai,i10,Chennai,98754,Petrol,Manual,1st Owner,279499
+2129,2011,Maruti,Ritz,Bengaluru,32981,Petrol,Manual,1st Owner,439899
+2130,2015,Maruti,Swift,Pune,24846,Petrol,Manual,1st Owner,463999
+2131,2014,Maruti,Swift Dzire,Bengaluru,50960,Petrol,Manual,2nd Owner,478099
+2132,2020,Hyundai,VENUE,Ahmedabad,9730,Petrol,Manual,1st Owner,817299
+2133,2020,Maruti,Eeco,Ahmedabad,648,Petrol,Manual,1st Owner,444199
+2134,2012,Maruti,Swift Dzire,Kolkata,46280,Diesel,Manual,1st Owner,357299
+2135,2016,Maruti,Ciaz,Mumbai,27509,Petrol,Manual,1st Owner,596299
+2136,2017,Maruti,Vitara Brezza,Pune,77049,Diesel,Manual,1st Owner,812099
+2137,2015,Maruti,Swift Dzire,Noida,42540,Petrol,Manual,3rd Owner,456199
+2138,2010,Hyundai,i10,Mumbai,63177,Petrol,Manual,2nd Owner,199991
+2139,2012,Maruti,Swift Dzire,Mumbai,21587,Petrol,Manual,1st Owner,405000
+2140,2019,Maruti,Alto 800,Chennai,15919,Petrol,Manual,1st Owner,322699
+2141,2015,Ford,Ecosport,Chennai,30005,Petrol,Automatic,2nd Owner,575799
+2142,2013,Maruti,Alto K10,Chennai,68748,Petrol,Manual,1st Owner,259399
+2143,2009,Hyundai,i10,New Delhi,65410,Petrol,Manual,1st Owner,134399
+2144,2014,Hyundai,Grand i10,New Delhi,59099,Petrol,Manual,2nd Owner,333000
+2145,2015,Hyundai,Elite i20,Chennai,77957,Diesel,Manual,2nd Owner,511099
+2146,2017,Maruti,Ertiga,Kolkata,32938,Petrol,Manual,1st Owner,748399
+2147,2015,Maruti,Wagon R 1.0,Kolkata,53252,Petrol,Manual,1st Owner,345299
+2148,2018,Maruti,Baleno,New Delhi,16840,Petrol,Manual,1st Owner,589099
+2149,2017,Hyundai,Elite i20,Hyderabad,97090,Petrol,Manual,1st Owner,584799
+2150,2016,Honda,Jazz,Kolkata,84655,Petrol,Automatic,1st Owner,467599
+2151,2016,Maruti,Baleno,Chennai,27960,Petrol,Manual,2nd Owner,589099
+2152,2018,Hyundai,Elite i20,Ahmedabad,46689,Petrol,Manual,1st Owner,625000
+2153,2019,Maruti,Vitara Brezza,Pune,69729,Diesel,Automatic,1st Owner,914799
+2154,2014,Hyundai,Eon,New Delhi,40576,Petrol,Manual,1st Owner,245000
+2155,2013,Honda,Amaze,Kolkata,81316,Petrol,Manual,1st Owner,339399
+2156,2014,Maruti,Swift Dzire,Hyderabad,155205,Diesel,Manual,2nd Owner,456599
+2157,2020,Volkswagen,Vento,Ahmedabad,17464,Petrol,Automatic,2nd Owner,962399
+2158,2015,Maruti,Celerio,Bengaluru,40425,Petrol,Automatic,2nd Owner,437399
+2159,2011,Maruti,Alto,Pune,17340,Petrol,Manual,1st Owner,196299
+2160,2011,Hyundai,i20,New Delhi,75924,Petrol,Manual,1st Owner,230000
+2161,2018,Hyundai,Elite i20,Noida,22047,Petrol,Manual,2nd Owner,523099
+2162,2014,Ford,Ecosport,Pune,145347,Diesel,Manual,2nd Owner,407999
+2163,2016,Maruti,Swift,Ahmedabad,30358,Petrol,Manual,1st Owner,507099
+2164,2013,Volkswagen,Polo,Mumbai,44231,Petrol,Manual,1st Owner,434999
+2165,2009,Hyundai,i20,Chennai,75811,Petrol,Manual,2nd Owner,254899
+2166,2015,Maruti,Alto 800,Chennai,22504,Petrol,Manual,3rd Owner,294599
+2167,2012,Maruti,Alto K10,Kolkata,1448,Petrol,Manual,1st Owner,262899
+2168,2016,Maruti,Baleno,Ahmedabad,85463,Petrol,Manual,1st Owner,507399
+2169,2011,Maruti,Alto,Noida,38478,Petrol,Manual,1st Owner,167099
+2170,2016,Maruti,Wagon R 1.0,Ahmedabad,65171,Petrol,Manual,3rd Owner,315799
+2171,2010,Maruti,Ritz,New Delhi,77639,Petrol,Manual,2nd Owner,218599
+2172,2016,Maruti,Alto 800,Noida,43279,Petrol,Manual,1st Owner,271399
+2173,2018,Maruti,Wagon R 1.0,Noida,27853,Petrol,Manual,1st Owner,388399
+2174,2016,Maruti,Vitara Brezza,Pune,82116,Diesel,Manual,2nd Owner,675099
+2175,2017,Hyundai,Grand i10,Ahmedabad,109221,Diesel,Manual,1st Owner,414399
+2176,2014,Maruti,Swift,New Delhi,58508,Diesel,Manual,1st Owner,352899
+2177,2017,Maruti,Vitara Brezza,Ahmedabad,58998,Diesel,Manual,1st Owner,638399
+2178,2019,Maruti,Celerio,Ahmedabad,7409,Petrol,Manual,1st Owner,485399
+2179,2014,Maruti,Ritz,Mumbai,40675,Petrol,Manual,1st Owner,330000
+2180,2015,Maruti,Alto K10,Chennai,51629,Petrol,Manual,2nd Owner,290899
+2181,2020,Maruti,Dzire,Ahmedabad,5397,Petrol,Manual,1st Owner,674299
+2182,2020,Maruti,Alto,Chennai,3494,Petrol,Manual,1st Owner,419599
+2183,2016,Hyundai,Creta,Noida,43540,Diesel,Manual,1st Owner,911399
+2184,2013,Hyundai,Santro Xing,Patna,21797,Petrol,Manual,1st Owner,212499
+2185,2010,Hyundai,i20,New Delhi,49678,Petrol,Manual,1st Owner,245000
+2186,2019,Maruti,Alto,Ahmedabad,12016,Petrol,Manual,1st Owner,337299
+2187,2013,Maruti,Swift,Noida,120564,Diesel,Manual,1st Owner,328399
+2188,2011,Maruti,Wagon R 1.0,Mumbai,69729,Petrol,Manual,1st Owner,243599
+2189,2018,Maruti,Baleno,Hyderabad,74535,Diesel,Manual,1st Owner,717099
+2190,2009,Hyundai,i10,New Delhi,86423,Petrol,Manual,1st Owner,163000
+2191,2017,Maruti,Wagon R 1.0,Kolkata,35421,Petrol,Manual,1st Owner,427799
+2192,2018,Ford,Ecosport,Ahmedabad,12175,Petrol,Manual,1st Owner,852099
+2193,2012,Maruti,Alto 800,Mumbai,57672,Petrol,Manual,1st Owner,210000
+2194,2013,Maruti,Ertiga,Kolkata,84813,Diesel,Manual,2nd Owner,492999
+2195,2012,Honda,Brio,Mumbai,77826,Petrol,Manual,3rd Owner,267899
+2196,2019,Hyundai,NEW SANTRO,Bengaluru,10854,Petrol,Automatic,1st Owner,564799
+2197,2017,Maruti,Baleno,New Delhi,28879,Petrol,Manual,1st Owner,476699
+2198,2016,Maruti,Alto K10,Mumbai,45448,Petrol,Manual,1st Owner,268499
+2199,2015,Maruti,Celerio,Mumbai,52335,Petrol,Automatic,1st Owner,375000
+2200,2010,Hyundai,i10,Bengaluru,46146,Petrol,Manual,1st Owner,337599
+2201,2012,Maruti,Swift Dzire,Kolkata,49460,Diesel,Manual,3rd Owner,340499
+2202,2018,Maruti,Eeco,Chennai,21916,Petrol,Manual,1st Owner,424699
+2203,2018,Maruti,Alto 800,Ahmedabad,3237,Petrol,Manual,1st Owner,329899
+2204,2017,Volkswagen,Polo,Chennai,82331,Petrol,Manual,1st Owner,537099
+2205,2014,Hyundai,i10,Pune,44857,Petrol,Manual,1st Owner,268799
+2206,2013,Hyundai,i20,Chennai,83006,Petrol,Manual,3rd Owner,356999
+2207,2017,Maruti,Celerio,Pune,9140,Petrol,Manual,1st Owner,410599
+2208,2018,Maruti,Swift,Hyderabad,85546,Diesel,Manual,1st Owner,706199
+2209,2019,Maruti,S Cross,Chennai,20110,Diesel,Manual,1st Owner,891799
+2210,2014,Maruti,Ritz,Noida,79654,Diesel,Manual,1st Owner,345499
+2211,2020,Hyundai,VENUE,Ahmedabad,4689,Petrol,Manual,1st Owner,804399
+2212,2014,Maruti,Alto K10,Bengaluru,51984,Petrol,Manual,1st Owner,308999
+2213,2015,Hyundai,Elite i20,Chennai,52909,Petrol,Manual,1st Owner,560199
+2214,2013,Maruti,Swift Dzire,Kolkata,60640,Petrol,Manual,2nd Owner,465399
+2215,2020,Honda,City,New Delhi,1963,Petrol,,1st Owner,1300000
+2216,2014,Maruti,Celerio,Mumbai,15206,Petrol,Manual,1st Owner,355499
+2217,2016,Maruti,Wagon R 1.0,Kolkata,33948,Petrol,Manual,1st Owner,337199
+2218,2014,Maruti,Alto 800,Bengaluru,14455,Petrol,Manual,1st Owner,300099
+2219,2011,Honda,City,Chennai,75872,Petrol,Manual,2nd Owner,364599
+2220,2010,Maruti,Alto K10,Hyderabad,101672,Petrol,Manual,1st Owner,172799
+2221,2015,Honda,City,Pune,129035,Petrol,Manual,1st Owner,578799
+2222,2016,Maruti,Ciaz,Noida,78775,Diesel,Manual,2nd Owner,609899
+2223,2018,Maruti,IGNIS,Chennai,24679,Petrol,Manual,1st Owner,524099
+2224,2017,Hyundai,Elite i20,Ahmedabad,72459,Diesel,Manual,1st Owner,617299
+2225,2017,Hyundai,Elite i20,Hyderabad,87864,Petrol,Manual,2nd Owner,577699
+2226,2016,Maruti,Swift,Pune,81017,Petrol,Manual,2nd Owner,475399
+2227,2011,Maruti,Wagon R 1.0,Chennai,75822,Petrol,Manual,2nd Owner,292299
+2228,2016,Renault,Kwid,Ahmedabad,25570,Petrol,Manual,1st Owner,241399
+2229,2018,Maruti,Swift,New Delhi,22665,Petrol,Manual,1st Owner,580000
+2230,2014,Maruti,Celerio,Bengaluru,13928,Petrol,Automatic,1st Owner,440799
+2231,2016,Maruti,Swift Dzire,Hyderabad,33459,Petrol,Manual,1st Owner,651599
+2232,2016,Volkswagen,Polo,Mumbai,39720,Petrol,Automatic,1st Owner,695000
+2233,2016,Maruti,Swift,New Delhi,74123,Diesel,Manual,1st Owner,465599
+2234,2018,Tata,Tiago,Chennai,12099,Petrol,Manual,1st Owner,484199
+2235,2018,Maruti,Alto 800,Chennai,19805,Petrol,Manual,1st Owner,346799
+2236,2011,Maruti,Ritz,Bengaluru,34804,Petrol,Manual,1st Owner,383899
+2237,2008,Hyundai,i10,Hyderabad,45699,Petrol,Manual,1st Owner,229899
+2238,2018,Maruti,Alto 800,Ahmedabad,22736,Petrol,Manual,1st Owner,302099
+2239,2018,Maruti,Baleno,Bengaluru,31289,Petrol,Manual,1st Owner,586599
+2240,2014,Maruti,Alto 800,Pune,22626,Petrol,Manual,2nd Owner,255299
+2241,2015,Maruti,Alto 800,Pune,19793,Petrol,Manual,1st Owner,275399
+2242,2019,Maruti,Baleno,Hyderabad,12045,Petrol,Manual,1st Owner,753699
+2243,2015,Maruti,Eeco,Chennai,19815,Petrol,Manual,2nd Owner,323599
+2244,2015,Maruti,Alto K10,Chennai,26376,Petrol,Automatic,2nd Owner,333499
+2245,2017,Maruti,Ciaz,Kolkata,41264,Petrol,Manual,1st Owner,604899
+2246,2018,Hyundai,Grand i10,Chennai,19410,Petrol,Manual,1st Owner,487899
+2247,2011,Volkswagen,Vento,Ahmedabad,62428,Diesel,Manual,1st Owner,251000
+2248,2013,Honda,Brio,Chennai,49299,Petrol,Manual,2nd Owner,327199
+2249,2013,Maruti,Wagon R 1.0,Chennai,69153,Petrol,Manual,1st Owner,356399
+2250,2018,Honda,Jazz,Hyderabad,77789,Petrol,Automatic,1st Owner,559899
+2251,2019,Maruti,Celerio,Pune,15008,Petrol + CNG,Manual,1st Owner,518699
+2252,2015,Hyundai,Elite i20,Patna,29621,Petrol,Manual,1st Owner,510899
+2253,2015,Honda,City,Chennai,61592,Petrol,Manual,2nd Owner,571699
+2254,2012,Maruti,Alto,Hyderabad,28434,Petrol,Manual,1st Owner,229799
+2255,2015,Hyundai,i10,Bengaluru,39456,Petrol,Manual,1st Owner,405599
+2256,2020,Maruti,Swift,Pune,15527,Petrol,Manual,1st Owner,627299
+2257,2018,Hyundai,Elite i20,Chennai,33908,Petrol,Manual,1st Owner,582399
+2258,2013,Hyundai,i10,Noida,34095,Petrol,Manual,1st Owner,278699
+2259,2019,Renault,Kwid,Pune,32016,Petrol,Automatic,1st Owner,450799
+2260,2018,Honda,City,Noida,37036,Petrol,Manual,1st Owner,774199
+2261,2016,Maruti,Vitara Brezza,Ahmedabad,49274,Diesel,Manual,1st Owner,762099
+2262,2020,Maruti,Eeco,Ahmedabad,3735,Petrol,Manual,1st Owner,495899
+2263,2019,Maruti,Alto 800,Hyderabad,36984,Petrol,Manual,1st Owner,317699
+2264,2014,Maruti,Alto K10,Noida,42373,Petrol,Manual,2nd Owner,252299
+2265,2019,Maruti,Eeco,Hyderabad,15398,Petrol,Manual,1st Owner,439599
+2266,2018,Tata,Tiago,New Delhi,32270,Petrol,Manual,2nd Owner,391199
+2267,2015,Hyundai,Elite i20,Chennai,47238,Petrol,Manual,2nd Owner,504899
+2268,2014,Maruti,Alto K10,Pune,71926,Petrol,Manual,1st Owner,245599
+2269,2016,Maruti,Ertiga,Pune,43399,Diesel,Manual,1st Owner,706099
+2270,2015,Maruti,Baleno,Noida,79323,Diesel,Manual,1st Owner,422699
+2271,2019,Hyundai,Grand i10,Ahmedabad,12970,Petrol,Manual,1st Owner,563499
+2272,2019,Maruti,Alto K10,Ahmedabad,29272,Petrol,Manual,1st Owner,372699
+2273,2016,Hyundai,Grand i10,Mumbai,39679,Petrol,Manual,1st Owner,443099
+2274,2016,Renault,Kwid,Bengaluru,73627,Petrol,Manual,2nd Owner,355599
+2275,2019,Maruti,Vitara Brezza,New Delhi,24974,Diesel,Manual,1st Owner,758899
+2276,2017,Maruti,Dzire,Pune,38118,Diesel,Automatic,2nd Owner,728399
+2277,2019,Maruti,Eeco,Bengaluru,27918,Petrol,Manual,1st Owner,467299
+2278,2016,Maruti,Baleno,Chennai,29711,Petrol,Manual,1st Owner,617099
+2279,2020,Maruti,Eeco,Ahmedabad,4259,Petrol,Manual,1st Owner,492099
+2280,2015,Maruti,Wagon R 1.0,Bengaluru,77905,Petrol,Manual,1st Owner,376999
+2281,2016,Renault,Kwid,Mumbai,59660,Petrol,Manual,1st Owner,326599
+2282,2018,Maruti,Wagon R 1.0,New Delhi,25823,Petrol,Automatic,2nd Owner,388599
+2283,2017,Maruti,S Cross,Pune,80785,Diesel,Manual,1st Owner,880799
+2284,2017,Maruti,Swift,Bengaluru,21485,Petrol,Manual,1st Owner,617199
+2285,2014,Honda,Amaze,New Delhi,34868,Diesel,Manual,1st Owner,378499
+2286,2018,Hyundai,Verna,Pune,13197,Petrol,Automatic,1st Owner,1145499
+2287,2016,Maruti,Baleno,Pune,41770,Petrol,Manual,1st Owner,588199
+2288,2016,Maruti,Celerio,Bengaluru,74539,Petrol,Automatic,1st Owner,430999
+2289,2018,Maruti,Alto 800,Pune,17517,Petrol,Manual,1st Owner,332299
+2290,2018,Maruti,Wagon R 1.0,Chennai,20945,Petrol,Automatic,1st Owner,501399
+2291,2015,Maruti,Alto 800,Pune,7478,Petrol,Manual,2nd Owner,263599
+2292,2014,Honda,Brio,Bengaluru,53538,Petrol,Manual,2nd Owner,335699
+2293,2013,Maruti,Wagon R 1.0,Chennai,50366,Petrol,Manual,1st Owner,359699
+2294,2018,Maruti,Dzire,Pune,20805,Diesel,Manual,1st Owner,757899
+2295,2020,Maruti,Alto,Ahmedabad,7214,Petrol,Manual,1st Owner,380199
+2296,2015,Maruti,Alto 800,Pune,54832,Petrol,Manual,2nd Owner,245999
+2297,2019,Maruti,Alto 800,Kolkata,11695,Petrol,Manual,1st Owner,320999
+2298,2018,Hyundai,Grand i10,Bengaluru,10962,Petrol,Manual,1st Owner,580999
+2299,2020,Hyundai,VENUE,Ahmedabad,3423,Petrol,Manual,1st Owner,801999
+2300,2014,Hyundai,Verna,Noida,84334,Diesel,Manual,1st Owner,478999
+2301,2014,Honda,Brio,New Delhi,48568,Petrol,Manual,1st Owner,335000
+2302,2017,Maruti,Swift,Bengaluru,13973,Petrol,Manual,1st Owner,551499
+2303,2016,Maruti,Swift,Ahmedabad,80186,Petrol,Manual,1st Owner,483799
+2304,2017,Hyundai,Grand i10,Mumbai,34262,Diesel,Manual,1st Owner,642199
+2305,2017,Maruti,Baleno,Kolkata,14600,Petrol,Automatic,1st Owner,621799
+2306,2017,Hyundai,Verna,Kolkata,10295,Petrol,Manual,1st Owner,798899
+2307,2011,Maruti,Swift,Kolkata,61885,Petrol,Manual,1st Owner,455299
+2308,2017,Maruti,Alto 800,Ahmedabad,79143,Petrol,Manual,1st Owner,272099
+2309,2019,Maruti,Baleno,New Delhi,8624,Petrol,Manual,1st Owner,650499
+2310,2014,Maruti,Alto 800,Noida,5383,Petrol,Manual,1st Owner,285699
+2311,2009,Maruti,Swift,New Delhi,28685,Petrol,Manual,1st Owner,208399
+2312,2012,Maruti,Alto,Chennai,87280,Petrol,Manual,1st Owner,226199
+2313,2015,Maruti,Alto 800,New Delhi,17637,Petrol,Manual,1st Owner,278799
+2314,2011,Hyundai,i10,Noida,85761,Petrol,Manual,1st Owner,207399
+2315,2019,Maruti,Eeco,Chennai,28927,Petrol,Manual,1st Owner,462899
+2316,2016,Tata,Tiago,Hyderabad,126689,Petrol,Manual,2nd Owner,403899
+2317,2012,Honda,Brio,Chennai,53023,Petrol,Manual,1st Owner,355499
+2318,2017,Hyundai,Grand i10,Pune,20910,Petrol,Manual,1st Owner,533299
+2319,2014,Maruti,Ertiga,Ahmedabad,96456,Diesel,Manual,1st Owner,513899
+2320,2016,Hyundai,Creta,Hyderabad,108963,Diesel,Automatic,1st Owner,951099
+2321,2019,Hyundai,NEW SANTRO,Chennai,3243,Petrol,,1st Owner,550099
+2322,2010,Maruti,Wagon R 1.0,Noida,64752,Petrol,Manual,2nd Owner,168899
+2323,2013,Hyundai,i10,Mumbai,38942,Petrol,Automatic,2nd Owner,382599
+2324,2013,Maruti,Swift Dzire,Ahmedabad,200944,Diesel,Manual,1st Owner,250000
+2325,2015,Hyundai,Eon,Hyderabad,38260,Petrol,Manual,1st Owner,305699
+2326,2014,Hyundai,Grand i10,New Delhi,59867,Petrol,Manual,1st Owner,337899
+2327,2018,Maruti,Baleno,New Delhi,16170,Petrol,Manual,1st Owner,556299
+2328,2018,Renault,Kwid,Kolkata,21230,Petrol,Manual,1st Owner,429599
+2329,2016,Maruti,Celerio,Bengaluru,20624,Petrol,Manual,1st Owner,458299
+2330,2016,Honda,Jazz,Kolkata,64000,Petrol,Manual,1st Owner,582199
+2331,2017,Tata,Tiago,Bengaluru,21212,Petrol,Manual,1st Owner,485399
+2332,2017,Maruti,Wagon R 1.0,Hyderabad,42383,Petrol,Manual,2nd Owner,385199
+2333,2016,Hyundai,Grand i10,Bengaluru,29083,Petrol,Manual,1st Owner,502799
+2334,2015,Maruti,Ritz,New Delhi,22091,Diesel,Manual,1st Owner,356299
+2335,2017,Maruti,Celerio,Pune,64277,Petrol,Manual,1st Owner,430899
+2336,2020,Maruti,Baleno,Noida,10042,Petrol,Manual,1st Owner,654899
+2337,2013,Maruti,Swift Dzire,Bengaluru,34022,Petrol,Manual,1st Owner,554499
+2338,2018,Maruti,S Cross,Hyderabad,68278,Diesel,Manual,2nd Owner,880099
+2339,2010,Maruti,Ritz,New Delhi,54953,Petrol,Manual,1st Owner,241099
+2340,2014,Maruti,Wagon R 1.0,Bengaluru,27523,Petrol,Manual,1st Owner,441599
+2341,2018,Maruti,Alto 800,Kolkata,3697,Petrol,Manual,1st Owner,295299
+2342,2015,Maruti,Swift,Bengaluru,63035,Diesel,Manual,1st Owner,547399
+2343,2016,Hyundai,Elite i20,Ahmedabad,152901,Diesel,Manual,1st Owner,542599
+2344,2010,Hyundai,i10,Mumbai,59530,Petrol,Manual,2nd Owner,230000
+2345,2011,Hyundai,i20,Mumbai,48103,Petrol,Manual,1st Owner,314399
+2346,2017,Maruti,Alto K10,Chennai,64909,Petrol,Manual,1st Owner,312799
+2347,2019,Maruti,Vitara Brezza,Pune,4781,Diesel,Manual,1st Owner,851599
+2348,2013,Maruti,Alto 800,Noida,80790,Petrol,Manual,2nd Owner,204399
+2349,2013,Maruti,Wagon R 1.0,Bengaluru,23353,Petrol,Manual,1st Owner,363899
+2350,2017,Hyundai,Eon,Chennai,23727,Petrol,Manual,1st Owner,355199
+2351,2017,Maruti,Baleno,Hyderabad,62516,Petrol,Manual,1st Owner,595699
+2352,2019,Maruti,Alto K10,Noida,25771,Petrol,Manual,1st Owner,376599
+2353,2017,Volkswagen,Polo,Bengaluru,35525,Petrol,Manual,1st Owner,680099
+2354,2015,Hyundai,Elite i20,Chennai,50078,Petrol,Manual,1st Owner,569899
+2355,2016,Maruti,Swift,Ahmedabad,101096,Petrol,Manual,1st Owner,478899
+2356,2014,Maruti,Swift Dzire,Kolkata,49860,Petrol,Manual,1st Owner,500099
+2357,2015,Volkswagen,Polo,Mumbai,23244,Petrol,Manual,1st Owner,394999
+2358,2012,Maruti,Swift,Bengaluru,26847,Diesel,Manual,1st Owner,477899
+2359,2010,Maruti,Swift Dzire,Noida,51329,Petrol,Manual,1st Owner,234199
+2360,2017,Maruti,Wagon R 1.0,Chennai,24080,Petrol,Manual,1st Owner,447899
+2361,2017,Maruti,Eeco,Chennai,21025,Petrol,Manual,1st Owner,398199
+2362,2015,Hyundai,Elite i20,Kolkata,21542,Petrol,Manual,1st Owner,538799
+2363,2013,Maruti,Alto K10,Chennai,16288,Petrol,Manual,2nd Owner,267599
+2364,2017,Renault,Kwid,Pune,17544,Petrol,Manual,1st Owner,288999
+2365,2017,Honda,Jazz,Noida,38754,Petrol,Manual,1st Owner,501599
+2366,2015,Maruti,Swift,Pune,78813,Diesel,Manual,1st Owner,538099
+2367,2016,Hyundai,Creta,Ahmedabad,91754,Diesel,Manual,1st Owner,1010011
+2368,2015,Maruti,Swift,Mumbai,47277,Diesel,Manual,1st Owner,499000
+2369,2018,Hyundai,Verna,Ahmedabad,55150,Diesel,Manual,1st Owner,870000
+2370,2013,Maruti,Swift,Noida,45994,Diesel,Manual,1st Owner,318199
+2371,2015,Hyundai,Grand i10,New Delhi,64259,Diesel,Manual,1st Owner,376099
+2372,2014,Honda,City,Noida,67949,Diesel,Manual,1st Owner,538599
+2373,2017,Maruti,Baleno,Hyderabad,81150,Petrol,Manual,1st Owner,608899
+2374,2014,Maruti,Celerio,Kolkata,33405,Petrol,Manual,1st Owner,365099
+2375,2016,Hyundai,Grand i10,Pune,5844,Petrol,Manual,1st Owner,466999
+2376,2016,Hyundai,Grand i10,Ahmedabad,20970,Petrol,Manual,1st Owner,450000
+2377,2014,Honda,Brio,New Delhi,68437,Petrol,Automatic,2nd Owner,379499
+2378,2016,Maruti,Alto K10,Chennai,49350,Petrol,,3rd Owner,342299
+2379,2017,Maruti,Dzire,Pune,116512,Petrol,Automatic,1st Owner,596599
+2380,2012,Maruti,Alto K10,Hyderabad,80217,Petrol,Manual,1st Owner,241599
+2381,2013,Honda,Brio,Ahmedabad,26678,Petrol,Manual,1st Owner,321799
+2382,2011,Hyundai,i20,New Delhi,63227,Petrol,Manual,3rd Owner,183000
+2383,2017,Hyundai,Grand i10,Pune,33248,Petrol,Automatic,1st Owner,532199
+2384,2014,Maruti,Alto K10,Mumbai,55614,Petrol,Manual,2nd Owner,254799
+2385,2015,Maruti,Swift,Ahmedabad,66664,Petrol,Manual,1st Owner,410999
+2386,2017,Maruti,Celerio,Bengaluru,44983,Petrol,Manual,1st Owner,475799
+2387,2018,Maruti,Baleno,Pune,25115,Petrol,Manual,1st Owner,607799
+2388,2018,Maruti,Baleno,Ahmedabad,32055,Petrol,Manual,1st Owner,565499
+2389,2015,Hyundai,Grand i10,Noida,26307,Petrol,Manual,1st Owner,405999
+2390,2019,Tata,Tiago,Hyderabad,24296,Petrol,,1st Owner,542299
+2391,2018,Maruti,Alto 800,New Delhi,11373,Petrol,Manual,1st Owner,290000
+2392,2018,Maruti,Alto 800,Pune,20224,Petrol,Manual,1st Owner,346699
+2393,2019,Hyundai,NEW SANTRO,Bengaluru,8067,Petrol,Manual,1st Owner,513999
+2394,2018,Hyundai,Verna,Kolkata,14118,Petrol,Manual,1st Owner,790999
+2395,2017,Maruti,Wagon R 1.0,Mumbai,19428,Petrol,Manual,1st Owner,403399
+2396,2016,Maruti,Swift,New Delhi,49938,Diesel,Manual,1st Owner,460099
+2397,2016,Maruti,Alto 800,Hyderabad,58196,Petrol,Manual,1st Owner,300499
+2398,2017,Maruti,Vitara Brezza,Kolkata,45806,Diesel,Manual,1st Owner,684899
+2399,2016,Maruti,Celerio,Bengaluru,58245,Petrol,Automatic,1st Owner,443699
+2400,2018,Tata,Tiago,Hyderabad,23745,Petrol,Manual,1st Owner,437899
+2401,2013,Maruti,Swift Dzire,Noida,62602,Diesel,Manual,1st Owner,333599
+2402,2015,Maruti,Wagon R 1.0,Pune,102809,Petrol,Manual,1st Owner,299999
+2403,2016,Renault,Kwid,Chennai,29112,Petrol,Manual,1st Owner,324799
+2404,2013,Maruti,Ritz,Noida,54316,Diesel,Manual,1st Owner,259299
+2405,2016,Maruti,Wagon R 1.0,Bengaluru,27858,Petrol,Manual,1st Owner,434299
+2406,2016,Maruti,Swift,Chennai,72059,Petrol,Manual,1st Owner,516099
+2407,2015,Maruti,Celerio,Mumbai,7980,Petrol,Automatic,2nd Owner,420000
+2408,2019,Ford,Ecosport,Pune,22773,Petrol,Manual,1st Owner,1027499
+2409,2020,Maruti,Alto,Kolkata,3266,Petrol,Manual,1st Owner,391099
+2410,2013,Maruti,Wagon R 1.0,Chennai,50429,Petrol,Manual,1st Owner,341899
+2411,2012,Honda,City,Mumbai,79836,Petrol,Manual,2nd Owner,398299
+2412,2012,Hyundai,i10,Hyderabad,58357,Petrol,Manual,2nd Owner,317999
+2413,2016,Maruti,Vitara Brezza,New Delhi,29262,Diesel,Manual,1st Owner,650599
+2414,2012,Maruti,Alto K10,Kolkata,36989,Petrol,Manual,1st Owner,228799
+2415,2019,Hyundai,Verna,Chennai,6260,Petrol,Automatic,2nd Owner,1093199
+2416,2019,Maruti,Alto 800,Hyderabad,29700,Petrol,Manual,2nd Owner,329999
+2417,2010,Hyundai,i10,Hyderabad,95704,Petrol,Manual,3rd Owner,250199
+2418,2008,Hyundai,Santro Xing,Hyderabad,84985,Petrol + LPG,Manual,1st Owner,164199
+2419,2015,Maruti,Alto 800,Bengaluru,46146,Petrol,Manual,2nd Owner,284199
