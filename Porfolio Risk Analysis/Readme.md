@@ -1,4 +1,4 @@
-# 📊 Portfolio Risk Analysis
+# Portfolio Risk Analysis
 
 This project performs a **risk analysis of a multi-asset portfolio** using both **historical simulation** and **parametric methods** to estimate **Value at Risk (VaR)** and **Expected Shortfall (ES)**.  
 
@@ -10,7 +10,7 @@ The notebook includes the following steps:
 - **Data Loading and Preparation**  
   - Load stock price data  
   - Calculate daily returns for individual stocks and the overall portfolio  
-
+  
 - **Time Series Analysis**  
   - Check for stationarity using **ADF** and **KPSS** tests  
 
